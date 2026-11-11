@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 10–25 days before the festival; verify dates with 2 sources",
@@ -15,8 +15,10 @@
    "volume": null,
    "sd": null,
    "priority": "P1",
-   "reason": "Festival Sat 21 Nov (verified 25 Oct: hindutone, navbharatlive). Last day inside the 10-day rule; autocomplete 'tulsi vivah ki photo'.",
-   "status": "scheduled"
+   "reason": "Festival Sat 21 Nov (verified 25 Oct: hindutone, navbharatlive). Last day inside the 10-day rule; autocomplete 'tulsi vivah ki photo'. Re-verified 11 Nov: smartpuja, dekhopanchang, bhaktibharat, hindutone all say Sat 21 Nov.",
+   "status": "published",
+   "published_date": "2026-11-11",
+   "url": "https://aiprompthindii.netlify.app/tulsi-vivah-ai-photo-prompts/"
   },
   {
    "date": "2026-11-11",
@@ -27,7 +29,9 @@
    "sd": 18,
    "priority": "P1",
    "reason": "Biggest open cluster: 110k/mo SD 18, plus 'ai photo editing prompts' 22.2k SD 26 (Ubersuggest IN, 10 Nov 2026).",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-11",
+   "url": "https://aiprompthindii.netlify.app/ai-photo-editing-prompts/"
   },
   {
    "date": "2026-11-12",

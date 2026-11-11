@@ -1,0 +1,287 @@
+{
+ "slug": "ai-photo-editing-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-11",
+ "updated": "2026-11-11",
+ "title": "Google Gemini AI Photo Editing Prompts: 21 कॉपी-पेस्ट प्रॉम्प्ट्स (ChatGPT में भी) 2026",
+ "seoTitle": "Google Gemini AI Photo Editing Prompts – 21 Copy Paste (2026)",
+ "description": "Google Gemini AI photo editing prompts हिंदी में — लड़के, लड़की, कपल, बच्चे, बर्थडे, बैकग्राउंड और लाइट ठीक करने के 21 कॉपी-पेस्ट प्रॉम्प्ट्स, ChatGPT में भी।",
+ "keywords": "google gemini ai photo editing prompts, ai photo editing prompts, gemini photo editing prompt, chatgpt photo editing prompt, ai photo editing prompt copy paste, एआई फोटो एडिटिंग प्रॉम्प्ट",
+ "intro": "Google Gemini और ChatGPT में अब सिर्फ एक लाइन लिखकर अपनी फोटो एडिट की जा सकती है — बैकग्राउंड बदलना, रोशनी ठीक करना, कपड़े बदलना या पूरी फोटो को सिनेमैटिक लुक देना। इस पेज पर हमने <b>21 AI photo editing prompts</b> को काम के हिसाब से बाँटा है: फोटो सुधारने वाले, लड़कों, लड़कियों, कपल, बच्चों और बर्थडे के प्रॉम्प्ट्स। हर प्रॉम्प्ट अंग्रेज़ी में है और आख़िर में चेहरा न बदलने वाली लाइन जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-copy-paste",
+  "gemini-ai-photo-prompt-without-changing-face",
+  "gemini-ai-photo-prompt-trending-2026"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Gemini में AI फोटो एडिटिंग कैसे करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Gemini ऐप या gemini.google.com खोलें और अपने Google अकाउंट से लॉगिन करें।",
+    "चैट बॉक्स के <b>+</b> बटन से अपनी फोटो अपलोड करें।",
+    "नीचे से कोई प्रॉम्प्ट कॉपी करें, पेस्ट करें और सेंड करें।",
+    "रिज़ल्ट आने के बाद छोटे बदलाव अलग मैसेज में लिखें, जैसे <i>make the background slightly darker</i>।",
+    "फोटो पसंद आए तो डाउनलोड बटन से सेव करें।"
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "ChatGPT में कैसे करें"
+  },
+  {
+   "type": "p",
+   "html": "ChatGPT ऐप में भी यही तरीका है: फोटो अटैच करें, प्रॉम्प्ट पेस्ट करें और सेंड करें। आमतौर पर Gemini चेहरा ज़्यादा करीब रखता है और ChatGPT का स्टाइल ज़्यादा आर्टिस्टिक होता है, इसलिए दोनों में आज़माकर देखें। ChatGPT शुरू करने का पूरा तरीका हमारी <a href='/chatgpt-kaise-use-kare/'>ChatGPT गाइड</a> में है।"
+  },
+  {
+   "type": "note",
+   "title": "चेहरा न बदले, इसके लिए",
+   "html": "हर प्रॉम्प्ट के आख़िर में <i>Keep the face exactly identical to the uploaded photo.</i> जुड़ा है — इसे न हटाएं। साफ़, सामने से ली गई फोटो इस्तेमाल करें। पूरी गाइड: <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले AI फोटो कैसे बनाएं</a>।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "html": "सिर्फ अपनी फोटो या उन लोगों की फोटो एडिट करें जिनकी अनुमति हो। किसी असली व्यक्ति की नकली या गुमराह करने वाली तस्वीर बनाना गलत है और कानूनी मुसीबत में डाल सकता है।"
+  },
+  {
+   "type": "h2",
+   "id": "basic-editing",
+   "text": "फोटो सुधारने वाले बेसिक एडिटिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "रोशनी और रंग ठीक करें",
+   "for": "All",
+   "text": "Edit this photo to fix the lighting and colours: brighten the face naturally, balance the white tones, reduce harsh shadows, and make the colours look rich but realistic, like a professional photo edit. Do not change the background, pose or clothes. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बैकग्राउंड बदलें (स्टूडियो)",
+   "for": "All",
+   "text": "Replace the background of this photo with a clean, soft grey professional studio backdrop with gentle gradient lighting. Keep the person, pose, hair and clothes exactly the same, with natural edges and matching light on the body. Keep the face exactly identical to the uploaded photo.",
+   "tip": "दूसरे बैकग्राउंड के लिए 'soft grey studio backdrop' की जगह 'beach at sunset' या 'mountain view' लिखें।"
+  },
+  {
+   "type": "prompt",
+   "title": "भीड़ हटाकर साफ़ बैकग्राउंड",
+   "for": "All",
+   "text": "Remove all other people and distracting objects from the background of this photo and fill the area naturally so the scene looks clean and empty. Keep the main person, pose and clothes unchanged. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लर बैकग्राउंड (DSLR लुक)",
+   "for": "All",
+   "text": "Give this photo a DSLR portrait look: keep the person sharp and add a smooth, creamy background blur (shallow depth of field, 85mm lens style) with soft bokeh lights. Natural skin texture, no heavy smoothing. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सिनेमैटिक कलर ग्रेड",
+   "for": "All",
+   "text": "Apply a cinematic colour grade to this photo with teal shadows and warm skin tones, slight film grain and gentle contrast, like a movie still. Keep the composition, pose and clothes the same. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पासपोर्ट/प्रोफाइल फोटो",
+   "for": "All",
+   "text": "Turn this photo into a clean professional profile photo: plain white background, head and shoulders centred, even soft front lighting, neat appearance, wearing a dark formal blazer over the current outfit. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "boys",
+   "text": "लड़कों के लिए AI फोटो एडिटिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "अटीट्यूड स्ट्रीट लुक",
+   "for": "Boy",
+   "text": "Edit this photo so the man stands on a city street at night with neon shop signs and light rain reflections on the road. He wears a black leather jacket, white t-shirt and dark jeans, confident attitude pose, cinematic moody lighting, realistic 4K photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सूट में फॉर्मल पोर्ट्रेट",
+   "for": "Boy",
+   "text": "Transform this photo into a premium formal portrait of the man wearing a tailored navy blue suit with a white shirt, standing in a modern office lobby with glass walls. Soft window light, sharp details, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों में ट्रैवल फोटो",
+   "for": "Boy",
+   "text": "Place the man from this photo on a mountain viewpoint with snowy peaks and clouds behind him, wearing a puffer jacket and backpack, looking at the camera with a relaxed smile. Golden morning light, realistic travel photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "girls",
+   "text": "लड़कियों के लिए AI फोटो एडिटिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "साड़ी में गोल्डन आवर",
+   "for": "Girl",
+   "text": "Edit this photo so the woman wears an elegant pastel pink chiffon saree with a light sleeveless blouse, standing in a field of tall grass during golden hour. Hair gently blowing, soft warm backlight, dreamy realistic photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "वेस्टर्न कैफ़े लुक",
+   "for": "Girl",
+   "text": "Place the woman from this photo in a cosy aesthetic cafe, sitting by a large window with a cup of coffee, wearing a beige knit sweater and gold hoop earrings. Soft natural window light, warm tones, Instagram aesthetic, realistic photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रेट्रो पोलरॉइड",
+   "for": "Girl",
+   "text": "Turn this photo into a 90s retro polaroid-style picture of the woman wearing a vintage polka dot dress, with faded warm colours, light film grain, a soft flash look and a white polaroid border. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple",
+   "text": "कपल फोटो एडिटिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "बीच पर सनसेट",
+   "for": "Couple",
+   "text": "Edit this photo of the couple so they stand barefoot on a beach at sunset, holding hands and smiling at each other. The woman wears a flowing white dress, the man a light linen shirt. Orange and pink sky, gentle waves, romantic realistic photo. Keep the faces of both people exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश में छाता",
+   "for": "Couple",
+   "text": "Show the couple from this photo sharing one transparent umbrella on a rainy city street at night, warm street lights reflecting on wet roads, cosy jackets, happy expressions, cinematic realistic photography. Keep the faces of both people exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पारंपरिक वेडिंग लुक",
+   "for": "Couple",
+   "text": "Transform the couple from this photo into a traditional Indian wedding portrait: the woman in a red bridal lehenga with gold jewellery, the man in an ivory sherwani with a safa, standing under a marigold-decorated mandap. Warm festive lighting, realistic 4K photo. Keep the faces of both people exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "kids-birthday",
+   "text": "बच्चों और बर्थडे के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "बच्चे का फेयरीटेल पोर्ट्रेट",
+   "for": "Kids",
+   "text": "Edit this photo of the child into a magical storybook scene in a sunny flower garden with butterflies and soft sparkles in the air, wearing a cute pastel outfit. Bright cheerful colours, soft light, realistic but dreamy look. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बर्थडे सेलिब्रेशन",
+   "for": "All",
+   "text": "Create a birthday celebration photo of the person from this photo standing behind a two-tier chocolate cake with lit candles, colourful balloons and a 'Happy Birthday' banner in the background. Party lights, confetti in the air, joyful expression, realistic photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "फैमिली फोटो सुधारें",
+   "for": "Family",
+   "text": "Improve this family photo: fix the lighting so every face is evenly lit, make the colours warm and natural, sharpen details, and replace the background with a beautiful garden at golden hour. Keep everyone's pose and clothes the same. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative",
+   "text": "क्रिएटिव और ट्रेंडिंग स्टाइल"
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लैक एंड व्हाइट क्लासिक",
+   "for": "All",
+   "text": "Convert this photo into a dramatic black and white portrait with deep contrast, soft side lighting and fine film grain, like a classic studio photograph. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ऑयल पेंटिंग",
+   "for": "All",
+   "text": "Transform this photo into a realistic oil painting with visible brush strokes, rich warm colours and a dark textured background, like a museum portrait. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून कैरेक्टर",
+   "for": "All",
+   "text": "Turn the person from this photo into a cute 3D animated cartoon character with big expressive eyes and smooth stylised textures, standing in a colourful room, with the same hairstyle and outfit colours. Keep the face shape and features recognisably identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "apna-prompt",
+   "text": "अपना AI फोटो एडिटिंग प्रॉम्प्ट कैसे लिखें"
+  },
+  {
+   "type": "p",
+   "html": "किसी भी अच्छे फोटो एडिटिंग प्रॉम्प्ट में पाँच हिस्से होते हैं। इन्हें इसी क्रम में लिखें तो Gemini और ChatGPT दोनों बेहतर समझते हैं:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "हिस्सा",
+    "क्या लिखें",
+    "उदाहरण"
+   ],
+   "rows": [
+    [
+     "काम",
+     "क्या बदलना है",
+     "Replace the background…"
+    ],
+    [
+     "सीन",
+     "जगह और माहौल",
+     "on a beach at sunset"
+    ],
+    [
+     "कपड़े/लुक",
+     "आउटफिट, रंग",
+     "wearing a white linen shirt"
+    ],
+    [
+     "रोशनी/स्टाइल",
+     "लाइट, कैमरा, मूड",
+     "golden hour, cinematic, 4K"
+    ],
+    [
+     "सुरक्षा लाइन",
+     "क्या न बदले",
+     "Keep the face exactly identical…"
+    ]
+   ]
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>एक बार में एक बड़ा बदलाव:</b> पहले बैकग्राउंड, फिर कपड़े — इससे चेहरा कम बिगड़ता है।",
+    "<b>अंग्रेज़ी में लिखें:</b> Gemini हिंदी समझता है, पर इमेज प्रॉम्प्ट अंग्रेज़ी में ज़्यादा सटीक चलते हैं।",
+    "<b>नई चैट:</b> बार-बार एडिट करने से क्वालिटी गिरे तो नई चैट में ओरिजिनल फोटो से शुरू करें।",
+    "<b>टेक्स्ट कम रखें:</b> AI इमेज में लंबा टेक्स्ट अक्सर गलत लिखता है।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "और प्रॉम्प्ट्स चाहिए? <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini कॉपी-पेस्ट प्रॉम्प्ट्स</a>, <a href='/gemini-ai-photo-prompt-for-boy/'>लड़कों के प्रॉम्प्ट्स</a>, <a href='/gemini-ai-photo-prompt-couple/'>कपल प्रॉम्प्ट्स</a>, <a href='/gemini-ai-photo-prompt-instagram-aesthetic/'>Instagram aesthetic</a> और <a href='/gemini-ai-photo-prompt-trending-2026/'>ट्रेंडिंग 2026</a> पेज देखें। त्योहार के लिए <a href='/tulsi-vivah-ai-photo-prompts/'>तुलसी विवाह प्रॉम्प्ट्स</a> भी हैं।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Google Gemini में AI फोटो एडिटिंग फ्री है?",
+   "a": "Gemini ऐप में फोटो अपलोड करके प्रॉम्प्ट से एडिटिंग बिना पैसे दिए शुरू की जा सकती है, लेकिन रोज़ की लिमिट और फीचर अकाउंट व देश के हिसाब से बदलते हैं। ताज़ा जानकारी ऐप में ही देखें।"
+  },
+  {
+   "q": "क्या ये AI photo editing prompts ChatGPT में भी चलेंगे?",
+   "a": "हाँ। ChatGPT में फोटो अटैच करके वही प्रॉम्प्ट पेस्ट करें। रिज़ल्ट का स्टाइल थोड़ा अलग हो सकता है।"
+  },
+  {
+   "q": "एडिट के बाद मेरा चेहरा अलग क्यों दिखता है?",
+   "a": "धुंधली या साइड से ली गई फोटो, या एक साथ बहुत सारे बदलाव मांगने से चेहरा बदलता है। साफ़ फोटो लें, एक बार में एक बदलाव मांगें और आख़िरी फेस लाइन न हटाएं।"
+  },
+  {
+   "q": "क्या मैं किसी और की फोटो एडिट कर सकता हूँ?",
+   "a": "सिर्फ उनकी अनुमति से, और ऐसी तस्वीर न बनाएं जो किसी को गुमराह करे या उनकी छवि खराब करे। असली लोगों की नकली तस्वीरें बनाना गलत है।"
+  },
+  {
+   "q": "AI फोटो में हिंदी टेक्स्ट कैसे लिखें?",
+   "a": "AI अक्सर देवनागरी गलत लिखता है। बेहतर है कि इमेज बनने के बाद किसी फोटो एडिटर ऐप में टेक्स्ट जोड़ें।"
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "slug": "dev-diwali-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-12",
+ "updated": "2026-11-12",
+ "title": "Dev Diwali AI Photo Prompt 2026: देव दीपावली के 15 Gemini प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Dev Diwali AI Photo Prompt 2026 – 15 Gemini Copy Paste",
+ "description": "Dev Diwali AI photo prompt 2026 (24 नवंबर) — बनारस के घाट, दीयों की कतार, गंगा आरती, नाव और ग्रीटिंग इमेज के 15 Gemini कॉपी-पेस्ट प्रॉम्प्ट्स हिंदी में।",
+ "keywords": "dev diwali ai photo prompt, dev deepawali ai photo, dev diwali gemini prompt, varanasi ghat ai photo prompt, kartik purnima ai photo, देव दीपावली फोटो प्रॉम्प्ट",
+ "intro": "देव दीपावली 2026 में <b>मंगलवार, 24 नवंबर</b> को है — कार्तिक पूर्णिमा के दिन, जब वाराणसी के घाट लाखों दीयों से जगमगाते हैं। माना जाता है कि इस दिन देवता धरती पर दिवाली मनाने आते हैं। अपनी फोटो को घाट की सीढ़ियों, गंगा आरती और दीयों की रोशनी वाली तस्वीर में बदलने के लिए नीचे दिए 15 प्रॉम्प्ट्स कॉपी करें।",
+ "related": [
+  "diwali-ai-photo-prompts",
+  "tulsi-vivah-ai-photo-prompts",
+  "gemini-ai-photo-prompt-saree"
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "head": [
+    "जानकारी",
+    "2026"
+   ],
+   "rows": [
+    [
+     "देव दीपावली",
+     "मंगलवार, 24 नवंबर"
+    ],
+    [
+     "तिथि",
+     "कार्तिक पूर्णिमा"
+    ],
+    [
+     "मुख्य जगह",
+     "वाराणसी (काशी) के गंगा घाट"
+    ],
+    [
+     "दीपदान का समय",
+     "शाम (प्रदोष काल) — अपने शहर के पंचांग से मिलाएं"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "title": "तारीख कैसे जाँची",
+   "html": "The Divine India, Ajmer Astro और Hindu Tone — तीनों 2026 में देव दीपावली / कार्तिक पूर्णिमा 24 नवंबर (मंगलवार) बताते हैं। पूर्णिमा तिथि के शुरू और खत्म होने का समय शहर के हिसाब से थोड़ा बदलता है, इसलिए दीपदान का मुहूर्त अपने स्थानीय पंचांग से देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "देव दीपावली AI फोटो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Gemini या ChatGPT ऐप खोलें और अपनी साफ़, सामने से ली गई फोटो अपलोड करें।",
+    "नीचे से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "कपल या फैमिली प्रॉम्प्ट के लिए ऐसी फोटो चुनें जिसमें सबके चेहरे साफ़ दिखें।",
+    "कपड़ों का रंग बदलना हो तो सिर्फ वही शब्द बदलें, जैसे <i>yellow saree</i> की जगह <i>maroon saree</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "html": "सिर्फ अपनी या परिवार की फोटो, उनकी अनुमति से इस्तेमाल करें। किसी दूसरे व्यक्ति की नकली तस्वीर न बनाएं। चेहरा बदल रहा हो तो हमारी <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले फोटो गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "ghat-prompts",
+   "text": "घाट और दीयों वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "घाट की सीढ़ियों पर दीये",
+   "for": "Girl",
+   "text": "Create a Dev Deepawali portrait of the woman from this photo sitting on the stone steps of a Varanasi ghat at dusk, surrounded by hundreds of lit clay diyas arranged in rows along every step. She wears a yellow silk saree with a red border and holds a diya in her cupped hands. The Ganga river reflects the lights behind her, deep blue evening sky, warm golden glow on her face, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गंगा में दीपदान",
+   "for": "Girl",
+   "text": "Show the woman from this photo standing at the edge of the Ganga on a Varanasi ghat, gently releasing a leaf-boat diya with marigold petals onto the water. She wears a white and gold Kerala-style saree, hair in a bun with jasmine flowers. Dozens of floating diyas drift on the river, temple spires and lit ghats in the background, soft evening light, realistic photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दीयों की कतार के बीच",
+   "for": "Boy",
+   "text": "Create a portrait of the man from this photo walking down a long ghat staircase lined with lit diyas on both sides, wearing a cream kurta with a maroon shawl over his shoulders. Old temples and buildings of Varanasi glow behind him, light mist over the river, cinematic warm lighting, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दीया जलाते हुए क्लोज़-अप",
+   "for": "All",
+   "text": "Close-up portrait of the person from this photo lighting a row of clay diyas with a small cotton wick lamp on a ghat step. The diya flames light up the face from below, background of blurred golden lights and the dark river, shallow depth of field, realistic festive photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "घाट पर ट्रेडिशनल लुक",
+   "for": "Boy",
+   "text": "Portrait of the man from this photo sitting cross-legged on a Varanasi ghat with a brass puja thali in front of him holding diyas, flowers and incense. He wears a saffron kurta and white dhoti with a tilak on his forehead. Hundreds of diyas glow along the ghat, boats on the river behind, warm evening light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "aarti-boat",
+   "text": "गंगा आरती और नाव वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "नाव से देव दीपावली",
+   "for": "Girl",
+   "text": "Show the woman from this photo sitting in a wooden boat on the Ganga at night, looking towards the ghats that are lit with thousands of diyas. She wears a pink Banarasi saree and a light shawl, one hand resting on the side of the boat. The lights reflect on the water, a few other boats with lanterns nearby, realistic night photography with soft glow. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गंगा आरती देखते हुए",
+   "for": "All",
+   "text": "Create a photo of the person from this photo standing in a crowd on a Varanasi ghat watching the evening Ganga aarti, hands folded in prayer. Priests in saffron robes hold large brass aarti lamps in the background, smoke from incense and flames, golden light, devotional mood, realistic 4K photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "नाव पर दीया लिए",
+   "for": "Boy",
+   "text": "Portrait of the man from this photo standing in a wooden boat on the Ganga holding a lit diya in one hand, wearing a white kurta and a light brown Nehru jacket. Behind him the ghats glow with endless rows of diyas and colourful lights, calm water reflections, cinematic night photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "आतिशबाज़ी और घाट",
+   "for": "All",
+   "text": "Wide shot of the person from this photo sitting on a ghat step at night, looking up at fireworks over the Ganga during Dev Deepawali. Diyas glow on every step, reflections on the river, the person wears festive Indian clothes, warm and colourful light, realistic photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple-family",
+   "text": "कपल और फैमिली प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "कपल दीपदान",
+   "for": "Couple",
+   "text": "Create a romantic Dev Deepawali photo of the couple from this photo sitting together on a Varanasi ghat step, both holding one diya between their hands. She wears a red saree, he wears a cream kurta with a shawl. Rows of diyas around them, the lit river and temples behind, warm golden glow, realistic 4K photography. Keep both faces exactly identical to the uploaded photo, without changing any facial features.",
+   "tip": "कपल फोटो में दोनों के चेहरे बराबर रोशनी में हों तो नतीजा बेहतर आता है।"
+  },
+  {
+   "type": "prompt",
+   "title": "कपल नाव में",
+   "for": "Couple",
+   "text": "Show the couple from this photo sitting side by side in a decorated wooden boat on the Ganga at night, marigold garlands on the boat, small lanterns hanging. The ghats behind them glow with thousands of diyas. Traditional festive clothes, gentle smiles, realistic night photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "परिवार के साथ दीये",
+   "for": "Family",
+   "text": "Create a family photo of the people from this photo arranging and lighting diyas together on the steps of a ghat at dusk. Everyone wears traditional Indian clothes, children hold small diyas, the river and lit ghats in the background, warm happy mood, realistic photography. Keep all faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "greeting-images",
+   "text": "ग्रीटिंग इमेज प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "Happy Dev Deepawali कार्ड",
+   "for": "All",
+   "text": "Create a festive greeting card with the person from this photo in the lower right corner, smiling and holding a diya. The background shows Varanasi ghats glowing with rows of diyas and the Ganga reflecting the lights. Elegant golden text at the top: 'Happy Dev Deepawali 2026'. Clean layout, space for a name at the bottom, 4:5 ratio for Instagram. Keep the face exactly identical to the uploaded photo.",
+   "tip": "AI कभी-कभी हिंदी अक्षर गलत बनाता है, इसलिए टेक्स्ट रोमन में रखा है। हिंदी लिखना हो तो इमेज बनने के बाद फोटो एडिटर में जोड़ें।"
+  },
+  {
+   "type": "prompt",
+   "title": "WhatsApp स्टेटस (9:16)",
+   "for": "All",
+   "text": "Vertical 9:16 image of the person from this photo standing on a ghat at night with a lit diya, thousands of diyas on the steps below and the river glowing behind. Leave empty space at the top for text. Soft golden bokeh, realistic photo, suitable for a WhatsApp or Instagram story. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कार्तिक पूर्णिमा चाँद",
+   "for": "All",
+   "text": "Portrait of the person from this photo on a Varanasi ghat under a large full moon on Kartik Purnima night, holding a brass diya. The moonlight and diya glow mix on the face, rows of diyas on the steps, silver reflections on the Ganga, serene and devotional mood, realistic 4K photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बेहतर नतीजे के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "फोटो में चेहरा सामने से, अच्छी रोशनी में और बिना फिल्टर के हो — इससे चेहरा कम बदलता है।",
+    "<i>Varanasi ghat</i>, <i>rows of diyas</i> और <i>Ganga</i> — ये तीन शब्द प्रॉम्प्ट में रहें तो तस्वीर देव दीपावली जैसी लगती है।",
+    "रात की फोटो में चेहरा अंधेरा आए तो प्रॉम्प्ट में <i>warm light on the face</i> जोड़ दें।",
+    "धार्मिक प्रतीकों और मंदिरों का सम्मान रखें; देवी-देवताओं को मज़ाकिया अंदाज़ में न दिखाएं।",
+    "पोस्ट करने के लिए 4:5 (Instagram) या 9:16 (स्टेटस) रेशियो प्रॉम्प्ट में लिख दें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "इसी दिन गुरु नानक जयंती भी है — उसके लिए हमारे <a href='/guru-nanak-jayanti-ai-photo-prompts/'>गुरु नानक जयंती प्रॉम्प्ट्स</a> देखें। कार्तिक के बाकी त्योहारों के लिए <a href='/tulsi-vivah-ai-photo-prompts/'>तुलसी विवाह प्रॉम्प्ट्स</a> और <a href='/diwali-ai-photo-prompts/'>दिवाली प्रॉम्प्ट्स</a>, और पारंपरिक लुक के लिए <a href='/gemini-ai-photo-prompt-saree/'>साड़ी प्रॉम्प्ट्स</a> देखें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "देव दीपावली 2026 कब है?",
+   "a": "देव दीपावली 2026 में मंगलवार, 24 नवंबर को है, कार्तिक पूर्णिमा के दिन। मुख्य उत्सव वाराणसी के गंगा घाटों पर शाम को होता है।"
+  },
+  {
+   "q": "देव दीपावली की AI फोटो किस ऐप में बनाएं?",
+   "a": "Google Gemini या ChatGPT में अपनी फोटो अपलोड करें और इस पेज से प्रॉम्प्ट कॉपी-पेस्ट करें। दोनों ऐप फोटो एडिटिंग प्रॉम्प्ट समझते हैं।"
+  },
+  {
+   "q": "AI फोटो में मेरा चेहरा बदल जाता है, क्या करें?",
+   "a": "साफ़, सामने से ली गई फोटो इस्तेमाल करें और प्रॉम्प्ट के आख़िर वाली फेस लाइन न हटाएं। फिर भी बदले तो नई चैट में दोबारा कोशिश करें।"
+  },
+  {
+   "q": "देव दीपावली और दिवाली में क्या फ़र्क है?",
+   "a": "दिवाली कार्तिक अमावस्या को मनाई जाती है, जबकि देव दीपावली उसके करीब 15 दिन बाद कार्तिक पूर्णिमा को। देव दीपावली खास तौर पर वाराणसी में घाटों पर दीये जलाकर मनाई जाती है।"
+  }
+ ]
+}

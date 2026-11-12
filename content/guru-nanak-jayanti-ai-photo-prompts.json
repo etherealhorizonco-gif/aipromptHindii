@@ -1,0 +1,210 @@
+{
+ "slug": "guru-nanak-jayanti-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-12",
+ "updated": "2026-11-12",
+ "title": "Guru Nanak Jayanti AI Photo Prompt 2026: गुरपुरब के 14 Gemini प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Guru Nanak Jayanti AI Photo Prompt 2026 – 14 Gemini Prompts",
+ "description": "Guru Nanak Jayanti AI photo prompt 2026 (24 नवंबर) — गुरुद्वारा, दीये, लंगर सेवा, नगर कीर्तन और गुरपुरब ग्रीटिंग इमेज के 14 Gemini कॉपी-पेस्ट प्रॉम्प्ट्स।",
+ "keywords": "guru nanak jayanti ai photo prompt, guru nanak jayanti ai photo, guru nanak jayanti ki photo, gurpurab ai photo prompt, gurpurab gemini prompt, गुरु नानक जयंती फोटो प्रॉम्प्ट",
+ "intro": "गुरु नानक जयंती (प्रकाश पर्व / गुरपुरब) 2026 में <b>मंगलवार, 24 नवंबर</b> को है — कार्तिक पूर्णिमा के दिन। इस दिन गुरुद्वारों में अखंड पाठ, कीर्तन, लंगर और दीपमाला होती है। अपनी फोटो को गुरुद्वारे की रोशनी, लंगर सेवा या गुरपुरब ग्रीटिंग वाली तस्वीर में बदलने के लिए नीचे दिए 14 प्रॉम्प्ट्स कॉपी करें।",
+ "related": [
+  "dev-diwali-ai-photo-prompts",
+  "gemini-ai-photo-prompt-for-boy",
+  "gemini-ai-photo-prompt-couple"
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "head": [
+    "जानकारी",
+    "2026"
+   ],
+   "rows": [
+    [
+     "गुरु नानक जयंती (गुरपुरब)",
+     "मंगलवार, 24 नवंबर"
+    ],
+    [
+     "तिथि",
+     "कार्तिक पूर्णिमा"
+    ],
+    [
+     "सरकारी छुट्टी",
+     "हाँ — केंद्र सरकार की 2026 की छुट्टियों की सूची में 24 नवंबर"
+    ],
+    [
+     "प्रकाश पर्व",
+     "गुरु नानक देव जी का 557वाँ प्रकाश पर्व"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "title": "तारीख कैसे जाँची",
+   "html": "केंद्र सरकार की 2026 की छुट्टियों की सूची (GConnect पर प्रकाशित), Angel One और Bhakti Bharat — तीनों गुरु नानक जयंती 24 नवंबर 2026 (मंगलवार) बताते हैं। कुछ वेबसाइट 25 नवंबर लिखती हैं, इसलिए अपने गुरुद्वारे का कार्यक्रम भी देख लें।"
+  },
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "गुरपुरब AI फोटो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Gemini या ChatGPT ऐप खोलें और अपनी साफ़, सामने से ली गई फोटो अपलोड करें।",
+    "नीचे से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "कपल या फैमिली प्रॉम्प्ट के लिए ऐसी फोटो चुनें जिसमें सबके चेहरे साफ़ दिखें।",
+    "पगड़ी या दुपट्टे का रंग बदलना हो तो सिर्फ वही शब्द बदलें, जैसे <i>saffron turban</i> की जगह <i>navy blue turban</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "सम्मान का ध्यान रखें",
+   "html": "इन प्रॉम्प्ट्स में गुरु नानक देव जी की तस्वीर AI से नहीं बनाई गई है — कई सिख श्रद्धालु इसे उचित नहीं मानते। हर प्रॉम्प्ट में सिर ढका हुआ है, जैसा गुरुद्वारे में ज़रूरी है। सिर्फ अपनी या परिवार की फोटो, उनकी अनुमति से इस्तेमाल करें। चेहरा बदल रहा हो तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले फोटो गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "gurdwara-prompts",
+   "text": "गुरुद्वारा और दीपमाला वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "रोशनी से सजा गुरुद्वारा",
+   "for": "Boy",
+   "text": "Create a Gurpurab portrait of the man from this photo standing in the courtyard of a white marble gurdwara decorated with strings of warm lights and rows of diyas at night. He wears a saffron turban, a white kurta pyjama and a navy blue jacket, hands folded respectfully. Soft golden light, reflections on the marble floor, peaceful devotional mood, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दुपट्टा ओढ़े, दीये जलाते हुए",
+   "for": "Girl",
+   "text": "Portrait of the woman from this photo with her head covered by a light pink chiffon dupatta, lighting diyas on the marble steps of a gurdwara on Guru Nanak Jayanti night. She wears a pastel salwar suit, warm diya glow on her face, decorative lights in the background, serene mood, realistic photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सरोवर के किनारे",
+   "for": "All",
+   "text": "Show the person from this photo, with head respectfully covered, sitting calmly beside the sarovar (holy pool) of a gurdwara at night, the illuminated gurdwara building reflected in the water. Strings of lights and diyas around the edge, peaceful atmosphere, realistic 4K night photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "अमृतसर की रोशनी",
+   "for": "All",
+   "text": "Create a photo of the person from this photo, head covered with an orange scarf, standing on the parikrama walkway of the Golden Temple in Amritsar at night during Gurpurab, the gold-plated shrine glowing and reflected in the sarovar behind. Festive lights, devotional atmosphere, realistic photography. Keep the face exactly identical to the uploaded photo.",
+   "tip": "असली जगह पर खड़े होने जैसा दिखेगा, इसलिए कैप्शन में लिखें कि यह AI इमेज है।"
+  },
+  {
+   "type": "h2",
+   "id": "seva-kirtan",
+   "text": "लंगर सेवा और नगर कीर्तन वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "लंगर सेवा",
+   "for": "Boy",
+   "text": "Show the man from this photo doing langar seva in a large gurdwara community kitchen, serving dal and roti to people sitting in rows on the floor. He wears a blue turban and a simple white kurta, with a cloth around his waist. Warm natural light, steam from big brass pots, joyful and humble mood, realistic documentary-style photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रोटी बनाते हुए सेवा",
+   "for": "Girl",
+   "text": "Portrait of the woman from this photo, head covered with a yellow dupatta, rolling rotis with other volunteers in a gurdwara langar hall. Flour on her hands, large tawa in the background, warm light, smiling face, realistic documentary-style photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "नगर कीर्तन",
+   "for": "All",
+   "text": "Create a photo of the person from this photo, head covered with a saffron patka or scarf, walking in a Gurpurab nagar kirtan procession on a decorated city street. Flower petals in the air, saffron flags, people with folded hands on both sides, festive daylight, realistic 4K photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कीर्तन सुनते हुए",
+   "for": "All",
+   "text": "Portrait of the person from this photo, head covered, sitting cross-legged on a carpet inside a gurdwara hall, eyes gently closed while listening to kirtan. Soft light from chandeliers, flowers around, calm and spiritual mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple-family",
+   "text": "कपल और फैमिली प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "कपल गुरुद्वारे में",
+   "for": "Couple",
+   "text": "Create a Gurpurab photo of the couple from this photo standing together in a gurdwara courtyard decorated with lights at night. He wears a maroon turban and a cream kurta, she wears a peach salwar suit with her head covered by a dupatta, both with hands folded. Rows of diyas on the steps, warm golden glow, realistic 4K photography. Keep both faces exactly identical to the uploaded photo, without changing any facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "परिवार के साथ दीपमाला",
+   "for": "Family",
+   "text": "Create a family photo of the people from this photo, all with heads covered, lighting diyas together on the steps of a gurdwara on Guru Nanak Jayanti night. Children hold small candles, everyone in festive traditional clothes, decorative lights in the background, happy peaceful mood, realistic photography. Keep all faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पिता-पुत्र सेवा",
+   "for": "Family",
+   "text": "Show the father and son from this photo serving water together in a gurdwara langar hall, both wearing turbans (the boy a patka), smiling at each other. Warm light, rows of people sitting on the floor in the background, realistic documentary-style photo. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "greeting-images",
+   "text": "गुरपुरब ग्रीटिंग इमेज प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "Happy Gurpurab कार्ड",
+   "for": "All",
+   "text": "Create a festive greeting card with the person from this photo, head covered, in the lower right corner with hands folded. The background shows an illuminated gurdwara at night with diyas and soft golden bokeh. Elegant text at the top: 'Happy Gurpurab 2026'. Clean layout with space for a name at the bottom, 4:5 ratio for Instagram. Keep the face exactly identical to the uploaded photo.",
+   "tip": "AI कभी-कभी गुरमुखी या हिंदी अक्षर गलत बनाता है, इसलिए टेक्स्ट रोमन में रखा है।"
+  },
+  {
+   "type": "prompt",
+   "title": "WhatsApp स्टेटस (9:16)",
+   "for": "All",
+   "text": "Vertical 9:16 image of the person from this photo, head covered, holding a lit diya in front of an illuminated gurdwara at night. Leave empty space at the top for text, warm golden bokeh lights, realistic photo, suitable for a WhatsApp or Instagram story. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कार्तिक पूर्णिमा की रात",
+   "for": "All",
+   "text": "Portrait of the person from this photo, head covered with a white scarf, standing beside a gurdwara sarovar under a full moon on Kartik Purnima night, holding a small diya. Moonlight and diya glow on the face, silver reflections on the water, calm devotional mood, realistic 4K photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बेहतर नतीजे के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "फोटो में चेहरा सामने से, अच्छी रोशनी में और बिना फिल्टर के हो — इससे चेहरा कम बदलता है।",
+    "पगड़ी वाले पुरुषों के लिए ऐसी फोटो चुनें जिसमें पगड़ी पूरी दिख रही हो, ताकि AI उसका आकार न बिगाड़े।",
+    "प्रॉम्प्ट से <i>head covered</i> वाला हिस्सा न हटाएं — गुरुद्वारे में सिर ढकना ज़रूरी है।",
+    "गुरु साहिबान की तस्वीर या गुरु ग्रंथ साहिब जी को AI इमेज में न बनवाएं।",
+    "पोस्ट करते समय कैप्शन में लिखें कि यह AI से बनी तस्वीर है।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "इसी दिन देव दीपावली भी है — उसके लिए हमारे <a href='/dev-diwali-ai-photo-prompts/'>देव दीपावली प्रॉम्प्ट्स</a> देखें। लड़कों के लिए और स्टाइल <a href='/gemini-ai-photo-prompt-for-boy/'>बॉय फोटो प्रॉम्प्ट्स</a> में और कपल के लिए <a href='/gemini-ai-photo-prompt-couple/'>कपल प्रॉम्प्ट्स</a> में मिलेंगे।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "गुरु नानक जयंती 2026 कब है?",
+   "a": "गुरु नानक जयंती (गुरपुरब) 2026 में मंगलवार, 24 नवंबर को है, कार्तिक पूर्णिमा के दिन। केंद्र सरकार की 2026 की छुट्टियों की सूची में भी यही तारीख है।"
+  },
+  {
+   "q": "गुरपुरब की AI फोटो किस ऐप में बनाएं?",
+   "a": "Google Gemini या ChatGPT में अपनी फोटो अपलोड करें और इस पेज से प्रॉम्प्ट कॉपी-पेस्ट करें।"
+  },
+  {
+   "q": "क्या AI से गुरु नानक देव जी की तस्वीर बनानी चाहिए?",
+   "a": "हम इसकी सलाह नहीं देते। कई सिख श्रद्धालु गुरु साहिबान की काल्पनिक तस्वीरें उचित नहीं मानते, इसलिए इस पेज के प्रॉम्प्ट सिर्फ आपकी अपनी फोटो को गुरुद्वारे, सेवा या ग्रीटिंग वाले माहौल में दिखाते हैं।"
+  },
+  {
+   "q": "AI फोटो में पगड़ी या चेहरा बदल जाता है, क्या करें?",
+   "a": "ऐसी साफ़ फोटो लें जिसमें चेहरा और पगड़ी पूरी दिखे, और प्रॉम्प्ट के आख़िर वाली फेस लाइन न हटाएं। फिर भी बदले तो नई चैट में दोबारा कोशिश करें।"
+  }
+ ]
+}

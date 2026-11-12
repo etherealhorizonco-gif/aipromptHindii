@@ -33,10 +33,10 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [x] tulsi-vivah-ai-photo-prompts — (2026-11-11; date re-verified: smartpuja, dekhopanchang, bhaktibharat, hindutone) Tulsi Vivah Sat 21 Nov (23 days ahead); start of wedding season
   - [ ] gemini-ai-photo-prompt-family — father-son, mother-son, brother-sister, dad-daughter (all autocomplete variants)
 - Fri 30 Oct
-  - [ ] dev-diwali-ai-photo-prompts — Dev Diwali Tue 24 Nov (25 days ahead); ghat diya, Varanasi
+  - [x] dev-diwali-ai-photo-prompts — Dev Diwali Tue 24 Nov (25 days ahead); ghat diya, Varanasi
   - [ ] nano-banana-prompt-hindi — "nano banana ai photo editing prompts"
 - Sat 31 Oct
-  - [ ] guru-nanak-jayanti-ai-photo-prompts — Gurpurab Tue 24 Nov (24 days ahead); greeting images ("guru nanak jayanti ki photo")
+  - [x] guru-nanak-jayanti-ai-photo-prompts — Gurpurab Tue 24 Nov (24 days ahead); greeting images ("guru nanak jayanti ki photo")
   - [ ] photo-se-ai-video-kaise-banaye — "photo se ai video kaise banaye (free)"
 - Sun 1 Nov
   - [ ] gemini-ai-photo-prompt-retro-vintage — "retro style vintage" 880/mo SD 8; 90s, black and white, polaroid
@@ -112,3 +112,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-10-25: +2 posts (diwali-wishes-ai-image-prompts, gemini-ai-photo-prompt-instagram-aesthetic); fixes: Diwali page → wishes page link, Gemini copy-paste hub and for-boy page → Instagram aesthetic link. Diwali (8 Nov, 14 days) was the only festival in the 10–25 day window without a greeting-image page; Karwa Chauth (29 Oct) skipped by the 10-day rule. Ubersuggest autocomplete shows demand for 'diwali ai photo prompt boy/girl/couple'. Netlify connector needs re-auth; GSC still not connected.
 - 2026-10-26: +2 posts (diwali-ai-video-kaise-banaye, gemini-ai-photo-prompt-trending-2026); fixes: AI video guide → Diwali video link, Diwali photo page → Diwali video link, Gemini copy-paste hub → trending 2026 link. Lighthouse (local, mobile): home 97/100/100/100, both new posts 100/100/100/100. Netlify connector needs re-auth (deploy verified via live URL check); GSC still not connected.
 - 2026-11-11: +2 posts (tulsi-vivah-ai-photo-prompts, ai-photo-editing-prompts); links: Govardhan page → Tulsi Vivah, Gemini copy-paste hub → photo editing pillar. Tulsi Vivah Sat 21 Nov (10 days ahead, inside the rule's limit). GSC still not connected.
+- 2026-11-12: +2 posts (dev-diwali-ai-photo-prompts, guru-nanak-jayanti-ai-photo-prompts); link: Tulsi Vivah page → both. Both festivals Tue 24 Nov (12 days ahead), re-verified with 3 sources each; Guru Nanak prompts avoid depicting the Guru and keep heads covered. GSC still not connected.

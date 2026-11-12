@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 10–25 days before the festival; verify dates with 2 sources",
@@ -41,8 +41,10 @@
    "volume": null,
    "sd": null,
    "priority": "P1",
-   "reason": "Festival Tue 24 Nov (verified: hindutone, drikpanchang). 12 days ahead.",
-   "status": "scheduled"
+   "reason": "Festival Tue 24 Nov (verified: hindutone, drikpanchang). 12 days ahead. Re-verified 12 Nov: thedivineindia, ajmerastro, hindutone all say Tue 24 Nov.",
+   "status": "published",
+   "published_date": "2026-11-12",
+   "url": "https://aiprompthindii.netlify.app/dev-diwali-ai-photo-prompts/"
   },
   {
    "date": "2026-11-12",
@@ -52,8 +54,10 @@
    "volume": null,
    "sd": null,
    "priority": "P1",
-   "reason": "Gurpurab Tue 24 Nov (verified: hindutone, zingbus). Autocomplete 'guru nanak jayanti ki photo'.",
-   "status": "scheduled"
+   "reason": "Gurpurab Tue 24 Nov (verified: hindutone, zingbus). Autocomplete 'guru nanak jayanti ki photo'. Re-verified 12 Nov: central govt holiday list 2026 (gconnect), angelone, bhaktibharat all say Tue 24 Nov (one hindutone page says 25 Nov).",
+   "status": "published",
+   "published_date": "2026-11-12",
+   "url": "https://aiprompthindii.netlify.app/guru-nanak-jayanti-ai-photo-prompts/"
   },
   {
    "date": "2026-11-13",

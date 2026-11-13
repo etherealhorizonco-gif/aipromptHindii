@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 10–25 days before the festival; verify dates with 2 sources",
@@ -68,7 +68,9 @@
    "sd": 17,
    "priority": "P1",
    "reason": "22.2k/mo SD 17, low difficulty; +1k 'ai tool hindi', 720 'free' (Ubersuggest IN, 10 Nov 2026).",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-13",
+   "url": "https://aiprompthindii.netlify.app/ai-se-ppt-kaise-banaye/"
   },
   {
    "date": "2026-11-13",
@@ -79,7 +81,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Many autocomplete variants: girl trending 2026, girl saree look, girl instagram (Ubersuggest IN, 10 Nov 2026). Pairs with existing for-boy page.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-13",
+   "url": "https://aiprompthindii.netlify.app/gemini-ai-photo-prompt-for-girl/"
   },
   {
    "date": "2026-11-14",

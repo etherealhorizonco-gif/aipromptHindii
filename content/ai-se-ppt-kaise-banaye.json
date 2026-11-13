@@ -1,0 +1,189 @@
+{
+  "slug": "ai-se-ppt-kaise-banaye",
+  "category": "ai-tools",
+  "date": "2026-11-13",
+  "title": "AI Se PPT Kaise Banaye: फ्री AI टूल्स से मिनटों में प्रेजेंटेशन (2026 गाइड)",
+  "seoTitle": "AI Se PPT Kaise Banaye? फ्री टूल्स से Step by Step गाइड 2026",
+  "description": "AI se PPT kaise banaye — ChatGPT, Gemini, Gamma, Canva और Google Slides से फ्री में प्रेजेंटेशन बनाने का स्टेप-बाय-स्टेप तरीका, कॉपी-पेस्ट प्रॉम्प्ट्स के साथ।",
+  "keywords": "ai se ppt kaise banaye, ai se ppt kaise banaye free, ppt banane wala ai tool, chatgpt se ppt kaise banaye, gemini se ppt kaise banaye, ai presentation maker hindi",
+  "intro": "स्कूल प्रोजेक्ट, कॉलेज सेमिनार या ऑफिस मीटिंग — PPT बनाने में घंटों लगते हैं। अब AI टूल्स की मदद से आप टॉपिक लिखकर कुछ ही मिनटों में स्लाइड्स का पूरा ड्राफ्ट बना सकते हैं। इस गाइड में <b>AI se PPT kaise banaye</b> यह आसान हिंदी में, स्टेप-बाय-स्टेप और कॉपी-पेस्ट प्रॉम्प्ट्स के साथ समझिए।",
+  "related": [
+    "free-ai-tools-list-hindi",
+    "chatgpt-kaise-use-kare",
+    "ai-se-paise-kaise-kamaye"
+  ],
+  "blocks": [
+    {
+      "type": "h2",
+      "id": "kaise-kaam-karta-hai",
+      "text": "AI से PPT बनाना कैसे काम करता है?"
+    },
+    {
+      "type": "p",
+      "html": "AI प्रेजेंटेशन टूल आपके लिखे टॉपिक या नोट्स को पढ़कर स्लाइड्स का ढांचा (आउटलाइन), हर स्लाइड का टेक्स्ट और कई बार डिज़ाइन व इमेज भी सुझा देता है। आपका काम बस सही जानकारी देना, ड्राफ्ट चेक करना और अपने हिसाब से सुधारना है। याद रखें — AI पहला ड्राफ्ट देता है, आख़िरी PPT आपकी ज़िम्मेदारी है।"
+    },
+    {
+      "type": "p",
+      "html": "मोटे तौर पर दो तरीके हैं: <b>(1)</b> ऐसा टूल जो सीधे स्लाइड्स बना दे, जैसे Gamma, Canva या Google Slides में Gemini; <b>(2)</b> ChatGPT या Gemini से कंटेंट और आउटलाइन लिखवाकर उसे PowerPoint या Google Slides में डालना। दूसरा तरीका पूरी तरह फ्री और हर फोन पर चलता है।"
+    },
+    {
+      "type": "h2",
+      "id": "tools",
+      "text": "PPT बनाने वाले AI टूल्स (तुलना)"
+    },
+    {
+      "type": "table",
+      "head": [
+        "टूल",
+        "क्या करता है",
+        "किसके लिए ठीक"
+      ],
+      "rows": [
+        [
+          "ChatGPT / Gemini",
+          "आउटलाइन, स्लाइड-वाइज़ टेक्स्ट, स्पीकर नोट्स लिखता है",
+          "हर किसी के लिए — फ्री वर्ज़न काफ़ी"
+        ],
+        [
+          "Gamma",
+          "टॉपिक से पूरी डिज़ाइन की हुई प्रेजेंटेशन बनाता है",
+          "जल्दी तैयार, सुंदर स्लाइड्स चाहिए"
+        ],
+        [
+          "Canva",
+          "AI से प्रेजेंटेशन ड्राफ्ट + हज़ारों टेम्पलेट",
+          "डिज़ाइन पर कंट्रोल चाहिए"
+        ],
+        [
+          "Google Slides (Gemini)",
+          "Slides के अंदर स्लाइड और इमेज बनाने में मदद",
+          "Google अकाउंट वाले स्टूडेंट्स/ऑफिस"
+        ],
+        [
+          "PowerPoint Designer",
+          "आपकी स्लाइड के लिए डिज़ाइन आइडिया सुझाता है",
+          "जो पहले से PowerPoint चलाते हैं"
+        ]
+      ]
+    },
+    {
+      "type": "note",
+      "tone": "warn",
+      "title": "फ्री लिमिट",
+      "html": "ज़्यादातर टूल्स में फ्री प्लान होता है लेकिन उसकी लिमिट (क्रेडिट, स्लाइड्स की संख्या, एक्सपोर्ट) समय-समय पर बदलती रहती है और हर अकाउंट में हर फीचर नहीं दिखता। इस्तेमाल से पहले टूल की वेबसाइट पर मौजूदा लिमिट देख लें।"
+    },
+    {
+      "type": "h2",
+      "id": "chatgpt-se-ppt",
+      "text": "तरीका 1: ChatGPT या Gemini से PPT कैसे बनाएं (पूरी तरह फ्री)"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<b>ChatGPT</b> या <b>Gemini</b> ऐप खोलें। नए हैं तो पहले हमारी <a href='/chatgpt-kaise-use-kare/'>ChatGPT कैसे इस्तेमाल करें गाइड</a> देख लें।",
+        "नीचे दिया <b>आउटलाइन प्रॉम्प्ट</b> कॉपी करें, उसमें अपना टॉपिक, क्लास/ऑडियंस और स्लाइड्स की संख्या बदलें।",
+        "AI हर स्लाइड का टाइटल, 3–5 पॉइंट और स्पीकर नोट्स देगा। जो पॉइंट गलत या अधूरे लगें, उन्हें सुधारने को कहें।",
+        "PowerPoint, Google Slides या WPS Office खोलें, कोई साफ़ टेम्पलेट चुनें और हर स्लाइड में टाइटल व पॉइंट पेस्ट करें।",
+        "PowerPoint में <b>Designer</b> (Design Ideas) या Google Slides की थीम से लुक सुधारें, फिर अपनी फोटो/चार्ट जोड़ें।",
+        "आख़िर में सभी तथ्य, आंकड़े और तारीखें किताब या भरोसेमंद वेबसाइट से मिलाएं।"
+      ]
+    },
+    {
+      "type": "prompt",
+      "title": "PPT आउटलाइन प्रॉम्प्ट",
+      "for": "ChatGPT / Gemini",
+      "text": "Create a 10-slide presentation outline on the topic \"[YOUR TOPIC]\" for [class 10 students / college seminar / office meeting]. For each slide give: a short title, 3 to 5 bullet points in simple Hindi, and 2 lines of speaker notes. Slide 1 is the title slide and the last slide is a conclusion with a thank-you line. Do not invent statistics; if a number is needed, write [ADD SOURCE].",
+      "tip": "स्लाइड्स अंग्रेज़ी में चाहिए तो 'in simple Hindi' की जगह 'in simple English' लिखें।"
+    },
+    {
+      "type": "prompt",
+      "title": "नोट्स से PPT प्रॉम्प्ट",
+      "for": "ChatGPT / Gemini",
+      "text": "Here are my notes: [PASTE YOUR NOTES]. Turn them into a 8-slide presentation. Keep each bullet under 12 words, suggest one simple image or icon idea for every slide, and add a one-line summary at the end of each slide. Use only the information in my notes.",
+      "tip": "अपने नोट्स या चैप्टर की फोटो भी अपलोड कर सकते हैं — AI उसी से स्लाइड्स बनाएगा।"
+    },
+    {
+      "type": "prompt",
+      "title": "स्पीकर नोट्स प्रॉम्प्ट",
+      "for": "ChatGPT / Gemini",
+      "text": "Write natural speaker notes in Hindi for this slide so I can speak for about 1 minute: [PASTE SLIDE TITLE AND POINTS]. Use simple spoken language, one example, and a smooth line that leads to the next slide."
+    },
+    {
+      "type": "h2",
+      "id": "gamma-se-ppt",
+      "text": "तरीका 2: Gamma से डिज़ाइन वाली PPT"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "ब्राउज़र में <b>gamma.app</b> खोलें और Google अकाउंट से साइन-अप करें।",
+        "<b>Create new</b> → <b>Generate</b> चुनें और अपना टॉपिक लिखें, जैसे <i>'प्रदूषण के कारण और समाधान, 8 स्लाइड, कक्षा 9 के लिए'</i>।",
+        "AI पहले आउटलाइन दिखाता है — यहीं स्लाइड्स जोड़ें, हटाएं या क्रम बदलें, फिर थीम चुनकर जनरेट करें।",
+        "हर स्लाइड पर क्लिक करके टेक्स्ट और इमेज बदलें।",
+        "एक्सपोर्ट विकल्प से PPT या PDF डाउनलोड करें (फ्री प्लान में कौन-से विकल्प खुले हैं, यह अकाउंट पर निर्भर है)।"
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "canva-google-slides",
+      "text": "तरीका 3: Canva और Google Slides में AI"
+    },
+    {
+      "type": "p",
+      "html": "<b>Canva</b> में Presentation सर्च करें, AI वाले विकल्प में टॉपिक लिखें या कोई टेम्पलेट चुनकर ChatGPT से लिखवाया टेक्स्ट डालें। Canva का फायदा है कि आइकन, फोटो और एनिमेशन एक ही जगह मिल जाते हैं और फाइल PPTX में भी डाउनलोड होती है।"
+    },
+    {
+      "type": "p",
+      "html": "<b>Google Slides</b> में कुछ अकाउंट्स पर Gemini का पैनल दिखता है, जिससे स्लाइड, टेक्स्ट और इमेज बनाने में मदद मिलती है। यह विकल्प न दिखे तो तरीका 1 अपनाएं — नतीजा लगभग वैसा ही मिलेगा। स्लाइड्स के लिए अपनी इमेज बनानी हो तो हमारे <a href='/ai-photo-editing-prompts/'>AI फोटो एडिटिंग प्रॉम्प्ट्स</a> से आइडिया ले सकते हैं।"
+    },
+    {
+      "type": "h2",
+      "id": "achhi-ppt-tips",
+      "text": "अच्छी PPT के 7 नियम"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<b>एक स्लाइड, एक बात:</b> हर स्लाइड पर एक ही आइडिया रखें।",
+        "<b>कम शब्द:</b> 3–5 पॉइंट, हर पॉइंट एक लाइन में; पूरा पैराग्राफ स्पीकर नोट्स में लिखें।",
+        "<b>बड़ा फॉन्ट:</b> टाइटल 32+ और टेक्स्ट 20+ साइज़ रखें ताकि पीछे बैठे लोग पढ़ सकें।",
+        "<b>2–3 रंग:</b> पूरी PPT में एक जैसी थीम और रंग इस्तेमाल करें।",
+        "<b>तस्वीर और चार्ट:</b> आंकड़ों को टेबल या चार्ट में दिखाएं, लंबी लिस्ट में नहीं।",
+        "<b>तथ्य जांचें:</b> AI कभी-कभी गलत आंकड़े या नाम लिख देता है — हर नंबर का स्रोत देखें।",
+        "<b>प्रैक्टिस:</b> स्लाइड्स के साथ एक बार बोलकर देखें और समय नापें।"
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "galtiyan",
+      "text": "इन गलतियों से बचें"
+    },
+    {
+      "type": "p",
+      "html": "AI से बनी PPT को बिना पढ़े जमा न करें — टीचर और बॉस अक्सर एक जैसी दिखने वाली, बिना स्रोत की स्लाइड्स पहचान लेते हैं। प्रोजेक्ट में अपनी भाषा, अपने उदाहरण और अपनी क्लास/कंपनी से जुड़ी बातें ज़रूर जोड़ें। इंटरनेट से ली गई फोटो का स्रोत लिखें, और निजी या ऑफिस की गोपनीय जानकारी किसी AI टूल में न डालें।"
+    },
+    {
+      "type": "note",
+      "title": "आगे क्या सीखें",
+      "html": "PPT के अलावा भी काम के फ्री टूल्स देखने के लिए हमारी <a href='/free-ai-tools-list-hindi/'>फ्री AI टूल्स लिस्ट</a> पढ़ें, और प्रेजेंटेशन को वीडियो बनाना हो तो <a href='/ai-video-kaise-banaye/'>AI वीडियो कैसे बनाएं</a> गाइड देखें।"
+    }
+  ],
+  "faq": [
+    {
+      "q": "AI se PPT kaise banaye free में?",
+      "a": "ChatGPT या Gemini के फ्री वर्ज़न से आउटलाइन और स्लाइड-वाइज़ टेक्स्ट लिखवाएं, फिर Google Slides, PowerPoint या WPS Office में किसी टेम्पलेट पर पेस्ट करें। यह तरीका पूरी तरह फ्री है।"
+    },
+    {
+      "q": "क्या मोबाइल से AI PPT बना सकते हैं?",
+      "a": "हाँ। ChatGPT/Gemini ऐप से कंटेंट लिखवाएं और Google Slides, Canva या PowerPoint के मोबाइल ऐप में स्लाइड्स बनाएं। Gamma ब्राउज़र में भी खुलता है।"
+    },
+    {
+      "q": "क्या AI हिंदी में PPT बना सकता है?",
+      "a": "हाँ, प्रॉम्प्ट में 'in simple Hindi' लिखें। ChatGPT और Gemini हिंदी में अच्छा टेक्स्ट देते हैं; डिज़ाइन टूल में हिंदी फॉन्ट ठीक दिखे, यह एक बार ज़रूर चेक करें।"
+    },
+    {
+      "q": "AI से बनी PPT स्कूल प्रोजेक्ट में जमा कर सकते हैं?",
+      "a": "AI को मदद के लिए इस्तेमाल करें, लेकिन तथ्य जांचें और अपनी भाषा व उदाहरण जोड़ें। कई स्कूल-कॉलेज AI इस्तेमाल के अपने नियम रखते हैं, इसलिए टीचर से पूछ लें।"
+    }
+  ]
+}

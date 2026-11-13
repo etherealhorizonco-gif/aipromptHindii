@@ -28,7 +28,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [ ] gemini-ai-photo-prompt-background-change — background change prompts
 - Wed 28 Oct
   - [ ] chhath-puja-ai-video-kaise-banaye — Chhath 15 Nov (18 days ahead); link the Chhath photo page
-  - [ ] gemini-ai-photo-prompt-for-girl — "copy paste trending girl 2026", women saree/western look
+  - [x] gemini-ai-photo-prompt-for-girl — (2026-11-13) "copy paste trending girl 2026", women saree/western look
 - Thu 29 Oct
   - [x] tulsi-vivah-ai-photo-prompts — (2026-11-11; date re-verified: smartpuja, dekhopanchang, bhaktibharat, hindutone) Tulsi Vivah Sat 21 Nov (23 days ahead); start of wedding season
   - [ ] gemini-ai-photo-prompt-family — father-son, mother-son, brother-sister, dad-daughter (all autocomplete variants)
@@ -49,7 +49,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 ## Week 3 (5–11 Nov)
 - [x] childrens-day-ai-photo-prompts — 14 Nov (verified: drikpanchang, Wikipedia; Saturday) (2026-10-23)
 - [ ] birthday-ai-photo-prompts
-- [ ] ai-se-ppt-kaise-banaye
+- [x] ai-se-ppt-kaise-banaye (2026-11-13)
 - [ ] text-se-ai-video-kaise-banaye
 
 ## Week 4 (12–18 Nov)
@@ -113,3 +113,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-10-26: +2 posts (diwali-ai-video-kaise-banaye, gemini-ai-photo-prompt-trending-2026); fixes: AI video guide → Diwali video link, Diwali photo page → Diwali video link, Gemini copy-paste hub → trending 2026 link. Lighthouse (local, mobile): home 97/100/100/100, both new posts 100/100/100/100. Netlify connector needs re-auth (deploy verified via live URL check); GSC still not connected.
 - 2026-11-11: +2 posts (tulsi-vivah-ai-photo-prompts, ai-photo-editing-prompts); links: Govardhan page → Tulsi Vivah, Gemini copy-paste hub → photo editing pillar. Tulsi Vivah Sat 21 Nov (10 days ahead, inside the rule's limit). GSC still not connected.
 - 2026-11-12: +2 posts (dev-diwali-ai-photo-prompts, guru-nanak-jayanti-ai-photo-prompts); link: Tulsi Vivah page → both. Both festivals Tue 24 Nov (12 days ahead), re-verified with 3 sources each; Guru Nanak prompts avoid depicting the Guru and keep heads covered. GSC still not connected.
+- 2026-11-13: +2 posts (ai-se-ppt-kaise-banaye, gemini-ai-photo-prompt-for-girl); links: free AI tools list → PPT guide, for-boy page → for-girl page. No festival dates involved; tool limits described without prices. GSC still not connected.

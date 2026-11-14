@@ -1,0 +1,26 @@
+{
+  "slug": "{{SLUG}}",
+  "category": "ai-photo-prompts",
+  "date": "2026-01-01",
+  "trend": true,
+  "title": "{{NAME}} AI Photo Prompt: TODO वायरल ट्रेंड के कॉपी-पेस्ट प्रॉम्प्ट्स (2026)",
+  "seoTitle": "{{NAME}} AI Photo Prompt – Gemini Copy Paste (TODO)",
+  "description": "{{NAME}} AI photo prompt — TODO: 120–160 अक्षरों में बताएं कि ट्रेंड क्या है और पेज पर कितने कॉपी-पेस्ट प्रॉम्प्ट्स हैं।",
+  "keywords": "",
+  "intro": "TODO: 2–3 लाइन — यह ट्रेंड क्या है, कहाँ वायरल है (Instagram/Reels), और नीचे कितने प्रॉम्प्ट्स हैं। हर प्रॉम्प्ट में चेहरा न बदलने वाली लाइन जुड़ी है।",
+  "related": ["gemini-ai-photo-prompt-trending-2026", "gemini-ai-photo-prompt-copy-paste", "gemini-ai-photo-prompt-without-changing-face"],
+  "blocks": [
+    { "type": "h2", "id": "kaise-use-kare", "text": "{{NAME}} फोटो कैसे बनाएं" },
+    { "type": "ol", "items": ["<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर जाएं।", "अपनी एक साफ़ फोटो अपलोड करें जिसमें चेहरा सामने से दिखे।", "नीचे से प्रॉम्प्ट <b>कॉपी</b> करें, पेस्ट करें और सेंड करें।"] },
+    { "type": "h2", "id": "prompts", "text": "{{NAME}} प्रॉम्प्ट्स" },
+    { "type": "prompt", "title": "TODO पहला लुक", "for": "All", "text": "TODO English prompt describing the trend look. Keep the face exactly identical to the uploaded photo." },
+    { "type": "prompt", "title": "TODO दूसरा लुक", "for": "Girl", "text": "TODO English prompt. Keep the face exactly identical to the uploaded photo." },
+    { "type": "prompt", "title": "TODO तीसरा लुक", "for": "Boy", "text": "TODO English prompt. Keep the face exactly identical to the uploaded photo." },
+    { "type": "prompt", "title": "TODO कपल", "for": "Couple", "text": "TODO English prompt. Keep every face exactly identical to the uploaded photo." },
+    { "type": "note", "html": "चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें।" }
+  ],
+  "faq": [
+    { "q": "{{NAME}} AI photo कैसे बनाएं?", "a": "Gemini में अपनी फोटो अपलोड करें, इस पेज से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।" },
+    { "q": "क्या ये प्रॉम्प्ट्स फ्री हैं?", "a": "हाँ, सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं। इमेज की लिमिट आपके AI ऐप पर निर्भर करती है।" }
+  ]
+}

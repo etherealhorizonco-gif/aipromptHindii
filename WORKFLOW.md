@@ -19,6 +19,16 @@ Three gates protect the live site: the local check before pushing, the GitHub Ac
 2. Run `scripts/publish.sh "Add: <slug>"`. It builds, runs the check, commits and pushes to `main`. If the check fails, nothing is pushed.
 3. Netlify builds automatically. The site updates in about a minute.
 
+## Fast path: a new AI photo trend (live in 24–48 h)
+1. Spot the trend (Instagram Reels, Google Trends "Rising", Ubersuggest autocomplete).
+2. `node scripts/new-trend.js <slug> "<Trend name>" "keyword 1, keyword 2"` → creates `content/<slug>.json` dated today with `"trend": true`.
+3. Replace every `TODO` (title, description, intro, 6–12 prompts ending in the face line). `check.js` refuses to publish while any `TODO` is left.
+4. `scripts/publish.sh "Trend: <slug>"`. The page appears with a 🔥 badge at the top of the home page and `/prompts/`.
+5. When the trend fades (2–4 weeks), delete `"trend": true`; the page stays in the normal gallery.
+
+## Seasonal pages
+Publish festival pages 3–5 weeks before the date (never later than 10 days). Christmas and New Year 2027 were written on 14 Nov and go live from 15 Nov.
+
 ## Review before going live (optional)
 - `scripts/publish.sh "Draft: <slug>" --branch draft/<slug>` pushes to a branch.
 - Open a pull request on GitHub → Netlify posts a **deploy preview** link on the PR.

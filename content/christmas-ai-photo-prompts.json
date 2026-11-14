@@ -1,0 +1,199 @@
+{
+ "slug": "christmas-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-15",
+ "title": "Christmas AI Photo Prompts 2026: क्रिसमस के 16 Gemini प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Christmas AI Photo Prompts 2026 – 16 Gemini Copy Paste",
+ "description": "Christmas AI photo prompts 2026 — सांता हैट, क्रिसमस ट्री, स्नो, कपल, फैमिली और ग्रीटिंग पोस्टर के 16 Gemini प्रॉम्प्ट्स। एक टैप में कॉपी करें, चेहरा वही रहे।",
+ "keywords": "christmas ai photo prompts, christmas ai photo prompt, gemini christmas photo prompt, christmas ai photo editing prompt, santa ai photo prompt, merry christmas ai photo, क्रिसमस AI फोटो प्रॉम्प्ट",
+ "intro": "क्रिसमस हर साल <b>25 दिसंबर</b> को मनाया जाता है, और 2026 में यह <b>शुक्रवार</b> को है। अपनी फोटो को सांता हैट, सजे हुए क्रिसमस ट्री, बर्फ़ वाली रात या कपल-फैमिली क्रिसमस पोर्ट्रेट में बदलने के लिए नीचे दिए <b>16 कॉपी-पेस्ट प्रॉम्प्ट्स</b> इस्तेमाल करें। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "new-year-2027-ai-photo-prompts",
+  "gemini-ai-photo-prompt-couple",
+  "gemini-ai-photo-prompt-family"
+ ],
+ "blocks": [
+  {
+   "type": "table",
+   "head": [
+    "जानकारी",
+    "2026"
+   ],
+   "rows": [
+    [
+     "क्रिसमस (Christmas)",
+     "शुक्रवार, 25 दिसंबर"
+    ],
+    [
+     "क्रिसमस ईव",
+     "गुरुवार, 24 दिसंबर"
+    ],
+    [
+     "सबसे ज़्यादा खोजे जाने वाले लुक",
+     "सांता हैट, क्रिसमस ट्री, स्नो, रेड-ग्रीन आउटफ़िट"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Christmas AI photo कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर लॉगिन करें। ChatGPT या दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "<b>+</b> से अपनी एक साफ़ फोटो अपलोड करें जिसमें चेहरा सामने से दिखे।",
+    "नीचे से प्रॉम्प्ट <b>कॉपी</b> करें, पेस्ट करें और सेंड करें।",
+    "रंग या बैकग्राउंड बदलना हो तो छोटा निर्देश लिखें, जैसे <i>'make the sweater green'</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "html": "चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें। फोटो का साइज़ कम करना हो तो हमारा <a href='/tools/photo-size-kam-kare/'>फ्री फोटो साइज़ टूल</a> इस्तेमाल करें।"
+  },
+  {
+   "type": "h2",
+   "id": "solo",
+   "text": "सोलो क्रिसमस पोर्ट्रेट"
+  },
+  {
+   "type": "prompt",
+   "title": "सांता हैट और क्रिसमस ट्री",
+   "for": "All",
+   "text": "Create a cosy Christmas portrait of the person from this photo wearing a red Santa hat and a knitted red-and-white sweater, standing next to a tall decorated Christmas tree with warm fairy lights, gold baubles and wrapped gifts. Soft warm light, gentle background blur, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्नोफ़ॉल नाइट",
+   "for": "All",
+   "text": "Show the person from this photo standing on a snowy street at night wearing a long camel coat and a red scarf, snowflakes falling around, glowing Christmas lights on the shop windows behind. Cinematic winter mood, soft bokeh, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रेड गाउन क्रिसमस",
+   "for": "Girl",
+   "text": "Transform this photo into an elegant Christmas portrait of the woman in a deep red velvet gown, standing beside a fireplace decorated with stockings, pine garlands and candles. Warm golden light, festive luxury mood, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लैक सूट और गिफ्ट बॉक्स",
+   "for": "Boy",
+   "text": "Show the man from this photo in a black suit with a dark green tie, holding a large red gift box with a gold ribbon, standing in front of a decorated Christmas tree with warm lights. Confident smile, festive evening mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "हॉट चॉकलेट विंडो सीन",
+   "for": "All",
+   "text": "Create a cosy portrait of the person from this photo sitting by a frosted window in a cream knitted sweater, holding a mug of hot chocolate with marshmallows, Christmas lights and snow visible outside. Soft warm indoor light, calm happy mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सांता क्लॉज़ लुक",
+   "for": "All",
+   "text": "Show the person from this photo dressed as Santa Claus in a red suit with white fur trim and a black belt, holding a sack of gifts in a snowy village with a wooden sleigh behind. Cheerful expression, magical festive light, realistic photography. Do not add a beard over the face. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple-family",
+   "text": "कपल और फैमिली क्रिसमस प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "कपल ट्री डेकोरेशन",
+   "for": "Couple",
+   "text": "Show the couple from this photo decorating a Christmas tree together in a cosy living room, one placing a star on top while the other hands over a bauble, both in matching red sweaters, laughing. Warm fairy lights, candid realistic photography. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मिस्टलटो के नीचे",
+   "for": "Couple",
+   "text": "Create a romantic Christmas portrait of the couple from this photo standing close under a mistletoe in a doorway decorated with pine garlands and warm lights, wearing winter outfits in green and cream. Soft cinematic light, realistic photography. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मैचिंग पजामा फैमिली",
+   "for": "Family",
+   "text": "Show the family from this photo in matching red-and-green Christmas pajamas sitting together in front of a decorated tree with gifts, everyone smiling, warm fairy lights and a fireplace in the background. Candid cosy family photo, realistic 4K. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गिफ्ट खोलते बच्चे",
+   "for": "Kids",
+   "text": "Show the child from this photo opening a big gift box on Christmas morning beside a decorated tree, wearing a cute reindeer sweater, delighted surprised expression, soft morning light, realistic photography. Keep the child's face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative",
+   "text": "क्रिएटिव और ग्रीटिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "Merry Christmas पोस्टर",
+   "for": "All",
+   "text": "Create a premium 'Merry Christmas' greeting poster with the person from this photo smiling in the lower half, surrounded by a pine wreath, red berries, gold stars and soft snow. Elegant typography at the top, red, green and gold palette, high-quality design. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्नो ग्लोब में",
+   "for": "All",
+   "text": "Place the person from this photo inside a glass snow globe as a tiny figure standing in a snowy village with a little Christmas tree, the globe resting on a wooden table with fairy lights around. Magical miniature style, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून क्रिसमस",
+   "for": "All",
+   "text": "Turn the person from this photo into a cute 3D animated-movie style character wearing a Santa hat and a cosy sweater, holding a gingerbread cookie next to a sparkling Christmas tree. Vibrant colours, soft studio lighting, high detail render. Keep the character's face recognisable as the person in the photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "चर्च और कैंडल लाइट",
+   "for": "All",
+   "text": "Show the person from this photo standing outside a beautifully lit church on Christmas Eve, holding a small lit candle, wearing a warm winter coat, star lights and a decorated tree in the courtyard. Peaceful reverent mood, soft golden light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों में क्रिसमस",
+   "for": "All",
+   "text": "Show the person from this photo in a snowy hill-station like Manali or Shimla on Christmas, wearing a puffer jacket and woollen cap, standing near a small wooden cottage decorated with lights and a Christmas tree. Fresh snow, evening glow, realistic travel photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "WhatsApp DP क्रिसमस",
+   "for": "All",
+   "text": "Create a clean square profile picture of the person from this photo from the shoulders up, wearing a Santa hat, with a soft blurred background of warm Christmas lights and a few falling snowflakes. Bright, sharp, flattering light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "Christmas AI फोटो के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "अच्छी रोशनी में सामने से ली गई फोटो सबसे अच्छा नतीजा देती है।",
+    "कपल या फैमिली प्रॉम्प्ट के लिए ऐसी फोटो लें जिसमें सबके चेहरे साफ़ दिखें।",
+    "सिर्फ़ अपनी या इजाज़त वाली फोटो इस्तेमाल करें।",
+    "नया साल भी पास है — <a href='/new-year-2027-ai-photo-prompts/'>New Year 2027 AI फोटो प्रॉम्प्ट्स</a> भी देखें।"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "क्रिसमस 2026 कब है?",
+   "a": "क्रिसमस हर साल 25 दिसंबर को मनाया जाता है। 2026 में 25 दिसंबर शुक्रवार को है, और क्रिसमस ईव 24 दिसंबर (गुरुवार) को।"
+  },
+  {
+   "q": "Christmas AI photo prompt कहाँ इस्तेमाल करें?",
+   "a": "Gemini ऐप या gemini.google.com में फोटो अपलोड करके प्रॉम्प्ट पेस्ट करें। ChatGPT और दूसरे इमेज-एडिटिंग AI में भी ये चलते हैं, नतीजा हर ऐप में थोड़ा अलग आता है।"
+  },
+  {
+   "q": "चेहरा बदल जाए तो क्या करें?",
+   "a": "प्रॉम्प्ट के आख़िर की 'Keep the face exactly identical' लाइन न हटाएं। फिर भी बदले तो पहले सिर्फ़ कपड़े बदलवाएं, फिर अलग मैसेज में बैकग्राउंड।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री हैं?",
+   "a": "हाँ, सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं। कितनी इमेज बना सकते हैं, यह आपके AI ऐप की मौजूदा लिमिट पर निर्भर करता है।"
+  }
+ ]
+}

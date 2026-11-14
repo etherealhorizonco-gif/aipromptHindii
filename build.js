@@ -3,6 +3,9 @@
 const fs = require("fs");
 const path = require("path");
 const cfg = require("./site.config.js");
+const sampleSvg = require("./lib/art.js");
+const TOOLS = require("./tools.config.js");
+const crypto = require("crypto");
 
 const ROOT = __dirname;
 const OUT = path.join(ROOT, "dist");
@@ -41,6 +44,9 @@ const posts = fs
     p.url = `/${p.slug}/`;
     p.readMin = Math.max(2, Math.round(words(p.blocks) / 180));
     p.promptCount = p.blocks.filter((b) => b.type === "prompt").length;
+    // Cover = the page's first prompt image (real sample if given, else generated art).
+    const first = p.blocks.find((b) => b.type === "prompt");
+    p.cover = first ? first.image || `/samples/${p.slug}-1.svg` : null;
     return p;
   })
   .filter(Boolean)
@@ -54,7 +60,7 @@ const JS = `
 (function(){
   document.addEventListener('click',function(e){
     var b=e.target.closest('[data-copy]');if(!b)return;
-    var t=document.getElementById(b.getAttribute('data-copy')).innerText;
+    var t=document.getElementById(b.getAttribute('data-copy')).textContent;
     var done=function(){var o=b.innerHTML;b.classList.add('ok');b.innerHTML='✓ कॉपी हो गया';setTimeout(function(){b.classList.remove('ok');b.innerHTML=o},1800)};
     if(navigator.clipboard){navigator.clipboard.writeText(t).then(done,function(){fallback(t);done()})}else{fallback(t);done()}
     try{if(window.gtag)gtag('event','copy_prompt',{prompt_id:b.getAttribute('data-copy')})}catch(_){}
@@ -71,11 +77,11 @@ const JS = `
 const themeBoot = `try{var t=localStorage.getItem('aph-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}`;
 
 // ---------- layout ----------
-function layout({ title, description, canonical, body, schema = [], ogType = "website", keywords = "", noindex = false, published, modified }) {
+function layout({ title, description, canonical, body, schema = [], ogType = "website", keywords = "", noindex = false, published, modified, scripts = "", ogImage = "/og.png" }) {
   const ga = cfg.ga4
     ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${cfg.ga4}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${cfg.ga4}');</script>`
     : "";
-  const nav = cfg.categories.map((c) => `<a href="/category/${c.slug}/">${c.short}</a>`).join("");
+  const nav = `<a href="/prompts/" class="nav-hi">प्रॉम्प्ट गैलरी</a><a href="/tools/" class="nav-hi">फ्री फोटो टूल्स</a>` + cfg.categories.filter((c) => c.slug !== "ai-photo-prompts").map((c) => `<a href="/category/${c.slug}/">${c.short}</a>`).join("");
   return `<!doctype html>
 <html lang="${cfg.lang}">
 <head>
@@ -94,7 +100,7 @@ ${keywords ? `<meta name="keywords" content="${esc(keywords)}">` : ""}
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${abs(canonical)}">
-<meta property="og:image" content="${abs("/og.png")}">
+<meta property="og:image" content="${abs(ogImage)}">
 ${published ? `<meta property="article:published_time" content="${published}T08:00:00+05:30"><meta property="article:modified_time" content="${modified}T08:00:00+05:30">` : ""}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#B93D0B">
@@ -127,12 +133,13 @@ ${ga}
       <p>${cfg.tagline}. हर प्रॉम्प्ट कॉपी-पेस्ट के लिए तैयार।</p>
     </div>
     <div class="foot-links">
-      <a href="/about/">हमारे बारे में</a><a href="/contact/">संपर्क</a><a href="/privacy-policy/">प्राइवेसी पॉलिसी</a><a href="/disclaimer/">डिस्क्लेमर</a><a href="/sitemap.xml">साइटमैप</a>
+      <a href="/prompts/">प्रॉम्प्ट गैलरी</a><a href="/tools/">फ्री फोटो टूल्स</a><a href="/about/">हमारे बारे में</a><a href="/contact/">संपर्क</a><a href="/privacy-policy/">प्राइवेसी पॉलिसी</a><a href="/disclaimer/">डिस्क्लेमर</a><a href="/sitemap.xml">साइटमैप</a>
     </div>
   </div>
   <div class="wrap small">© ${new Date().getFullYear()} ${cfg.name}. Gemini, ChatGPT और दूसरे नाम उनके मालिकों के ट्रेडमार्क हैं; हम उनसे जुड़े नहीं हैं।</div>
 </footer>
 <script>${JS}</script>
+${scripts}
 </body>
 </html>`;
 }
@@ -165,11 +172,11 @@ const crumbs = (items) => ({
 });
 
 // ---------- block renderer ----------
+const SAMPLES = new Map(); // dist path → svg, written once at the end
 function renderBlocks(p) {
   let n = 0;
   const toc = [];
-  const html = p.blocks
-    .map((b) => {
+  const parts = p.blocks.map((b) => {
       switch (b.type) {
         case "p":
           return `<p>${b.html}</p>`;
@@ -193,26 +200,41 @@ function renderBlocks(p) {
         case "prompt": {
           n++;
           const id = `p${n}`;
-          return `<article class="prompt" id="prompt-${n}">
-  <div class="prompt-head"><span class="num">#${n}</span><h3>${esc(b.title)}</h3>${b.for ? `<span class="tag">${esc(b.for)}</span>` : ""}</div>
-  <pre id="${id}" class="prompt-text">${esc(b.text)}</pre>
-  <div class="prompt-foot">
+          let img = b.image;
+          if (!img) {
+            img = `/samples/${p.slug}-${n}.svg`;
+            SAMPLES.set(img, sampleSvg(b, `${p.slug}-${n}`));
+          }
+          const lazy = n > 2 ? ` loading="lazy"` : ` fetchpriority="${n === 1 ? "high" : "auto"}"`;
+          return { prompt: true, html: `<article class="pcard" id="prompt-${n}">
+  <figure class="pimg${b.image ? "" : " art"}"><img src="${img}" width="400" height="500" alt="${esc(b.imageAlt || `${b.title} — AI फोटो प्रॉम्प्ट ${b.image ? "का सैंपल" : "स्टाइल प्रीव्यू"}`)}"${lazy} decoding="async">${b.image ? "" : `<figcaption>स्टाइल प्रीव्यू</figcaption>`}<span class="num">#${n}</span></figure>
+  <div class="pbody">
+    <div class="phead"><h3>${esc(b.title)}</h3>${b.for ? `<span class="tag">${esc(b.for)}</span>` : ""}</div>
+    <pre id="${id}" class="prompt-text">${esc(b.text)}</pre>
     <button class="copy" data-copy="${id}" aria-label="${esc(b.title)} प्रॉम्प्ट कॉपी करें"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg> प्रॉम्प्ट कॉपी करें</button>
     ${b.tip ? `<p class="tip"><b>टिप:</b> ${b.tip}</p>` : ""}
   </div>
-</article>`;
+</article>` };
         }
         default:
           throw new Error(`${p.slug}: unknown block type ${b.type}`);
       }
-    })
-    .join("\n");
+    });
+  // Consecutive prompt cards form one gallery grid.
+  let html = "", run = [];
+  const flush = () => { if (run.length) html += `<div class="gallery">${run.join("\n")}</div>\n`; run = []; };
+  for (const x of parts) {
+    if (typeof x === "object") run.push(x.html);
+    else { flush(); html += x + "\n"; }
+  }
+  flush();
   return { html, toc };
 }
 
 function card(p) {
   const c = catBySlug[p.category];
-  return `<a class="card" href="${p.url}" data-search="${esc((p.title + " " + (p.keywords || "")).toLowerCase())}">
+  return `<a class="card${p.cover ? " has-img" : ""}" href="${p.url}" data-search="${esc((p.title + " " + (p.keywords || "")).toLowerCase())}">
+  ${p.cover ? `<span class="card-img"><img src="${p.cover}" width="400" height="500" alt="" loading="lazy" decoding="async">${p.trend ? `<b class="badge">🔥 नया ट्रेंड</b>` : ""}</span>` : ""}
   <span class="card-cat">${c.short}</span>
   <h3>${esc(p.title)}</h3>
   <p>${esc(p.description)}</p>
@@ -220,6 +242,15 @@ function card(p) {
 </a>`;
 }
 
+const toolBySlug = Object.fromEntries(TOOLS.tools.map((t) => [t.slug, t]));
+const toolIcon = { compress: "⇣", increase: "⇡", photo: "▣", crop: "✂", resize: "⤢", dpi: "◎", convert: "⇄", pdf: "▤" };
+function toolCard(t) {
+  return `<a class="tcard" href="/tools/${t.slug}/" data-search="${esc((t.name + " " + t.keywords).toLowerCase())}"><span class="ticon" aria-hidden="true">${toolIcon[t.mode] || "▣"}</span><span><b>${esc(t.name)}</b><small>${esc(t.h1.split(" — ")[0])}</small></span></a>`;
+}
+function toolsStrip() {
+  const pick = ["compress-image-to-20kb", "resize-photo-3-5x4-5-cm", "signature-resize", "passport-size-photo-maker"].map((s) => toolBySlug[s]);
+  return `<section class="related"><h2>फ्री फोटो टूल्स</h2><div class="tgrid">${pick.map(toolCard).join("")}</div></section>`;
+}
 // ---------- article pages ----------
 for (const p of posts) {
   const c = catBySlug[p.category];
@@ -266,11 +297,11 @@ for (const p of posts) {
     });
 
   const body = `
-<div class="wrap article-wrap">
-  <nav class="crumbs" aria-label="ब्रेडक्रंब"><a href="/">होम</a> › <a href="/category/${c.slug}/">${c.name}</a></nav>
+<div class="wrap article-wrap${p.promptCount > 3 ? " wide" : ""}">
+  <nav class="crumbs" aria-label="ब्रेडक्रंब"><a href="/">होम</a> › ${p.promptCount > 3 ? `<a href="/prompts/">प्रॉम्प्ट गैलरी</a>` : `<a href="/category/${c.slug}/">${c.name}</a>`}</nav>
   <article class="post">
     <header class="post-head">
-      <span class="pill">${c.name}</span>
+      <span class="pill">${c.name}</span>${p.trend ? ` <span class="pill hot">🔥 नया ट्रेंड</span>` : ""}
       <h1>${esc(p.title)}</h1>
       <p class="lede">${p.intro || esc(p.description)}</p>
       <div class="byline">${cfg.author} · अपडेट: <time datetime="${p.updated}">${fmtDate(p.updated)}</time> · ${p.readMin} मिनट पढ़ें${p.promptCount ? ` · <b>${p.promptCount} ${p.promptCount === 1 ? "प्रॉम्प्ट" : "प्रॉम्प्ट्स"}</b>` : ""}</div>
@@ -279,6 +310,7 @@ for (const p of posts) {
     <div class="prose">${html}</div>
     ${faqHtml}
   </article>
+  ${p.promptCount ? toolsStrip() : ""}
   ${related.length ? `<section class="related"><h2>ये भी पढ़ें</h2><div class="grid">${related.map(card).join("")}</div></section>` : ""}
 </div>`;
 
@@ -310,32 +342,119 @@ for (const c of cfg.categories) {
   );
 }
 
+// ---------- tools ----------
+const ENGINE = fs.readFileSync(path.join(STATIC, "tool-engine.js"));
+const ENGINE_SRC = `/tool-engine.js?v=${crypto.createHash("sha1").update(ENGINE).digest("hex").slice(0, 8)}`;
+for (const t of TOOLS.tools) {
+  const url = `/tools/${t.slug}/`;
+  const related = (t.related || []).map((s) => toolBySlug[s]).filter(Boolean);
+  const schema = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      name: t.h1.split(" — ")[0],
+      alternateName: t.name,
+      description: t.description,
+      url: abs(url),
+      inLanguage: cfg.lang,
+      applicationCategory: "MultimediaApplication",
+      operatingSystem: "Any (browser)",
+      isAccessibleForFree: true,
+      offers: { "@type": "Offer", price: "0", priceCurrency: "INR" },
+      publisher: { "@id": abs("/#org") }
+    },
+    crumbs([["होम", "/"], ["फ्री फोटो टूल्स", "/tools/"], [t.name, url]]),
+    orgSchema
+  ];
+  if (t.faq && t.faq.length)
+    schema.push({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: t.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a.replace(/<[^>]+>/g, "") } })) });
+  const body = `
+<div class="wrap article-wrap">
+  <nav class="crumbs" aria-label="ब्रेडक्रंब"><a href="/">होम</a> › <a href="/tools/">फ्री फोटो टूल्स</a></nav>
+  <header class="post-head tool-head">
+    <span class="pill">फ्री · बिना अपलोड · मोबाइल पर</span>
+    <h1>${esc(t.h1)}</h1>
+    <p class="lede">${t.intro}</p>
+  </header>
+  <div id="tool" class="tool" data-mode="${t.mode}" data-opts="${esc(JSON.stringify(t.opts || {}))}"><noscript><p class="tl-err">यह टूल चलाने के लिए ब्राउज़र में JavaScript चालू करें।</p></noscript></div>
+  <p class="tl-privacy">🔒 आपकी फोटो इसी फोन/कंप्यूटर में प्रोसेस होती है — किसी सर्वर पर नहीं जाती।</p>
+  <div class="prose">
+    <h2 id="kaise">कैसे इस्तेमाल करें</h2>
+    <ol>${t.steps.map((x) => `<li>${x}</li>`).join("")}</ol>
+    ${t.table ? `<div class="tbl"><table><thead><tr>${t.table.head.map((h) => `<th>${esc(h)}</th>`).join("")}</tr></thead><tbody>${t.table.rows.map((r) => `<tr>${r.map((c) => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody></table></div>` : ""}
+  </div>
+  ${t.faq && t.faq.length ? `<section class="faq"><h2 id="faq">अक्सर पूछे जाने वाले सवाल</h2>${t.faq.map((f) => `<details><summary>${esc(f.q)}</summary><p>${f.a}</p></details>`).join("")}</section>` : ""}
+  ${related.length ? `<section class="related"><h2>दूसरे फ्री टूल्स</h2><div class="tgrid">${related.map(toolCard).join("")}</div></section>` : ""}
+</div>`;
+  write(`tools/${t.slug}/index.html`, layout({ title: t.seoTitle || t.h1, description: t.description, canonical: url, body, schema, keywords: t.keywords, scripts: `<script src="${ENGINE_SRC}" defer></script>` }));
+}
+{
+  const body = `
+<div class="wrap">
+  <nav class="crumbs"><a href="/">होम</a> › फ्री फोटो टूल्स</nav>
+  <header class="cat-head"><h1>फ्री फोटो टूल्स — फॉर्म, प्रिंट और सोशल मीडिया के लिए</h1><p>फोटो का साइज़ KB में कम-ज़्यादा करें, 3.5×4.5 cm पासपोर्ट फोटो और सिग्नेचर बनाएं, रीसाइज़, क्रॉप और PDF — सब फ्री, मोबाइल पर, और आपकी फोटो कहीं अपलोड नहीं होती।</p>
+  <label class="search"><span class="sr">टूल खोजें</span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="खोजें: 20kb, signature, pdf…" autocomplete="off"></label></header>
+  ${TOOLS.groups.map((g) => `<section class="block tight"><h2 class="gh">${g.name}</h2><div class="tgrid">${TOOLS.tools.filter((t) => t.group === g.slug).map(toolCard).join("")}</div></section>`).join("")}
+</div>`;
+  write("tools/index.html", layout({
+    title: `Free Photo Tools – Image 20KB, 3.5×4.5 cm, Signature Resize | ${cfg.name}`,
+    description: "फ्री फोटो टूल्स: compress image to 20kb/50kb, resize photo 3.5×4.5 cm, signature resize, passport photo, JPG to PDF — मोबाइल पर, बिना अपलोड।",
+    canonical: "/tools/",
+    body,
+    schema: [crumbs([["होम", "/"], ["फ्री फोटो टूल्स", "/tools/"]]), { "@context": "https://schema.org", "@type": "CollectionPage", name: "फ्री फोटो टूल्स", url: abs("/tools/"), inLanguage: cfg.lang, hasPart: TOOLS.tools.map((t) => ({ "@type": "WebApplication", name: t.name, url: abs(`/tools/${t.slug}/`) })) }]
+  }));
+}
+
+// ---------- prompt gallery hub ----------
+const promptPages = posts.filter((p) => p.promptCount >= 4 && p.category === "ai-photo-prompts");
+const trendPages = promptPages.filter((p) => p.trend);
+{
+  const body = `
+<div class="wrap">
+  <nav class="crumbs"><a href="/">होम</a> › प्रॉम्प्ट गैलरी</nav>
+  <header class="cat-head"><h1>AI फोटो प्रॉम्प्ट गैलरी — Gemini और ChatGPT के लिए कॉपी-पेस्ट</h1><p>${promptPages.reduce((a, p) => a + p.promptCount, 0)}+ प्रॉम्प्ट्स, ${promptPages.length} गैलरी में। गैलरी खोलें, स्टाइल देखें, एक टैप में प्रॉम्प्ट कॉपी करें और अपनी फोटो के साथ Gemini या ChatGPT में पेस्ट करें।</p>
+  <label class="search"><span class="sr">गैलरी खोजें</span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="खोजें: saree, couple, christmas…" autocomplete="off"></label></header>
+  ${trendPages.length ? `<section class="block tight"><h2 class="gh">🔥 अभी ट्रेंड में</h2><div class="grid">${trendPages.map(card).join("")}</div></section>` : ""}
+  <section class="block tight"><h2 class="gh">सभी गैलरी</h2><div class="grid">${promptPages.filter((p) => !p.trend).map(card).join("")}</div></section>
+</div>`;
+  write("prompts/index.html", layout({
+    title: `AI Photo Prompt Gallery – Gemini Copy Paste Prompts | ${cfg.name}`,
+    description: "Gemini AI photo prompt गैलरी — हर प्रॉम्प्ट के साथ स्टाइल प्रीव्यू और कॉपी बटन। कपल, साड़ी, बॉय, गर्ल, शादी, त्योहार और नए ट्रेंड।",
+    canonical: "/prompts/",
+    body,
+    schema: [crumbs([["होम", "/"], ["प्रॉम्प्ट गैलरी", "/prompts/"]]), { "@context": "https://schema.org", "@type": "CollectionPage", name: "AI फोटो प्रॉम्प्ट गैलरी", url: abs("/prompts/"), inLanguage: cfg.lang }]
+  }));
+}
+
 // ---------- home ----------
 {
-  const featured = posts.filter((p) => p.featured).slice(0, 3);
   const totalPrompts = posts.reduce((s, p) => s + p.promptCount, 0);
+  // Trend pages first, then the most recently published galleries (festival pages age out on their own).
+  const hot = [...trendPages, ...promptPages.filter((p) => !p.trend).sort((a, b) => b.date.localeCompare(a.date))].slice(0, 6);
+  const topTools = ["compress-image-to-20kb", "compress-image-to-50kb", "resize-photo-3-5x4-5-cm", "signature-resize", "passport-size-photo-maker", "photo-with-name-and-date", "jpg-to-pdf", "increase-image-size-in-kb"].map((s) => toolBySlug[s]);
   const body = `
 <section class="hero">
   <div class="wrap hero-in">
-    <p class="eyebrow">रोज़ अपडेट · ${totalPrompts}+ कॉपी-पेस्ट प्रॉम्प्ट्स</p>
-    <h1>AI से फोटो, वीडियो और कमाई — <span>सब कुछ हिंदी में</span></h1>
-    <p class="hero-sub">Gemini और ChatGPT के लिए कॉपी-पेस्ट प्रॉम्प्ट्स, मोबाइल से AI वीडियो बनाने की आसान गाइड और भरोसेमंद AI टूल्स — बिना किसी झंझट के।</p>
-    <label class="search"><span class="sr">आर्टिकल खोजें</span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="खोजें: couple prompt, saree, AI video…" autocomplete="off"></label>
-    <div class="chips">${cfg.categories.map((c) => `<a class="chip" href="/category/${c.slug}/">${c.name}</a>`).join("")}</div>
+    <p class="eyebrow">${totalPrompts}+ कॉपी-पेस्ट प्रॉम्प्ट्स · ${TOOLS.tools.length} फ्री फोटो टूल्स</p>
+    <h1>AI फोटो प्रॉम्प्ट्स और फ्री फोटो टूल्स — <span>सब कुछ हिंदी में</span></h1>
+    <p class="hero-sub">Gemini और ChatGPT के ट्रेंडिंग फोटो प्रॉम्प्ट्स एक टैप में कॉपी करें। फॉर्म के लिए फोटो 20KB में करें, 3.5×4.5 cm फोटो और सिग्नेचर बनाएं — मोबाइल पर, बिना अपलोड।</p>
+    <label class="search"><span class="sr">खोजें</span><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="खोजें: couple prompt, 20kb, signature…" autocomplete="off"></label>
+    <div class="chips"><a class="chip hot" href="/prompts/">प्रॉम्प्ट गैलरी</a><a class="chip hot" href="/tools/">फ्री फोटो टूल्स</a>${cfg.categories.filter((c) => c.slug !== "ai-photo-prompts").map((c) => `<a class="chip" href="/category/${c.slug}/">${c.name}</a>`).join("")}</div>
   </div>
 </section>
-${featured.length ? `<section class="wrap block"><div class="sec-head"><h2>अभी ट्रेंड में</h2></div><div class="grid feat">${featured.map(card).join("")}</div></section>` : ""}
-<section class="wrap block"><div class="sec-head"><h2>सभी नए आर्टिकल</h2></div><div class="grid">${posts.map(card).join("")}</div></section>
+<section class="wrap block"><div class="sec-head"><h2>🔥 ट्रेंडिंग प्रॉम्प्ट गैलरी</h2><a href="/prompts/">सभी देखें →</a></div><div class="grid">${hot.map(card).join("")}</div></section>
+<section class="wrap block"><div class="sec-head"><h2>फ्री फोटो टूल्स</h2><a href="/tools/">सभी ${TOOLS.tools.length} टूल्स →</a></div><div class="tgrid">${topTools.map(toolCard).join("")}</div></section>
+<section class="wrap block"><div class="sec-head"><h2>सभी नए पेज</h2></div><div class="grid">${posts.map(card).join("")}</div></section>
 <section class="wrap block trust">
   <div><b>चेहरा वही रहे</b><p>हर फोटो प्रॉम्प्ट में चेहरा न बदलने की लाइन पहले से जुड़ी है।</p></div>
-  <div><b>हर हफ्ते नए ट्रेंड</b><p>त्योहार और Instagram ट्रेंड आते ही नए प्रॉम्प्ट्स जोड़े जाते हैं।</p></div>
+  <div><b>फोटो आपके फोन में ही</b><p>सारे फोटो टूल्स ब्राउज़र में चलते हैं — कुछ भी अपलोड नहीं होता।</p></div>
   <div><b>100% फ्री</b><p>कोई लॉगिन नहीं, कोई ऐप डाउनलोड नहीं — बस कॉपी करें और इस्तेमाल करें।</p></div>
 </section>`;
   write(
     "index.html",
     layout({
-      title: `${cfg.name} — Gemini AI Photo Prompts, AI Video और AI Tools हिंदी में`,
-      description: "Gemini AI photo prompt copy paste, ChatGPT photo editing prompts, AI video kaise banaye और best free AI tools — आसान हिंदी में, रोज़ अपडेट।",
+      title: `${cfg.name} — Gemini AI Photo Prompts और Free Photo Tools हिंदी में`,
+      description: "Gemini AI photo prompt copy paste गैलरी और फ्री फोटो टूल्स — image 20kb, 3.5×4.5 cm photo, signature resize, passport photo। आसान हिंदी में, रोज़ अपडेट।",
       canonical: "/",
       body,
       schema: [orgSchema, siteSchema]
@@ -365,10 +484,14 @@ write(
 );
 
 // ---------- sitemap, robots, rss ----------
+const TOOLS_UPDATED = "2026-11-14"; // bump when tool pages change
 const urls = [
   ["/", posts[0] ? posts[0].updated : today, "1.0"],
   ...cfg.categories.filter((c) => posts.some((p) => p.category === c.slug)).map((c) => [`/category/${c.slug}/`, posts.find((p) => p.category === c.slug).updated, "0.7"]),
   ...posts.map((p) => [p.url, p.updated, "0.8"]),
+  ["/prompts/", posts[0] ? posts[0].updated : today, "0.9"],
+  ["/tools/", TOOLS_UPDATED, "0.9"],
+  ...TOOLS.tools.map((t) => [`/tools/${t.slug}/`, TOOLS_UPDATED, "0.8"]),
   ...pages.filter((pg) => !pg.noindex).map((pg) => [`/${pg.slug}/`, "2026-10-21", "0.3"])
 ];
 write(
@@ -386,7 +509,8 @@ write(
     .join("\n")}\n</channel></rss>\n`
 );
 
-// ---------- copy static assets ----------
-for (const f of fs.readdirSync(STATIC)) fs.copyFileSync(path.join(STATIC, f), path.join(OUT, f));
+// ---------- copy static assets + generated sample art ----------
+fs.cpSync(STATIC, OUT, { recursive: true });
+for (const [rel, svg] of SAMPLES) write(rel, svg);
 
-console.log(`Built ${posts.length} posts, ${cfg.categories.length} categories, ${pages.length} pages → dist/ (${urls.length} URLs in sitemap)`);
+console.log(`Built ${posts.length} posts, ${TOOLS.tools.length} tools, ${SAMPLES.size} sample images, ${cfg.categories.length} categories, ${pages.length} pages → dist/ (${urls.length} URLs in sitemap)`);

@@ -9,6 +9,9 @@ Status legend: [ ] todo · [x] published (date)
 ## SEO publishing schedule (set 10 Nov 2026) — source of truth from here on
 The dated, priority-ranked schedule now lives in `analysis/seo-schedule.json` (44 posts, 11 Nov 2026 – 2 Jan 2027, 2 per day). The daily run publishes the rows dated today, then marks them `published`. Priority: P1 = festival deadline or ≥10k searches/mo, P2 = measured or autocomplete demand, P3 = supporting how-to. Fresh data (Ubersuggest IN, 10 Nov): "google gemini ai photo editing prompts" 110k SD 18, "ai photo editing prompts" 22.2k SD 26, "ai se ppt kaise banaye" 22.2k SD 17, "retro style vintage" 880 SD 10. Chhath (15 Nov) is skipped by the 10-day rule; the existing Chhath page covers it. The week-by-week lists below are kept for history.
 
+## Pivot to tools + prompt gallery (14 Nov 2026)
+The site is now a free tool + prompt site: photo-prompt pages render as a gallery (card, sample art, copy button), `/prompts/` hub, 17 browser photo tools under `/tools/`, and a 24–48 h trend fast path (`scripts/new-trend.js`). Festival rule changed to 3–5 weeks ahead. Christmas and New Year 2027 pages written and dated 15 Nov (pulled forward from 1 Dec / 7 Dec). Next tool ideas: photo + signature joiner, background to white, image to 4×6 print, PDF compress.
+
 ## Week 1 (22–28 Oct)
 - [-] karwa-chauth-ai-photo-prompts — Karwa Chauth 29 Oct: skipped, inside the 10-day rule all week
 - [x] dhanteras-ai-photo-prompts — 6 Nov (verified: goodreturns, dekhopanchang) (2026-10-22)

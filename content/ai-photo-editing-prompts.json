@@ -2,7 +2,7 @@
  "slug": "ai-photo-editing-prompts",
  "category": "ai-photo-prompts",
  "date": "2026-11-11",
- "updated": "2026-11-11",
+ "updated": "2026-11-14",
  "title": "Google Gemini AI Photo Editing Prompts: 21 कॉपी-पेस्ट प्रॉम्प्ट्स (ChatGPT में भी) 2026",
  "seoTitle": "Google Gemini AI Photo Editing Prompts – 21 Copy Paste (2026)",
  "description": "Google Gemini AI photo editing prompts हिंदी में — लड़के, लड़की, कपल, बच्चे, बर्थडे, बैकग्राउंड और लाइट ठीक करने के 21 कॉपी-पेस्ट प्रॉम्प्ट्स, ChatGPT में भी।",
@@ -162,6 +162,10 @@
    "type": "h2",
    "id": "kids-birthday",
    "text": "बच्चों और बर्थडे के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "p",
+   "html": "पिता-बेटा, माँ-बेटी, भाई-बहन और पूरे परिवार के प्रॉम्प्ट्स अलग पेज पर हैं: <a href='/gemini-ai-photo-prompt-family/'>Gemini family photo prompts</a>।"
   },
   {
    "type": "prompt",

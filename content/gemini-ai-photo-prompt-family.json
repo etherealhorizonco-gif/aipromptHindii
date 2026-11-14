@@ -1,0 +1,207 @@
+{
+ "slug": "gemini-ai-photo-prompt-family",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-14",
+ "title": "Google Gemini AI Photo Editing Prompts Family: पिता-बेटा, माँ-बेटी और भाई-बहन के 18 प्रॉम्प्ट्स",
+ "seoTitle": "Google Gemini AI Photo Editing Prompts Family – 18 Copy Paste",
+ "description": "Google Gemini AI photo editing prompts family — पिता-बेटा, पापा-बेटी, माँ-बेटी, भाई-बहन और पूरे परिवार के 18 कॉपी-पेस्ट प्रॉम्प्ट्स, चेहरा बचाने वाली लाइन सहित।",
+ "keywords": "google gemini ai photo editing prompts family, gemini ai photo prompt family, father and son ai photo prompt, dad and daughter ai photo prompt, mother and daughter ai photo prompt, brother and sister ai photo prompt, फैमिली AI फोटो प्रॉम्प्ट",
+ "intro": "परिवार की एक साधारण फोटो को त्योहार, घूमने या पुरानी यादों वाली खूबसूरत तस्वीर में बदलना है? नीचे <b>18 google gemini ai photo editing prompts family</b> के लिए हैं — पिता-बेटा, पापा-बेटी, माँ-बेटी/माँ-बेटा, भाई-बहन और पूरे परिवार के लिए। हर प्रॉम्प्ट के आख़िर में सबके चेहरे न बदलने वाली लाइन जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-couple",
+  "childrens-day-ai-photo-prompts",
+  "ai-photo-editing-prompts"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Gemini में फैमिली फोटो प्रॉम्प्ट कैसे इस्तेमाल करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर Google अकाउंट से लॉगिन करें।",
+    "<b>+</b> आइकन से ऐसी फोटो अपलोड करें जिसमें सभी लोग साथ हों और सबके चेहरे साफ़ दिखें।",
+    "नीचे से प्रॉम्प्ट कॉपी करें, पेस्ट करें और सेंड करें।",
+    "किसी एक चीज़ को बदलना हो तो छोटा फॉलो-अप लिखें, जैसे <i>'make the kurtas white'</i> या <i>'keep everything same, only change the background to a garden'</i>।",
+    "सबसे अच्छा रिज़ल्ट डाउनलोड करें।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "ज़रूरी बात",
+   "html": "फोटो में जितने ज़्यादा लोग होंगे, चेहरे बदलने की संभावना उतनी बढ़ती है। 2–4 लोगों वाली साफ़ फोटो सबसे अच्छी रहती है। बच्चों की फोटो सिर्फ़ परिवार के अंदर इस्तेमाल करें और सोच-समझकर शेयर करें। चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिटिंग की गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "father-son",
+   "text": "पिता और बेटे (Father and Son) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "मैचिंग कुर्ता फेस्टिव",
+   "for": "Father & Son",
+   "text": "Show the father and son from this photo in matching cream kurtas with maroon Nehru jackets, standing together on a courtyard decorated with diyas and marigold garlands. Warm evening glow, proud smiles, realistic 4K photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बाइक राइड",
+   "for": "Father & Son",
+   "text": "Create a photo of the father and son from this photo on a classic motorcycle on an open highway, the father riding and the son sitting in front holding the handle with a big smile, both in denim jackets. Golden hour light, realistic lifestyle photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "क्रिकेट मैदान",
+   "for": "Father & Son",
+   "text": "Show the father and son from this photo playing cricket in a green park, the father bowling gently and the son holding a bat, both in casual t-shirts. Bright afternoon sunlight, candid happy moment, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कंधे पर बेटा",
+   "for": "Father & Son",
+   "text": "Show the father from this photo carrying his young son on his shoulders at a lively village fair with a giant wheel and colourful lights behind them. Joyful laughter, warm dusk light, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "dad-daughter",
+   "text": "पापा और बेटी (Dad and Daughter) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "पापा की परी",
+   "for": "Dad & Daughter",
+   "text": "Show the dad and daughter from this photo dancing together in a softly lit living room decorated with fairy lights, the daughter in a pastel frock standing on her father's feet. Warm emotional mood, gentle smiles, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ग्रेजुएशन डे",
+   "for": "Dad & Daughter",
+   "text": "Create a photo of the dad and daughter from this photo on a college campus, the daughter in a graduation gown holding a degree scroll and the father in a formal shirt hugging her proudly. Bright daylight, realistic 4K photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "साइकिल सिखाना",
+   "for": "Dad & Daughter",
+   "text": "Show the dad from this photo teaching his daughter to ride a bicycle on a tree-lined lane, holding the back of the seat as she pedals and laughs. Soft morning sunlight, autumn leaves, realistic candid photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "mother",
+   "text": "माँ-बेटी और माँ-बेटे (Mother) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "मैचिंग साड़ी",
+   "for": "Mother & Daughter",
+   "text": "Show the mother and daughter from this photo in matching mustard yellow cotton sarees with red borders, sitting together on a jhoola in a garden, laughing. Soft natural daylight, festive warm colours, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रसोई की याद",
+   "for": "Mother & Daughter",
+   "text": "Create a photo of the mother and daughter from this photo cooking together in a cosy Indian kitchen, rolling rotis and smiling at each other, steam rising from a pan. Warm window light, homely mood, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "माँ का लाडला",
+   "for": "Mother & Son",
+   "text": "Show the mother and son from this photo, the mother in a simple cotton saree and the son in a kurta, the son touching her feet for blessings while she places a hand on his head. Diyas and rangoli on the floor, warm golden light, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सेल्फी मोमेंट",
+   "for": "Mother & Son",
+   "text": "Show the mother and son from this photo taking a selfie together at a hill station viewpoint with misty mountains behind them, both in warm jackets, big happy smiles. Cool fresh tones, realistic travel photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "brother-sister",
+   "text": "भाई-बहन (Brother and Sister) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "रक्षा बंधन जैसा पल",
+   "for": "Brother & Sister",
+   "text": "Show the brother and sister from this photo, the sister tying a colourful rakhi on her brother's wrist and both laughing, wearing festive ethnic clothes. A thali with diya and sweets in front, warm home lighting, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बचपन वाली मस्ती",
+   "for": "Brother & Sister",
+   "text": "Create a playful photo of the brother and sister from this photo having a pillow fight in a bright bedroom, feathers floating in the air, both laughing in casual clothes. Soft daylight, fun candid mood, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रोड ट्रिप",
+   "for": "Brother & Sister",
+   "text": "Show the brother and sister from this photo on a road trip, sitting on the bonnet of a car parked beside a lake with mountains, sharing a packet of snacks. Golden hour light, relaxed smiles, realistic travel photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "full-family",
+   "text": "पूरे परिवार (Full Family) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "दिवाली फैमिली पोर्ट्रेट",
+   "for": "Family",
+   "text": "Turn this family photo into a festive portrait with everyone in coordinated ethnic outfits in shades of maroon and gold, standing in front of a doorway decorated with diyas, rangoli and marigold torans. Warm glowing light, happy expressions, realistic 4K photography. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दादा-दादी के साथ",
+   "for": "Family",
+   "text": "Show the family from this photo with the grandparents seated in the centre on a wooden sofa and the rest of the family standing around them, all in simple traditional clothes. Soft warm light in a classic living room with old framed photos on the wall, realistic photography. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पिकनिक डे",
+   "for": "Family",
+   "text": "Show the family from this photo having a picnic on a green lawn, sitting on a checked blanket with a basket of fruit and sandwiches, children laughing in the front. Bright spring daylight, soft background trees, realistic lifestyle photography. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "विंटेज फैमिली फोटो",
+   "for": "Family",
+   "text": "Convert this family photo into a vintage 1990s studio portrait with a painted backdrop, soft film grain and slightly faded warm colours, everyone in neat formal clothes, posed in two rows. Nostalgic retro mood, realistic film photography. Keep every face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "फैमिली फोटो एडिटिंग के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>सबके चेहरे सामने:</b> कोई पीछे छिपा हो या आधा कटा हो तो AI उसका चेहरा बदल सकता है।",
+    "<b>रिश्ता प्रॉम्प्ट में लिखें:</b> 'father and son', 'mother and daughter' लिखने से AI पोज़ और भाव बेहतर समझता है।",
+    "<b>बड़े ग्रुप में छोटा बदलाव:</b> 5 से ज़्यादा लोग हों तो पहले सिर्फ़ बैकग्राउंड बदलें, फिर कपड़े।",
+    "<b>कपड़ों के रंग तय करें:</b> 'coordinated maroon and gold outfits' जैसे शब्द फोटो को एक जैसा लुक देते हैं।",
+    "<b>2–3 बार आज़माएं:</b> हर बार नतीजा थोड़ा अलग होता है, सबसे सही वाला चुनें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "बच्चों के लिए <a href='/childrens-day-ai-photo-prompts/'>बाल दिवस प्रॉम्प्ट्स</a>, पति-पत्नी के लिए <a href='/gemini-ai-photo-prompt-couple/'>कपल प्रॉम्प्ट्स</a> और शादी के लिए <a href='/wedding-ai-photo-prompts/'>wedding AI photo prompts</a> देखें। हर तरह के एडिटिंग प्रॉम्प्ट <a href='/ai-photo-editing-prompts/'>AI photo editing prompts पेज</a> पर हैं।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Google Gemini में फैमिली फोटो कैसे एडिट करें?",
+   "a": "Gemini ऐप या gemini.google.com खोलें, परिवार की साफ़ फोटो अपलोड करें, इस पेज से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें। पसंद आने पर फोटो डाउनलोड करें।"
+  },
+  {
+   "q": "फैमिली फोटो में किसी का चेहरा बदल जाए तो क्या करें?",
+   "a": "प्रॉम्प्ट के आख़िर की लाइन 'Keep every face exactly identical to the uploaded photo' न हटाएं, कम लोगों वाली साफ़ फोटो लें और एक बार में एक ही बदलाव करें। फिर भी बदले तो 'keep all faces same, only change the background' लिखकर दोबारा कोशिश करें।"
+  },
+  {
+   "q": "क्या पिता-बेटे या भाई-बहन की अलग-अलग फोटो जोड़ सकते हैं?",
+   "a": "सबसे भरोसेमंद नतीजा उस फोटो से आता है जिसमें सब पहले से साथ हों। अलग फोटो जोड़ने पर चेहरे और रोशनी मेल नहीं खाते, और किसी की फोटो उसकी इजाज़त के बिना न जोड़ें।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स ChatGPT में भी चलेंगे?",
+   "a": "हाँ, ये अंग्रेज़ी प्रॉम्प्ट्स ChatGPT और दूसरे इमेज-एडिटिंग AI में भी पेस्ट किए जा सकते हैं। हर ऐप का स्टाइल थोड़ा अलग होता है।"
+  }
+ ]
+}

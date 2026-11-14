@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 10–25 days before the festival; verify dates with 2 sources",
@@ -94,7 +94,9 @@
    "sd": null,
    "priority": "P1",
    "reason": "Wedding season starts after Tulsi Vivah (21 Nov); evergreen Nov–Feb.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-14",
+   "url": "https://aiprompthindii.netlify.app/wedding-ai-photo-prompts/"
   },
   {
    "date": "2026-11-14",
@@ -105,7 +107,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Autocomplete: family, father and son, dad and daughter, mother and daughter, brother and sister (Ubersuggest IN, 10 Nov 2026).",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-14",
+   "url": "https://aiprompthindii.netlify.app/gemini-ai-photo-prompt-family/"
   },
   {
    "date": "2026-11-15",

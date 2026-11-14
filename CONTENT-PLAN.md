@@ -31,7 +31,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [x] gemini-ai-photo-prompt-for-girl — (2026-11-13) "copy paste trending girl 2026", women saree/western look
 - Thu 29 Oct
   - [x] tulsi-vivah-ai-photo-prompts — (2026-11-11; date re-verified: smartpuja, dekhopanchang, bhaktibharat, hindutone) Tulsi Vivah Sat 21 Nov (23 days ahead); start of wedding season
-  - [ ] gemini-ai-photo-prompt-family — father-son, mother-son, brother-sister, dad-daughter (all autocomplete variants)
+  - [x] gemini-ai-photo-prompt-family — (2026-11-14) father-son, mother-son, brother-sister, dad-daughter (all autocomplete variants)
 - Fri 30 Oct
   - [x] dev-diwali-ai-photo-prompts — Dev Diwali Tue 24 Nov (25 days ahead); ghat diya, Varanasi
   - [ ] nano-banana-prompt-hindi — "nano banana ai photo editing prompts"
@@ -53,7 +53,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - [ ] text-se-ai-video-kaise-banaye
 
 ## Week 4 (12–18 Nov)
-- [ ] wedding-ai-photo-prompts — wedding season
+- [x] wedding-ai-photo-prompts — wedding season (2026-11-14)
 - [ ] haldi-mehndi-ai-photo-prompts
 - [ ] chatgpt-vs-gemini-hindi
 - [ ] ai-se-resume-kaise-banaye
@@ -114,3 +114,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-11-11: +2 posts (tulsi-vivah-ai-photo-prompts, ai-photo-editing-prompts); links: Govardhan page → Tulsi Vivah, Gemini copy-paste hub → photo editing pillar. Tulsi Vivah Sat 21 Nov (10 days ahead, inside the rule's limit). GSC still not connected.
 - 2026-11-12: +2 posts (dev-diwali-ai-photo-prompts, guru-nanak-jayanti-ai-photo-prompts); link: Tulsi Vivah page → both. Both festivals Tue 24 Nov (12 days ahead), re-verified with 3 sources each; Guru Nanak prompts avoid depicting the Guru and keep heads covered. GSC still not connected.
 - 2026-11-13: +2 posts (ai-se-ppt-kaise-banaye, gemini-ai-photo-prompt-for-girl); links: free AI tools list → PPT guide, for-boy page → for-girl page. No festival dates involved; tool limits described without prices. GSC still not connected.
+- 2026-11-14: +2 posts (wedding-ai-photo-prompts, gemini-ai-photo-prompt-family); links: couple page → wedding page, AI photo editing pillar → family page. No festival dates involved. GSC still not connected.

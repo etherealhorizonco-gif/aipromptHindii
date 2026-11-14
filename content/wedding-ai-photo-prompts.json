@@ -1,0 +1,223 @@
+{
+ "slug": "wedding-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-14",
+ "title": "Wedding AI Photo Prompt: दुल्हन, दूल्हा और कपल के 20 वेडिंग प्रॉम्प्ट्स (Copy Paste 2026)",
+ "seoTitle": "Wedding AI Photo Prompt – 20 Bride, Groom & Couple Prompts",
+ "description": "Wedding AI photo prompt — दुल्हन, दूल्हा, कपल, प्री-वेडिंग और रिसेप्शन लुक के 20 कॉपी-पेस्ट प्रॉम्प्ट्स, हर एक में चेहरा न बदलने वाली लाइन के साथ।",
+ "keywords": "wedding ai photo prompt, wedding ai photo prompts, bride ai photo prompt, groom ai photo prompt, gemini wedding photo prompt, pre wedding ai photo prompt, शादी AI फोटो प्रॉम्प्ट",
+ "intro": "शादी का सीज़न शुरू हो रहा है। अपनी या अपने पार्टनर की एक साफ़ फोटो से दुल्हन पोर्ट्रेट, दूल्हे का रॉयल लुक, कपल वेडिंग फोटो या प्री-वेडिंग शूट जैसी तस्वीर बनानी है? नीचे <b>20 कॉपी-पेस्ट wedding AI photo prompts</b> हैं — 5 हिस्सों में। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-couple",
+  "gemini-ai-photo-prompt-saree",
+  "tulsi-vivah-ai-photo-prompts"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Wedding AI photo prompt कैसे इस्तेमाल करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर लॉगिन करें। ChatGPT या कोई दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "<b>+</b> आइकन से एक साफ़ फोटो अपलोड करें। कपल प्रॉम्प्ट के लिए ऐसी फोटो लें जिसमें दोनों के चेहरे सामने से और साफ़ दिखें।",
+    "नीचे से प्रॉम्प्ट <b>कॉपी</b> करें, चैट में पेस्ट करें और सेंड करें।",
+    "रंग बदलना हो तो छोटा निर्देश लिखें, जैसे <i>'make the lehenga pastel pink'</i> या <i>'change the sherwani to ivory'</i>।",
+    "पसंद आए तो फोटो डाउनलोड करें। 2–3 बार आज़माने पर अक्सर बेहतर रिज़ल्ट मिलता है।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "सिर्फ़ अपनी फोटो",
+   "html": "ये प्रॉम्प्ट्स अपनी फोटो या उन लोगों की फोटो के लिए हैं जिन्होंने इजाज़त दी हो। किसी और की फोटो को दुल्हन/दूल्हे के रूप में बनाकर शेयर न करें। चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "bride",
+   "text": "दुल्हन (Bride) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "रेड लहंगा ब्राइडल पोर्ट्रेट",
+   "for": "Bride",
+   "text": "Transform this photo into a classic Indian bridal portrait of the woman wearing a deep red lehenga with fine gold zari work, a sheer red dupatta draped over her head, a gold maang tikka, nath and layered necklace, and mehndi on her hands. Soft window light in a decorated haveli room with marigold garlands, realistic 4K wedding photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पेस्टल ब्राइड",
+   "for": "Bride",
+   "text": "Show the woman from this photo as a modern bride in a pastel peach lehenga with silver thread embroidery and a light net dupatta, minimal diamond-style jewellery and a soft bun with white flowers. Standing in a garden decorated with fairy lights at dusk, dreamy soft tones, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "साउथ इंडियन ब्राइड",
+   "for": "Bride",
+   "text": "Create a portrait of the woman from this photo as a South Indian bride in a rich maroon and gold silk saree, temple-style gold jewellery, a long braid decorated with jasmine flowers and a small bindi. Background of a brass lamp and banana leaves, warm golden light, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दुल्हन की एंट्री",
+   "for": "Bride",
+   "text": "Show the woman from this photo walking down an aisle as a bride under a canopy of flowers held by four people, wearing a pink and gold lehenga, flower petals falling around her, guests softly blurred on both sides. Joyful smile, warm evening lights, cinematic realistic wedding photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "groom",
+   "text": "दूल्हे (Groom) के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "आइवरी शेरवानी रॉयल लुक",
+   "for": "Groom",
+   "text": "Transform this photo into a royal groom portrait of the man wearing an ivory sherwani with gold buttons, a maroon safa with a small brooch, a pearl mala and a stole over one shoulder. Standing in front of a palace-style arched corridor with soft afternoon light, confident expression, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "घोड़ी पर दूल्हा",
+   "for": "Groom",
+   "text": "Show the man from this photo as a groom sitting on a decorated white horse, wearing a cream sherwani and a red safa with a sehra of flowers pulled to the side so the face is clearly visible. Baraat lights and dancing guests blurred in the background at night, festive realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "इंडो-वेस्टर्न दूल्हा",
+   "for": "Groom",
+   "text": "Show the man from this photo in a navy blue Indo-western bandhgala with subtle silver embroidery and fitted trousers, a pocket square and polished shoes, standing on a lawn decorated with warm string lights. Elegant evening reception look, soft background blur, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "साउथ इंडियन दूल्हा",
+   "for": "Groom",
+   "text": "Create a portrait of the man from this photo as a South Indian groom in a white silk veshti and shirt with a gold border angavastram, a flower garland around the neck and sandalwood tilak. Traditional temple-style mandap with brass lamps in the background, warm light, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple",
+   "text": "कपल वेडिंग प्रॉम्प्ट्स"
+  },
+  {
+   "type": "p",
+   "html": "इन प्रॉम्प्ट्स के लिए ऐसी कपल फोटो लें जिसमें दोनों साफ़ दिखें। और रोमांटिक या एनिवर्सरी आइडिया <a href='/gemini-ai-photo-prompt-couple/'>कपल प्रॉम्प्ट्स पेज</a> पर हैं।"
+  },
+  {
+   "type": "prompt",
+   "title": "मंडप फेरे",
+   "for": "Couple",
+   "text": "Show the couple from this photo taking pheras around a sacred fire in a flower-decorated mandap, the bride in a red lehenga and the groom in a cream sherwani, their dupatta and stole tied together. Soft smoke and warm firelight, family blurred in the background, realistic wedding photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "वरमाला स्टेज",
+   "for": "Couple",
+   "text": "Create a photo of the couple from this photo on a wedding stage just after the varmala, both wearing flower garlands and smiling at each other, rose petals in the air, a backdrop of white and pink flowers. Bright festive lighting, realistic 4K photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "विदाई से पहले पल",
+   "for": "Couple",
+   "text": "Show the couple from this photo standing hand in hand at a decorated doorway at night, the bride in a maroon lehenga and the groom in an ivory sherwani, diyas glowing on the steps. Emotional gentle smiles, warm low light, cinematic realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रिसेप्शन ग्लैमर",
+   "for": "Couple",
+   "text": "Show the couple from this photo at their wedding reception, the woman in a silver sequinned saree and the man in a black tuxedo, standing in front of a large floral wall with warm spotlights. Elegant poses, soft glow, realistic event photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "pre-wedding",
+   "text": "प्री-वेडिंग शूट प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों में प्री-वेडिंग",
+   "for": "Couple",
+   "text": "Create a pre-wedding photo of the couple from this photo walking together on a hill road with pine trees and misty mountains behind them, the woman in a flowing red dress and the man in a beige shirt and trousers. Golden hour light, candid laughing moment, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "किले में प्री-वेडिंग",
+   "for": "Couple",
+   "text": "Show the couple from this photo on the steps of an old sandstone fort, the woman in a pastel lehenga and the man in a light kurta with a Nehru jacket, sitting close and smiling. Warm afternoon sun, rich textures, realistic 4K photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बीच सनसेट शूट",
+   "for": "Couple",
+   "text": "Show the couple from this photo standing barefoot on a beach at sunset holding hands, the woman in a white flowing gown and the man in a white linen shirt, waves touching their feet. Soft orange and pink sky, gentle breeze, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश और छाता",
+   "for": "Couple",
+   "text": "Create a romantic pre-wedding photo of the couple from this photo sharing one transparent umbrella on a rainy city street at night, glowing street lights reflecting on the wet road. Soft cinematic tones, natural smiles, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "rasme",
+   "text": "हल्दी, मेहंदी और संगीत प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "हल्दी डे",
+   "for": "Bride / Groom",
+   "text": "Show the person from this photo at a haldi ceremony wearing a simple yellow outfit, with turmeric paste lightly on the cheeks and arms, laughing as family members (softly blurred) apply haldi. Marigold decorations, bright daylight, joyful realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मेहंदी हाथ",
+   "for": "Bride",
+   "text": "Create a portrait of the woman from this photo at her mehndi ceremony in a green and pink lehenga, showing her hands with detailed bridal mehndi designs, sitting on floor cushions with colourful drapes behind. Soft warm light, happy expression, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "संगीत नाइट",
+   "for": "Couple",
+   "text": "Show the couple from this photo dancing on a sangeet stage, the woman in a sparkling lehenga and the man in a black embroidered kurta, colourful stage lights and confetti in the air, guests blurred in front. Energetic festive mood, realistic event photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कलीरे और चूड़ा",
+   "for": "Bride",
+   "text": "Show the woman from this photo as a bride raising her hands to show a red and white chooda and golden kaleere hanging from the bangles, wearing a pink dupatta over her head. Soft natural light, close portrait with a happy smile, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "वेडिंग AI फोटो के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>साफ़ और सामने की फोटो:</b> धुंधली या साइड एंगल फोटो से चेहरा बदलने की संभावना बढ़ती है।",
+    "<b>कपल फोटो में दोनों साफ़ हों:</b> एक व्यक्ति आधा कटा हो तो AI उसका चेहरा खुद बना सकता है।",
+    "<b>पहले कपड़े, फिर बैकग्राउंड:</b> एक बार में एक बड़ा बदलाव करें।",
+    "<b>डिज़ाइनर या ब्रांड का नाम न लिखें:</b> रंग, कपड़ा और कढ़ाई शब्दों में बताएं — 'gold zari work', 'mirror work', 'pastel net dupatta'।",
+    "<b>ज्वेलरी कम रखें अगर चेहरा बदले:</b> बहुत भारी गहनों वाले प्रॉम्प्ट में कभी-कभी चेहरे के फीचर्स बदल जाते हैं।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "शादी से पहले <a href='/tulsi-vivah-ai-photo-prompts/'>तुलसी विवाह प्रॉम्प्ट्स</a> भी देखें। साड़ी लुक के लिए <a href='/gemini-ai-photo-prompt-saree/'>साड़ी प्रॉम्प्ट्स</a> और लड़कियों के बाकी स्टाइल <a href='/gemini-ai-photo-prompt-for-girl/'>for girl पेज</a> पर हैं।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wedding AI photo prompt कहाँ इस्तेमाल करें?",
+   "a": "Gemini ऐप या gemini.google.com में फोटो अपलोड करके प्रॉम्प्ट पेस्ट करें। ChatGPT और दूसरे इमेज-एडिटिंग AI में भी ये प्रॉम्प्ट्स पेस्ट किए जा सकते हैं, रिज़ल्ट हर ऐप में थोड़ा अलग आता है।"
+  },
+  {
+   "q": "कपल वेडिंग फोटो में दोनों के चेहरे कैसे बचाएं?",
+   "a": "ऐसी फोटो लें जिसमें दोनों के चेहरे सामने से साफ़ दिखें, और प्रॉम्प्ट के आख़िर की लाइन 'Keep both faces exactly identical to the uploaded photo' न हटाएं। फिर भी बदले तो पहले सिर्फ़ कपड़े बदलें, बैकग्राउंड बाद में।"
+  },
+  {
+   "q": "क्या सिंगल फोटो से कपल वेडिंग फोटो बन सकती है?",
+   "a": "कपल प्रॉम्प्ट्स के लिए एक ऐसी फोटो सबसे अच्छी है जिसमें दोनों साथ हों। किसी और की फोटो उसकी इजाज़त के बिना जोड़कर शादी की तस्वीर न बनाएं।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री हैं?",
+   "a": "हाँ, इस पेज के सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं। कितनी इमेज बना सकते हैं, यह आपके AI ऐप और अकाउंट की मौजूदा लिमिट पर निर्भर करता है।"
+  }
+ ]
+}

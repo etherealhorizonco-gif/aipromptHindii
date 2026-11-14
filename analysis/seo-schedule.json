@@ -2,7 +2,9 @@
  "updated": "2026-11-14",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
-  "Festival pages go live 10–25 days before the festival; verify dates with 2 sources",
+  "Festival pages go live 3–5 weeks (21–35 days) before the festival; never later than 10 days; verify dates with 2 sources",
+  "Photo prompt pages render as a gallery: every prompt block gets a card with sample art and a copy button. Optional per-prompt \"image\": \"/samples/<file>.webp\" (file in static/samples/) shows a real sample instead of generated art",
+  "New viral AI photo trend: node scripts/new-trend.js <slug> \"<Trend name>\" and publish within 24–48 h (see WORKFLOW.md); it does not need a schedule row",
   "Volume/SD null = not measured yet; the daily run may fill it from Ubersuggest",
   "Status: scheduled → published (with date) or skipped (with reason)"
  ],
@@ -431,25 +433,25 @@
    "status": "scheduled"
   },
   {
-   "date": "2026-12-01",
+   "date": "2026-11-15",
    "slug": "christmas-ai-photo-prompts",
    "topic": "Christmas AI photo prompts (couple, kids, family)",
    "keyword": "christmas ai photo prompts",
    "volume": null,
    "sd": null,
    "priority": "P1",
-   "reason": "Fri 25 Dec; publish 24 days ahead. Autocomplete for couples/kids/family (25 Oct review).",
+   "reason": "Fri 25 Dec; publish 24 days ahead. Autocomplete for couples/kids/family (25 Oct review). Pulled forward on 14 Nov (tools + gallery pivot): page already written in content/ on branch claude/project-thread-yn5me8, dated 15 Nov. Daily run: if content/christmas-ai-photo-prompts.json exists, do NOT rewrite it, just mark this row published.",
    "status": "scheduled"
   },
   {
-   "date": "2026-12-07",
+   "date": "2026-11-15",
    "slug": "new-year-2027-ai-photo-prompts",
    "topic": "Happy New Year 2027 AI photo prompts",
    "keyword": "happy new year ai photo editing prompts google gemini",
    "volume": null,
    "sd": null,
    "priority": "P1",
-   "reason": "1 Jan; publish 25 days ahead. Autocomplete 'happy new year 2026 ai photo editing prompts google gemini' last year.",
+   "reason": "1 Jan; publish 25 days ahead. Autocomplete 'happy new year 2026 ai photo editing prompts google gemini' last year. Pulled forward on 14 Nov (tools + gallery pivot): page already written in content/ on branch claude/project-thread-yn5me8, dated 15 Nov. Daily run: if content/new-year-2027-ai-photo-prompts.json exists, do NOT rewrite it, just mark this row published.",
    "status": "scheduled"
   },
   {

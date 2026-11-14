@@ -46,11 +46,32 @@ for (const f of files) {
     if (b.type === "prompt" && (!b.title || !b.text)) err(`${where}: prompt block ${i} needs title and text`);
   }
   for (const [i, q] of (p.faq || []).entries()) if (!q.q || !q.a) err(`${where}: faq ${i} needs q and a`);
+  for (const [i, b] of (p.blocks || []).entries()) {
+    if (b.type === "prompt" && b.image && !(b.image.startsWith("/samples/") && fs.existsSync(path.join(ROOT, "static", b.image)))) err(`${where}: prompt block ${i} image "${b.image}" must be a file in static/samples/`);
+  }
+  if (p.trend !== undefined && typeof p.trend !== "boolean") err(`${where}: "trend" must be true or false`);
+  if (/\bTODO\b/.test(JSON.stringify(p)) && !p.draft) err(`${where}: still contains TODO placeholders (fill them or set "draft": true)`);
   const blob = JSON.stringify(p);
   if (/capcut/i.test(blob)) err(`${where}: mentions CapCut (banned in India — see README)`);
   if (/टेस्टेड|tested prompt/i.test(blob)) warn(`${where}: claims prompts are "tested" — only keep if actually tested`);
 }
 for (const p of posts) for (const r of p.related || []) if (!slugs.has(r)) err(`content/${p.slug}.json: related slug "${r}" does not exist`);
+
+// ---------- 1b. tools ----------
+const TOOLS = require("../tools.config.js");
+const toolSlugs = new Set();
+const MODES = new Set(["compress", "increase", "photo", "crop", "resize", "dpi", "convert", "pdf"]);
+for (const t of TOOLS.tools) {
+  const where = `tools.config.js ${t.slug}`;
+  if (toolSlugs.has(t.slug)) err(`${where}: duplicate slug`);
+  toolSlugs.add(t.slug);
+  for (const k of ["slug", "group", "name", "h1", "description", "mode", "intro", "steps"]) if (!t[k]) err(`${where}: missing "${k}"`);
+  if (!MODES.has(t.mode)) err(`${where}: unknown mode "${t.mode}"`);
+  if (!TOOLS.groups.some((g) => g.slug === t.group)) err(`${where}: unknown group "${t.group}"`);
+  if ((t.seoTitle || t.h1).length > 70) warn(`${where}: SEO title is ${(t.seoTitle || t.h1).length} chars`);
+  if (t.description && (t.description.length < 70 || t.description.length > 170)) warn(`${where}: description is ${t.description.length} chars`);
+}
+for (const t of TOOLS.tools) for (const r of t.related || []) if (!toolSlugs.has(r)) err(`tools.config.js ${t.slug}: related tool "${r}" does not exist`);
 
 // ---------- 2. built output ----------
 if (!fs.existsSync(DIST)) {

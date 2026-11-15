@@ -65,14 +65,14 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 
 ## Week 5 (19–25 Nov)
 - [ ] winter-ai-photo-prompts
-- [ ] christmas-ai-photo-prompts — 25 Dec
+- [x] christmas-ai-photo-prompts — 25 Dec (published 2026-11-15)
 - [ ] cartoon-ai-video-kaise-banaye
 - [ ] ai-se-thumbnail-kaise-banaye
 - [ ] notebooklm-kaise-use-kare
 - [ ] instagram-trending-ai-photo-prompts
 
 ## Week 6 (26 Nov – 2 Dec)
-- [ ] new-year-2027-ai-photo-prompts — 1 Jan
+- [x] new-year-2027-ai-photo-prompts — 1 Jan (published 2026-11-15)
 - [ ] happy-new-year-ai-video-kaise-banaye
 - [ ] ai-se-logo-kaise-banaye
 - [ ] meta-ai-whatsapp-kaise-use-kare
@@ -118,3 +118,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-11-12: +2 posts (dev-diwali-ai-photo-prompts, guru-nanak-jayanti-ai-photo-prompts); link: Tulsi Vivah page → both. Both festivals Tue 24 Nov (12 days ahead), re-verified with 3 sources each; Guru Nanak prompts avoid depicting the Guru and keep heads covered. GSC still not connected.
 - 2026-11-13: +2 posts (ai-se-ppt-kaise-banaye, gemini-ai-photo-prompt-for-girl); links: free AI tools list → PPT guide, for-boy page → for-girl page. No festival dates involved; tool limits described without prices. GSC still not connected.
 - 2026-11-14: +2 posts (wedding-ai-photo-prompts, gemini-ai-photo-prompt-family); links: couple page → wedding page, AI photo editing pillar → family page. No festival dates involved. GSC still not connected.
+- 2026-11-15: +2 posts (christmas-ai-photo-prompts, new-year-2027-ai-photo-prompts — pre-written on 14 Nov, went live with today's build); link: trending 2026 page → both. Fixed civil dates (25 Dec, 1 Jan), 40 and 47 days ahead. retro-vintage and background-change deferred to 16 Nov by the 2/day cap. GSC still not connected.

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 3–5 weeks (21–35 days) before the festival; never later than 10 days; verify dates with 2 sources",
@@ -121,7 +121,7 @@
    "volume": 880,
    "sd": 10,
    "priority": "P2",
-   "reason": "880/mo SD 10 — easiest measured keyword; polaroid + 90s variants (Ubersuggest IN, 10 Nov 2026).",
+   "reason": "880/mo SD 10 — easiest measured keyword; polaroid + 90s variants (Ubersuggest IN, 10 Nov 2026). Deferred 15 Nov: 4 rows due, 2/day cap went to the two P1 festival pages; picked up as overdue on 16 Nov.",
    "status": "scheduled"
   },
   {
@@ -132,7 +132,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Carried from 27 Oct plan; common how-to need.",
+   "reason": "Carried from 27 Oct plan; common how-to need. Deferred 15 Nov: 4 rows due, 2/day cap went to the two P1 festival pages; picked up as overdue on 16 Nov.",
    "status": "scheduled"
   },
   {
@@ -441,7 +441,9 @@
    "sd": null,
    "priority": "P1",
    "reason": "Fri 25 Dec; publish 24 days ahead. Autocomplete for couples/kids/family (25 Oct review). Pulled forward on 14 Nov (tools + gallery pivot): page already written in content/ on branch claude/project-thread-yn5me8, dated 15 Nov. Daily run: if content/christmas-ai-photo-prompts.json exists, do NOT rewrite it, just mark this row published.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-15",
+   "url": "https://aiprompthindii.netlify.app/christmas-ai-photo-prompts/"
   },
   {
    "date": "2026-11-15",
@@ -452,7 +454,9 @@
    "sd": null,
    "priority": "P1",
    "reason": "1 Jan; publish 25 days ahead. Autocomplete 'happy new year 2026 ai photo editing prompts google gemini' last year. Pulled forward on 14 Nov (tools + gallery pivot): page already written in content/ on branch claude/project-thread-yn5me8, dated 15 Nov. Daily run: if content/new-year-2027-ai-photo-prompts.json exists, do NOT rewrite it, just mark this row published.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-15",
+   "url": "https://aiprompthindii.netlify.app/new-year-2027-ai-photo-prompts/"
   },
   {
    "date": "2026-12-08",

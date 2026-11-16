@@ -147,6 +147,10 @@
   {
    "type": "p",
    "html": "त्योहार वाले और लुक के लिए <a href='/dhanteras-ai-photo-prompts/'>धनतेरस प्रॉम्प्ट्स</a>, <a href='/diwali-ai-photo-prompts/'>दिवाली प्रॉम्प्ट्स</a> और <a href='/bhai-dooj-ai-photo-prompts/'>भाई दूज प्रॉम्प्ट्स</a> देखें।"
+  },
+  {
+   "type": "p",
+   "html": "पुरानी फिल्मों वाला लुक पसंद है? 70s बॉलीवुड, 90s और पोलरॉइड स्टाइल के लिए हमारे <a href='/gemini-ai-photo-prompt-retro-vintage/'>रेट्रो विंटेज AI फोटो प्रॉम्प्ट्स</a> देखें।"
   }
  ],
  "faq": [
@@ -167,5 +171,5 @@
    "a": "प्रॉम्प्ट में सिर्फ रंग और कपड़े का नाम बदलें — जैसे 'red Banarasi silk saree' की जगह 'navy blue georgette saree' लिखें। बाकी प्रॉम्प्ट वैसा ही रहने दें।"
   }
  ],
- "updated": "2026-10-24"
+ "updated": "2026-11-16"
 }

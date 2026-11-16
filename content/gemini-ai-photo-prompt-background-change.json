@@ -1,0 +1,218 @@
+{
+ "slug": "gemini-ai-photo-prompt-background-change",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-16",
+ "title": "Gemini AI Photo Background Change Prompt: 16 बैकग्राउंड बदलने वाले प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Gemini AI Photo Background Change Prompt – 16 Copy Paste",
+ "description": "Gemini AI photo background change prompt — सफ़ेद, ब्लर, स्टूडियो, पहाड़, बीच, शहर की रात और ऑफिस बैकग्राउंड के 16 प्रॉम्प्ट्स। सिर्फ़ पीछे का सीन बदले, आप नहीं।",
+ "keywords": "gemini ai photo background change prompt, ai photo background change prompt, gemini background change, photo background change ai, white background ai prompt, blur background ai prompt, बैकग्राउंड बदलने वाला प्रॉम्प्ट",
+ "intro": "अच्छी फोटो है पर पीछे गंदी दीवार, भीड़ या बिखरा कमरा दिख रहा है? Gemini में एक प्रॉम्प्ट से सिर्फ़ <b>बैकग्राउंड</b> बदला जा सकता है — चेहरा, कपड़े और पोज़ वही रहते हैं। नीचे <b>16 कॉपी-पेस्ट प्रॉम्प्ट्स</b> हैं: सादे सफ़ेद और ब्लर बैकग्राउंड से लेकर पहाड़, बीच, शहर की रात और प्रोफेशनल ऑफिस तक।",
+ "related": [
+  "gemini-ai-photo-prompt-without-changing-face",
+  "ai-photo-editing-prompts",
+  "gemini-ai-photo-prompt-copy-paste"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Gemini से फोटो का बैकग्राउंड कैसे बदलें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर लॉगिन करें।",
+    "<b>+</b> से वह फोटो अपलोड करें जिसका बैकग्राउंड बदलना है। व्यक्ति के किनारे (बाल, कंधे) साफ़ दिखें तो नतीजा बेहतर आता है।",
+    "नीचे से प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "कुछ ठीक न लगे तो उसी चैट में छोटा बदलाव लिखें, जैसे <i>'make the background a little darker'</i> या <i>'match the lighting on my face to the new background'</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "सबसे ज़रूरी लाइन",
+   "html": "प्रॉम्प्ट में साफ़ लिखें <i>'change only the background'</i>। इससे AI व्यक्ति को नहीं छेड़ता। हर प्रॉम्प्ट के आख़िर में चेहरा और पोज़ वही रखने वाली लाइन पहले से जुड़ी है। फिर भी चेहरा बदले तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "simple-background",
+   "text": "सादा और प्रोफेशनल बैकग्राउंड"
+  },
+  {
+   "type": "prompt",
+   "title": "सफ़ेद बैकग्राउंड (फ़ॉर्म और ID के लिए)",
+   "for": "All",
+   "text": "Change only the background of this photo to a plain, evenly lit pure white background with no shadows or texture. Keep the clothes and edges of the hair natural and clean. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo.",
+   "tip": "सरकारी फ़ॉर्म की फोटो के लिए साइज़ और बैकग्राउंड का नियम हमेशा नोटिफ़िकेशन में देखें।"
+  },
+  {
+   "type": "prompt",
+   "title": "हल्का नीला बैकग्राउंड",
+   "for": "All",
+   "text": "Change only the background of this photo to a smooth light sky-blue studio background with soft, even lighting and no gradient or objects. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लर (बोकेह) बैकग्राउंड",
+   "for": "All",
+   "text": "Keep the person sharp and blur only the existing background strongly, like a portrait shot with a wide-aperture lens, with soft round bokeh lights. Do not change anything else in the photo. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्टूडियो ग्रे बैकग्राउंड",
+   "for": "All",
+   "text": "Change only the background of this photo to a professional dark grey photo-studio backdrop with a soft spotlight glow behind the person, like a magazine portrait. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ऑफिस / LinkedIn बैकग्राउंड",
+   "for": "All",
+   "text": "Change only the background of this photo to a modern bright office with glass walls, plants and soft daylight, slightly blurred so the person stands out, suitable for a professional profile picture. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "travel-background",
+   "text": "घूमने वाली जगहों के बैकग्राउंड"
+  },
+  {
+   "type": "prompt",
+   "title": "बर्फ़ीले पहाड़",
+   "for": "All",
+   "text": "Change only the background of this photo to snow-covered Himalayan mountains under a clear blue sky with pine trees, natural daylight. Match the light on the person to the outdoor scene. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गोवा जैसा बीच",
+   "for": "All",
+   "text": "Change only the background of this photo to a sunny tropical beach with gentle waves, palm trees and golden sand at sunset. Match the warm sunset light on the person. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "शहर की रात (सिटी लाइट्स)",
+   "for": "All",
+   "text": "Change only the background of this photo to a city street at night with glowing shop signs and blurred traffic lights, soft neon reflections. Adjust the lighting on the person so it looks natural at night. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "हरे-भरे चाय बागान",
+   "for": "All",
+   "text": "Change only the background of this photo to green tea gardens on rolling hills with morning mist, soft natural light, realistic travel-photo look. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ऐतिहासिक किला",
+   "for": "All",
+   "text": "Change only the background of this photo to the courtyard of an old Rajasthani sandstone fort with carved arches, warm afternoon sunlight. Match the light and shadows on the person. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative-background",
+   "text": "क्रिएटिव और त्योहार वाले बैकग्राउंड"
+  },
+  {
+   "type": "prompt",
+   "title": "फूलों की दीवार",
+   "for": "All",
+   "text": "Change only the background of this photo to a wall covered with pink and white roses and green leaves, soft daylight, like a wedding photo booth. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "दीयों और लाइट्स वाला फेस्टिव बैकग्राउंड",
+   "for": "All",
+   "text": "Change only the background of this photo to a festive Indian home entrance decorated with rows of glowing diyas, marigold garlands and warm fairy lights, softly blurred. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश वाली खिड़की",
+   "for": "All",
+   "text": "Change only the background of this photo to a cosy room with a large window, rain drops on the glass and soft grey daylight, a slightly blurred city view outside. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सूर्यास्त वाला खेत",
+   "for": "All",
+   "text": "Change only the background of this photo to a golden wheat field at sunset with a warm orange sky. Add soft rim light on the person's hair and shoulders so they blend into the scene. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ग्रेडिएंट कलर बैकग्राउंड (इंस्टाग्राम)",
+   "for": "All",
+   "text": "Change only the background of this photo to a smooth pastel gradient from peach to lavender, minimal and clean, suitable for an Instagram profile picture. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "गाड़ी या बाइक के साथ",
+   "for": "Boys",
+   "text": "Change only the background of this photo to an empty mountain highway with a parked black motorcycle beside the person, cloudy sky, cinematic natural light. Do not change the person's clothes. Keep the person's face, features, skin tone, hairstyle and pose exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "common-problems",
+   "text": "आम दिक्कतें और उनका हल"
+  },
+  {
+   "type": "table",
+   "head": [
+    "दिक्कत",
+    "उसी चैट में क्या लिखें"
+   ],
+   "rows": [
+    [
+     "चेहरा या हेयरस्टाइल बदल गया",
+     "Keep my face and hair exactly the same as the original photo; change only the background"
+    ],
+    [
+     "व्यक्ति कटा-कटा या चिपकाया हुआ लगता है",
+     "Blend the person naturally into the background and match the lighting and shadows"
+    ],
+    [
+     "कपड़ों का रंग बदल गया",
+     "Do not change the colour or design of my clothes"
+    ],
+    [
+     "बैकग्राउंड बहुत तेज़ है",
+     "Blur the background a little more so I stand out"
+    ],
+    [
+     "फोटो का साइज़ बदल गया",
+     "Keep the same framing and aspect ratio as the original photo"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बेहतर नतीजे के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "ऐसी फोटो लें जिसमें व्यक्ति और पीछे की दीवार के बीच थोड़ी दूरी हो — किनारे साफ़ कटते हैं।",
+    "नए बैकग्राउंड की रोशनी (धूप, रात, स्टूडियो) प्रॉम्प्ट में ज़रूर लिखें, वरना फोटो चिपकाई हुई लगती है।",
+    "एक बार में एक ही बदलाव माँगें; बैकग्राउंड और कपड़े एक साथ बदलने पर चेहरा बदलने की संभावना बढ़ती है।",
+    "किसी और की फोटो सिर्फ़ उसकी इजाज़त से एडिट करें, और नकली जगह दिखाकर किसी को धोखा न दें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "फोटो तैयार हो जाए तो उसका साइज़ कम करने या सही नाप में काटने के लिए हमारे <a href='/tools/'>फ्री फोटो टूल्स</a> इस्तेमाल करें। और प्रॉम्प्ट्स के लिए <a href='/ai-photo-editing-prompts/'>AI फोटो एडिटिंग प्रॉम्प्ट्स</a> और <a href='/gemini-ai-photo-prompt-retro-vintage/'>रेट्रो विंटेज प्रॉम्प्ट्स</a> देखें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gemini में फोटो का बैकग्राउंड कैसे बदलें?",
+   "a": "Gemini ऐप में फोटो अपलोड करें और लिखें 'change only the background to …' — फिर नया बैकग्राउंड बताएं, जैसे white, beach या office। ऊपर दिए प्रॉम्प्ट सीधे कॉपी करके इस्तेमाल कर सकते हैं।"
+  },
+  {
+   "q": "बैकग्राउंड बदलने पर चेहरा क्यों बदल जाता है?",
+   "a": "AI पूरी फोटो दोबारा बनाता है, इसलिए कभी-कभी चेहरा भी बदल जाता है। प्रॉम्प्ट में 'change only the background' और 'keep my face exactly identical' दोनों लिखें, और साफ़, सामने से ली गई फोटो इस्तेमाल करें।"
+  },
+  {
+   "q": "क्या सफ़ेद बैकग्राउंड वाली फोटो सरकारी फ़ॉर्म में चलेगी?",
+   "a": "हर परीक्षा या फ़ॉर्म के अपने नियम होते हैं, और कुछ जगह AI से एडिट की गई फोटो मान्य नहीं होती। फोटो लगाने से पहले उस फ़ॉर्म का नोटिफ़िकेशन ज़रूर पढ़ें।"
+  },
+  {
+   "q": "क्या यही प्रॉम्प्ट ChatGPT में चलेंगे?",
+   "a": "हाँ, ये सादे अंग्रेज़ी प्रॉम्प्ट हैं, इसलिए फोटो एडिट करने वाले दूसरे AI में भी डाले जा सकते हैं। नतीजा हर ऐप में थोड़ा अलग आ सकता है।"
+  }
+ ]
+}

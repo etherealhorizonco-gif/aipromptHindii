@@ -1,0 +1,191 @@
+{
+ "slug": "gemini-ai-photo-prompt-retro-vintage",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-16",
+ "title": "Gemini AI Photo Prompt Retro Vintage: 16 रेट्रो, 90s और पोलरॉइड प्रॉम्प्ट्स (Copy Paste)",
+ "seoTitle": "Gemini AI Photo Prompt Retro Vintage – 16 Copy Paste Prompts",
+ "description": "Gemini AI photo prompt retro vintage — 70s बॉलीवुड, 90s लुक, ब्लैक एंड वाइट, पोलरॉइड और फिल्म ग्रेन वाले 16 प्रॉम्प्ट्स। कॉपी करें, चेहरा वही रहे।",
+ "keywords": "gemini ai photo prompt retro vintage, google gemini retro style vintage ai photo editing prompts, retro ai photo prompt, vintage ai photo prompt, 90s ai photo prompt, polaroid ai photo prompt, black and white ai photo prompt, रेट्रो AI फोटो प्रॉम्प्ट",
+ "intro": "पुरानी फिल्मों जैसी दानेदार (film grain) फोटो, 90s का कैमरा फ्लैश या पोलरॉइड फ्रेम — रेट्रो लुक इंस्टाग्राम पर फिर से ट्रेंड में है। नीचे <b>16 कॉपी-पेस्ट प्रॉम्प्ट्स</b> हैं जो आपकी फोटो को 70s, 80s, 90s या ब्लैक एंड वाइट स्टाइल में बदलते हैं। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-saree",
+  "gemini-ai-photo-prompt-instagram-aesthetic",
+  "gemini-ai-photo-prompt-without-changing-face"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "रेट्रो AI फोटो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर Google अकाउंट से लॉगिन करें। ChatGPT जैसा कोई दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "<b>+</b> बटन से अपनी एक साफ़ फोटो अपलोड करें — चेहरा सामने से और अच्छी रोशनी में हो।",
+    "नीचे से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "रंग या दशक बदलना हो तो उसी चैट में लिखें, जैसे <i>'make it look like a 1980s photo'</i> या <i>'add more film grain'</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "टिप",
+   "html": "चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें। साड़ी वाला रेट्रो लुक चाहिए तो <a href='/gemini-ai-photo-prompt-saree/'>साड़ी प्रॉम्प्ट्स</a> भी देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "bollywood-retro",
+   "text": "70s–80s बॉलीवुड रेट्रो प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "70s बॉलीवुड पोस्टर लुक",
+   "for": "All",
+   "text": "Transform this photo into a 1970s Bollywood-style portrait of the same person. Warm faded colours, soft film grain, slightly soft focus, a hand-painted cinema-poster feel in the background with muted orange and teal tones, dramatic side lighting on the face. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रेट्रो साड़ी विंटेज पोर्ट्रेट",
+   "for": "Saree",
+   "text": "Show the woman from this photo in a 1970s retro look: a plain chiffon saree in mustard yellow, a puffed bouffant hairstyle, winged eyeliner, big round earrings, standing against a textured pastel wall with a beam of warm sunlight. Film grain, faded vintage colours, realistic photography. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "80s हीरो लुक (लड़कों के लिए)",
+   "for": "Boys",
+   "text": "Show the man from this photo in a 1980s retro hero look: a wide-collar printed shirt with the top buttons open, flared trousers, a thick wristwatch and aviator sunglasses in his hand, leaning on a vintage motorcycle on an old city road. Warm faded colours, film grain, cinematic vintage photograph. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रेट्रो कपल स्कूटर राइड",
+   "for": "Couple",
+   "text": "Show the couple from this photo riding an old-model pastel blue scooter on a quiet tree-lined road, the woman sitting behind holding a dupatta that flies in the wind, both in 1970s clothes. Soft golden-hour light, faded film colours, light grain, nostalgic mood. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "90s-look",
+   "text": "90s और Y2K वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "90s कैमरा फ्लैश फोटो",
+   "for": "All",
+   "text": "Recreate this photo as if it was taken on a 1990s point-and-shoot film camera at night with direct flash: slightly overexposed face, dark background, warm colour cast, visible grain, and an orange date stamp in the bottom right corner. Keep the face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "डेट स्टैम्प की तारीख़ बदलनी हो तो प्रॉम्प्ट में लिखें, जैसे 'date stamp 08 12 1998'।"
+  },
+  {
+   "type": "prompt",
+   "title": "90s स्टूडियो पोर्ट्रेट",
+   "for": "All",
+   "text": "Show the person from this photo in a 1990s Indian photo-studio portrait: a painted backdrop of a garden with a fountain, a plastic flower vase on a side table, the person sitting on a carved wooden chair in their best outfit, slightly stiff formal pose, soft flat studio light, faded print colours. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "90s कॉलेज डेनिम लुक",
+   "for": "All",
+   "text": "Show the person from this photo in a 1990s college look: an oversized denim jacket over a plain white T-shirt, loose jeans, a cassette walkman with headphones around the neck, standing outside an old college gate. Faded film colours, light grain, candid street photography. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "Y2K पिंक ग्लॉसी लुक",
+   "for": "Girls",
+   "text": "Show the person from this photo in a Y2K early-2000s fashion look with glossy lips, butterfly hair clips, a baby-pink top and a small shiny handbag, posing in front of a chrome and pastel background. Slightly washed-out digital camera colours, soft flash. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "black-white-polaroid",
+   "text": "ब्लैक एंड वाइट, पोलरॉइड और फिल्म प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "क्लासिक ब्लैक एंड वाइट पोर्ट्रेट",
+   "for": "All",
+   "text": "Convert this photo into a timeless black and white portrait of the same person. High contrast, deep shadows, soft window light from one side, fine film grain, the look of a classic 1960s photograph printed on matte paper. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पोलरॉइड फ्रेम फोटो",
+   "for": "All",
+   "text": "Turn this photo into an instant polaroid picture of the same person: a square image with a thick white border and a wider bottom strip, slightly faded colours, soft vignette, and the polaroid lying on a wooden table beside dried flowers. Keep the face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "पोलरॉइड के नीचे कुछ लिखवाना हो तो जोड़ें: 'with the handwritten text \"Summer 2026\" on the white strip'।"
+  },
+  {
+   "type": "prompt",
+   "title": "पोलरॉइड कोलाज",
+   "for": "All",
+   "text": "Create a collage of four instant polaroid photos of the same person pinned on a cork board with small clothespins and fairy lights, each polaroid showing a different candid pose and expression, faded warm colours and a white border on each. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "सेपिया पुरानी फोटो",
+   "for": "All",
+   "text": "Make this photo look like a 100-year-old sepia photograph of the same person: brown-toned, slightly scratched and creased paper texture, soft edges, a formal pose in traditional clothing of that era, printed on old card stock. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "35mm फिल्म स्ट्रीट शॉट",
+   "for": "All",
+   "text": "Show the person from this photo walking on a busy old-city street, captured on 35mm film: warm Kodak-style colours, natural sunlight, slight motion blur in the background crowd, light grain and soft contrast, candid documentary feel. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative-retro",
+   "text": "क्रिएटिव रेट्रो प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "विंटेज मैगज़ीन कवर",
+   "for": "All",
+   "text": "Create a vintage 1970s magazine cover featuring the person from this photo as the cover star: retro bold typography with the title 'RETRO' at the top, faded printed paper texture, warm colours, halftone dots, and a confident pose. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "रेट्रो कैफ़े और जूकबॉक्स",
+   "for": "All",
+   "text": "Show the person from this photo sitting in a retro 1960s diner booth with red leather seats, a jukebox glowing in the background, a milkshake on the table, wearing a vintage polka-dot outfit. Pastel colours, film grain, nostalgic mood. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पुराना रेडियो और चाय",
+   "for": "All",
+   "text": "Show the person from this photo sitting on a cane chair on an old Indian verandah, a vintage valve radio and a cup of tea on a small table beside them, wearing simple cotton clothes. Soft afternoon light, faded film colours, light grain, peaceful nostalgic mood. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "रेट्रो लुक के लिए टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "दशक साफ़ लिखें — <i>1970s</i>, <i>1990s</i> या <i>early 2000s</i> — इससे कपड़े, रंग और लाइट उसी हिसाब से आते हैं।",
+    "<i>film grain</i>, <i>faded colours</i> और <i>soft vignette</i> जैसे शब्द रेट्रो फ़ील बढ़ाते हैं।",
+    "ब्लैक एंड वाइट के लिए हल्की साइड लाइट वाली फोटो अपलोड करें, ताकि चेहरे पर गहराई आए।",
+    "नतीजा ज़्यादा नकली लगे तो लिखें <i>'make it more natural and realistic'</i>।",
+    "किसी और की फोटो सिर्फ़ उसकी इजाज़त से एडिट करें, और असली लोगों की नकली फोटो बनाकर शेयर न करें।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "और स्टाइल चाहिए? <a href='/gemini-ai-photo-prompt-instagram-aesthetic/'>इंस्टाग्राम एस्थेटिक प्रॉम्प्ट्स</a>, <a href='/gemini-ai-photo-prompt-for-boy/'>लड़कों के लिए प्रॉम्प्ट्स</a> और <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini कॉपी-पेस्ट प्रॉम्प्ट्स</a> देखें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "रेट्रो विंटेज AI फोटो किस ऐप से बनाएं?",
+   "a": "Google Gemini सबसे आसान है — फोटो अपलोड करें और प्रॉम्प्ट पेस्ट करें। ChatGPT जैसे दूसरे इमेज-एडिटिंग AI में भी यही प्रॉम्प्ट चल सकते हैं, पर नतीजा हर ऐप में थोड़ा अलग आता है।"
+  },
+  {
+   "q": "फोटो में मेरा चेहरा बदल जाता है, क्या करूं?",
+   "a": "हर प्रॉम्प्ट के आख़िर में चेहरा वैसा ही रखने वाली लाइन जुड़ी है। फिर भी बदले तो उसी चैट में लिखें 'keep my face exactly the same as the original photo' और साफ़, सामने से ली गई फोटो अपलोड करें।"
+  },
+  {
+   "q": "90s वाला डेट स्टैम्प कैसे लगाएं?",
+   "a": "प्रॉम्प्ट में लिखें 'add an orange date stamp in the bottom right corner' और चाहें तो तारीख़ भी, जैसे '08 12 1998'। AI कभी-कभी अंक गलत लिखता है, तब दोबारा कहें।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट फ्री हैं?",
+   "a": "हाँ, इस पेज के सभी प्रॉम्प्ट मुफ़्त हैं — कॉपी करें और इस्तेमाल करें। AI ऐप की अपनी फ्री लिमिट हो सकती है, वह ऐप पर निर्भर है।"
+  }
+ ]
+}

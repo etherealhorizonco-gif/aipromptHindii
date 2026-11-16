@@ -28,7 +28,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [x] gemini-ai-photo-prompt-trending-2026 — (2026-10-26) "trending" 8.1k SD 19, "trending 2026" 1.9k; autocomplete: trending boy/girl 2026, sad, rose, butterfly, car
 - Tue 27 Oct
   - [x] ai-photo-editing-prompts — (2026-11-11) ChatGPT + Gemini pillar, 27.1k/mo, SD 17; boys, girls, couple, kids, birthday
-  - [ ] gemini-ai-photo-prompt-background-change — background change prompts
+  - [x] gemini-ai-photo-prompt-background-change — background change prompts
 - Wed 28 Oct
   - [ ] chhath-puja-ai-video-kaise-banaye — Chhath 15 Nov (18 days ahead); link the Chhath photo page
   - [x] gemini-ai-photo-prompt-for-girl — (2026-11-13) "copy paste trending girl 2026", women saree/western look
@@ -42,7 +42,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [x] guru-nanak-jayanti-ai-photo-prompts — Gurpurab Tue 24 Nov (24 days ahead); greeting images ("guru nanak jayanti ki photo")
   - [ ] photo-se-ai-video-kaise-banaye — "photo se ai video kaise banaye (free)"
 - Sun 1 Nov
-  - [ ] gemini-ai-photo-prompt-retro-vintage — "retro style vintage" 880/mo SD 8; 90s, black and white, polaroid
+  - [x] gemini-ai-photo-prompt-retro-vintage — "retro style vintage" 880/mo SD 8; 90s, black and white, polaroid
   - [ ] old-photo-restore-ai-prompt — "old photo to new", purani photo ko naya kaise banaye
 
 ## Week 2 (29 Oct – 4 Nov)
@@ -119,3 +119,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-11-13: +2 posts (ai-se-ppt-kaise-banaye, gemini-ai-photo-prompt-for-girl); links: free AI tools list → PPT guide, for-boy page → for-girl page. No festival dates involved; tool limits described without prices. GSC still not connected.
 - 2026-11-14: +2 posts (wedding-ai-photo-prompts, gemini-ai-photo-prompt-family); links: couple page → wedding page, AI photo editing pillar → family page. No festival dates involved. GSC still not connected.
 - 2026-11-15: +2 posts (christmas-ai-photo-prompts, new-year-2027-ai-photo-prompts — pre-written on 14 Nov, went live with today's build); link: trending 2026 page → both. Fixed civil dates (25 Dec, 1 Jan), 40 and 47 days ahead. retro-vintage and background-change deferred to 16 Nov by the 2/day cap. GSC still not connected.
+- 2026-11-16: +2 posts (gemini-ai-photo-prompt-retro-vintage, gemini-ai-photo-prompt-background-change — both carried over from 15 Nov, 16 prompts each); links: saree page → retro, without-changing-face page → background change. haldi-mehndi and nano-banana deferred to 17 Nov by the 2/day cap. GSC still not connected.

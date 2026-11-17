@@ -1,0 +1,242 @@
+{
+ "slug": "nano-banana-prompt-hindi",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-17",
+ "title": "Nano Banana AI Photo Editing Prompts: Gemini में फोटो एडिट करने के 16 हिंदी गाइड प्रॉम्प्ट्स",
+ "seoTitle": "Nano Banana AI Photo Editing Prompts – 16 Prompts (Hindi)",
+ "description": "Nano banana AI photo editing prompts — Gemini में बैकग्राउंड, कपड़े, लाइट और स्टाइल बदलने के 16 कॉपी-पेस्ट प्रॉम्प्ट्स, हिंदी गाइड और फॉलो-अप टिप्स के साथ।",
+ "keywords": "nano banana ai photo editing prompts, nano banana prompt, nano banana prompt hindi, gemini nano banana photo editing, nano banana ai photo prompt copy paste, नैनो बनाना प्रॉम्प्ट",
+ "intro": "<b>Nano Banana</b> नाम Google के Gemini इमेज-एडिटिंग मॉडल के लिए मशहूर हुआ है — वही जो Gemini ऐप में आपकी फोटो पढ़कर लिखे हुए निर्देश से उसे एडिट करता है। इस पेज पर हिंदी में समझिए कि इसे कैसे इस्तेमाल करें, और नीचे <b>16 कॉपी-पेस्ट nano banana AI photo editing prompts</b> हैं — छोटे एडिट, स्टाइल बदलना और ट्रेंडिंग लुक। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन जुड़ी है।",
+ "related": [
+  "ai-photo-editing-prompts",
+  "gemini-ai-photo-prompt-without-changing-face",
+  "gemini-ai-photo-prompt-background-change"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "nano-banana-kya-hai",
+   "text": "Nano Banana क्या है?"
+  },
+  {
+   "type": "p",
+   "html": "Nano Banana कोई अलग ऐप नहीं है। यह Google के Gemini इमेज मॉडल का लोकप्रिय नाम है, जो Gemini ऐप और gemini.google.com के अंदर फोटो बनाने और एडिट करने का काम करता है। आप फोटो अपलोड करते हैं, सादी भाषा में लिखते हैं कि क्या बदलना है, और यह बाकी फोटो को लगभग वैसा ही रखते हुए वही हिस्सा बदलने की कोशिश करता है।"
+  },
+  {
+   "type": "p",
+   "html": "इसकी सबसे काम की बात है <b>बातचीत में एडिट</b> — पहली इमेज बनने के बाद आप उसी चैट में अगला छोटा निर्देश लिख सकते हैं, जैसे 'अब बैकग्राउंड बदलो' या 'लाइट थोड़ी गर्म करो'। इसलिए लंबे प्रॉम्प्ट की जगह छोटे-छोटे स्टेप अक्सर बेहतर काम करते हैं। कौन-सा मॉडल वर्ज़न और कितनी इमेज की लिमिट मिलेगी, यह आपके अकाउंट और Google के मौजूदा प्लान पर निर्भर करता है।"
+  },
+  {
+   "type": "note",
+   "title": "नकली ऐप से बचें",
+   "html": "Play Store या वेबसाइटों पर 'Nano Banana' नाम से कई अनजान ऐप दिखते हैं। फोटो एडिट के लिए Google का आधिकारिक <b>Gemini ऐप</b> या <b>gemini.google.com</b> ही इस्तेमाल करें, और कहीं भी अपना पासवर्ड या OTP न डालें।"
+  },
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Nano Banana से फोटो एडिट कैसे करें (स्टेप बाय स्टेप)"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर अपने Google अकाउंट से लॉगिन करें।",
+    "चैट बॉक्स में <b>+</b> आइकन दबाकर गैलरी से एक साफ़, सामने वाली फोटो चुनें।",
+    "नीचे से कोई प्रॉम्प्ट <b>कॉपी</b> करें, पेस्ट करें और सेंड करें।",
+    "रिज़ल्ट आने के बाद उसी चैट में छोटा फॉलो-अप लिखें, जैसे <i>'make the light warmer'</i> या <i>'keep everything same, only change the shirt to white'</i>।",
+    "पसंद आने पर इमेज पर टैप करके डाउनलोड करें।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "सिर्फ़ अपनी फोटो",
+   "html": "ये प्रॉम्प्ट्स अपनी फोटो या उन लोगों की फोटो के लिए हैं जिन्होंने इजाज़त दी हो। किसी असली व्यक्ति की नकली या भ्रामक तस्वीर बनाकर शेयर न करें। चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "quick-edits",
+   "text": "छोटे एडिट वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "सिर्फ़ बैकग्राउंड बदलें",
+   "for": "All",
+   "text": "Keep the person, pose, clothes and lighting on the face exactly as they are, and only replace the background with a clean, softly blurred city street at golden hour. Match the background light direction to the face so it looks natural. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कपड़े बदलें, बाकी सब वही",
+   "for": "All",
+   "text": "Change only the outfit of the person in this photo to a plain white linen shirt (or a white kurta for traditional look), keeping the same pose, hairstyle, background and camera angle. Natural fabric folds, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "अंधेरी फोटो को ठीक करें",
+   "for": "All",
+   "text": "Fix the lighting of this photo: brighten the dark areas, remove the yellow tint, balance the skin tone naturally and add soft daylight from the front, without changing anything else in the image. Realistic, not over-smoothed. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "भीड़ हटाएं",
+   "for": "All",
+   "text": "Remove the other people and the clutter in the background of this photo and fill the space naturally with the same location, keeping the main person, pose and lighting unchanged. Realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "DSLR जैसा पोर्ट्रेट ब्लर",
+   "for": "All",
+   "text": "Turn this into a portrait-mode style photo: keep the person sharp and add a smooth creamy background blur like an 85mm lens at f/1.8, slightly improve contrast and colour. Do not change the person's face, hair or clothes. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "style",
+   "text": "स्टाइल बदलने वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "सिनेमैटिक फिल्म पोस्टर लुक",
+   "for": "All",
+   "text": "Recreate this photo as a cinematic movie-style portrait with moody teal and orange colour grading, dramatic side light, light fog in the background and a wide 21:9 frame. No text on the image. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ब्लैक एंड व्हाइट स्टूडियो",
+   "for": "All",
+   "text": "Convert this photo into a high-contrast black and white studio portrait with a dark plain background, soft key light from one side and fine film grain, like a classic magazine profile photo. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "वॉटरकलर पेंटिंग",
+   "for": "All",
+   "text": "Turn this photo into a soft watercolour painting on textured paper, with loose brush strokes, light colour bleeding at the edges and a white border, while keeping the person clearly recognisable. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ट्रेडिशनल इंडियन लुक",
+   "for": "All",
+   "text": "Show the person from this photo in traditional Indian festive wear (a silk kurta for men or a silk saree for women) standing in a courtyard with diyas and marigold decor, warm evening light, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "प्रोफेशनल हेडशॉट",
+   "for": "All",
+   "text": "Make a professional headshot from this photo: person in a dark blazer over a light shirt, neat hair, plain light grey studio background, soft even lighting, chest-up framing, suitable for a resume or LinkedIn profile. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "trending",
+   "text": "ट्रेंडिंग Nano Banana प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "3D फिगरिन ऑन डेस्क",
+   "for": "All",
+   "text": "Create a realistic 1/7 scale collectible figurine of the person in this photo, standing on a round clear acrylic base on a wooden computer desk, with a toy-style printed box beside it showing the same figure. Soft indoor light, sharp product photography. Keep the face exactly identical to the uploaded photo.",
+   "tip": "बॉक्स पर किसी असली ब्रांड या कंपनी का नाम/लोगो न लिखवाएं।"
+  },
+  {
+   "type": "prompt",
+   "title": "पोलरॉइड हग विद यंगर मी",
+   "for": "All",
+   "text": "Create a polaroid-style photo of the person from this photo hugging a younger version of themselves (about 8 years old) with the same face features, plain white curtain background, soft flash light, slight film blur and a white polaroid border. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश में साड़ी/कुर्ता",
+   "for": "All",
+   "text": "Show the person from this photo standing in light monsoon rain under a black umbrella on an old city street, wearing a simple saree (or kurta for men), wet road reflections, cinematic soft light and shallow depth of field. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कपल गोल्डन आवर",
+   "for": "Couple",
+   "text": "Show the couple from this photo walking hand in hand on a beach at golden hour, the woman in a flowing pastel dress and the man in a white shirt, soft wind in their hair, warm sunlight and gentle lens flare, realistic photography. Keep both faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मिनिएचर दुनिया",
+   "for": "All",
+   "text": "Show a tiny miniature version of the person from this photo sitting on the rim of a giant coffee cup on a wooden table, with steam rising behind them, realistic tilt-shift macro photography, soft morning light. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी फोटो से नई",
+   "for": "All",
+   "text": "Restore this old photo: remove scratches, dust and fold marks, sharpen it gently, fix faded colours to natural tones and keep the original clothes, pose and background. Do not beautify or change the person. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "follow-up",
+   "text": "फॉलो-अप लाइनें: रिज़ल्ट ठीक करने के लिए"
+  },
+  {
+   "type": "table",
+   "head": [
+    "दिक्कत",
+    "उसी चैट में यह लिखें"
+   ],
+   "rows": [
+    [
+     "चेहरा थोड़ा बदल गया",
+     "Keep everything same, but restore the original face from the uploaded photo exactly."
+    ],
+    [
+     "फोटो ज़्यादा प्लास्टिक/चिकनी लग रही",
+     "Make the skin texture natural with visible pores, less smoothing."
+    ],
+    [
+     "रंग बहुत तेज़ हैं",
+     "Reduce saturation slightly and make the colours more natural."
+    ],
+    [
+     "हाथ या उँगलियाँ अजीब हैं",
+     "Fix the hands so they look natural with five fingers each, keep everything else same."
+    ],
+    [
+     "फोटो का साइज़ गलत है",
+     "Change the aspect ratio to 9:16 vertical without cropping the face."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "Nano Banana प्रॉम्प्ट लिखने के 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>पहले बताएं क्या नहीं बदलना:</b> 'Keep the person, pose and face same' से शुरू करने पर बाकी फोटो कम बिगड़ती है।",
+    "<b>एक बार में एक बदलाव:</b> बैकग्राउंड, कपड़े और लाइट तीनों एक साथ बदलने के बजाय तीन फॉलो-अप में बदलें।",
+    "<b>अंग्रेज़ी में प्रॉम्प्ट, हिंदी में भी चलेगा:</b> Gemini हिंदी समझता है, पर लंबे विज़ुअल डिटेल अंग्रेज़ी में अक्सर ज़्यादा सटीक आते हैं।",
+    "<b>किसी ब्रांड, स्टूडियो या सेलिब्रिटी का नाम न लिखें:</b> रंग, लाइट और कैमरा शब्दों में बताएं — 'soft window light', '85mm portrait'।",
+    "<b>साफ़ फोटो दें:</b> धुंधली, बहुत दूर की या साइड एंगल फोटो से चेहरा बदलने की संभावना बढ़ती है।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "और एडिटिंग आइडिया के लिए हमारा <a href='/ai-photo-editing-prompts/'>Google Gemini AI photo editing prompts</a> पेज देखें। सिर्फ़ बैकग्राउंड बदलना है तो <a href='/gemini-ai-photo-prompt-background-change/'>बैकग्राउंड चेंज प्रॉम्प्ट्स</a>, और पुराने ज़माने वाले लुक के लिए <a href='/gemini-ai-photo-prompt-retro-vintage/'>रेट्रो विंटेज प्रॉम्प्ट्स</a> हैं। एडिट की हुई फोटो का साइज़ कम करना हो तो हमारे फ्री <a href='/tools/'>फोटो टूल्स</a> इस्तेमाल करें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Nano Banana क्या है और यह कहाँ मिलेगा?",
+   "a": "Nano Banana Google के Gemini इमेज-एडिटिंग मॉडल का लोकप्रिय नाम है। इसके लिए अलग ऐप की ज़रूरत नहीं — Gemini ऐप या gemini.google.com में फोटो अपलोड करके निर्देश लिखें।"
+  },
+  {
+   "q": "क्या Nano Banana फ्री है?",
+   "a": "Gemini ऐप में फोटो एडिटिंग फ्री अकाउंट से भी की जा सकती है, पर रोज़ कितनी इमेज बना सकते हैं और कौन-सा वर्ज़न मिलेगा, यह Google की मौजूदा लिमिट और आपके प्लान पर निर्भर करता है। इस पेज के सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं।"
+  },
+  {
+   "q": "Nano Banana से एडिट करने पर चेहरा क्यों बदल जाता है?",
+   "a": "बड़े बदलाव, धुंधली फोटो या बहुत भारी स्टाइल वाले प्रॉम्प्ट में ऐसा होता है। प्रॉम्प्ट के आख़िर की लाइन 'Keep the face exactly identical to the uploaded photo' रखें, एक बार में एक बदलाव करें, और ज़रूरत हो तो फॉलो-अप में चेहरा वापस मूल फोटो जैसा करने को लिखें।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स ChatGPT में भी चलते हैं?",
+   "a": "हाँ, ChatGPT और दूसरे इमेज-एडिटिंग AI में भी फोटो अपलोड करके ये प्रॉम्प्ट्स पेस्ट किए जा सकते हैं। रिज़ल्ट और चेहरे की सटीकता हर टूल में अलग होती है।"
+  },
+  {
+   "q": "क्या हिंदी में प्रॉम्प्ट लिख सकते हैं?",
+   "a": "हाँ, Gemini हिंदी निर्देश समझता है। छोटे फॉलो-अप जैसे 'बैकग्राउंड नीला कर दो' हिंदी में ठीक चलते हैं; लंबे स्टाइल वाले प्रॉम्प्ट अंग्रेज़ी में अक्सर ज़्यादा सटीक रिज़ल्ट देते हैं।"
+  }
+ ]
+}

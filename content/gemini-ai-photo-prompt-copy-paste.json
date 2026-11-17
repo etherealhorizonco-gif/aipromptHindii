@@ -44,6 +44,10 @@
    "html": "बैकग्राउंड बदलना, रोशनी ठीक करना, ब्लर या सिनेमैटिक लुक जैसे एडिटिंग काम चाहिए? हमारे <a href='/ai-photo-editing-prompts/'>Google Gemini AI photo editing prompts</a> पेज पर 21 प्रॉम्प्ट्स काम के हिसाब से बाँटे गए हैं।"
   },
   {
+   "type": "p",
+   "html": "Gemini का इमेज-एडिटिंग मॉडल 'Nano Banana' नाम से मशहूर है। इसे हिंदी में स्टेप बाय स्टेप समझने और छोटे एडिट वाले प्रॉम्प्ट्स के लिए हमारी <a href='/nano-banana-prompt-hindi/'>nano banana AI photo editing prompts</a> गाइड देखें।"
+  },
+  {
    "type": "h2",
    "id": "boys-prompts",
    "text": "लड़कों के लिए ट्रेंडिंग प्रॉम्प्ट्स (Gemini Prompt for Boy)"
@@ -272,5 +276,5 @@
    "a": "हम यह पेज हर हफ्ते अपडेट करते हैं और त्योहारों के लिए अलग पेज बनाते हैं, जैसे <a href='/diwali-ai-photo-prompts/'>दिवाली AI फोटो प्रॉम्प्ट्स</a>।"
   }
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-17"
 }

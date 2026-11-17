@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 3–5 weeks (21–35 days) before the festival; never later than 10 days; verify dates with 2 sources",
@@ -148,7 +148,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Wedding-season companion to the wedding page. Deferred 16 Nov: 2/day cap went to the two overdue 15 Nov rows; picked up as overdue on 17 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-17",
+   "url": "https://aiprompthindii.netlify.app/haldi-mehndi-ai-photo-prompts/"
   },
   {
    "date": "2026-11-16",
@@ -159,7 +161,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Autocomplete theme from weekly review 25 Oct. Deferred 16 Nov: 2/day cap went to the two overdue 15 Nov rows; picked up as overdue on 17 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-17",
+   "url": "https://aiprompthindii.netlify.app/nano-banana-prompt-hindi/"
   },
   {
    "date": "2026-11-17",
@@ -169,7 +173,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Seasonal: autocomplete 'google gemini winter ai photo editing prompts'; peaks Dec–Jan.",
+   "reason": "Seasonal: autocomplete 'google gemini winter ai photo editing prompts'; peaks Dec–Jan. Deferred 17 Nov by the 2/day cap (overdue 16 Nov rows went first); picked up as overdue on 18 Nov.",
    "status": "scheduled"
   },
   {
@@ -180,7 +184,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Video cluster: 'ai video kaise banaye' 18.1k SD 27 (Ubersuggest IN, Oct 2026 (CONTENT-PLAN)).",
+   "reason": "Video cluster: 'ai video kaise banaye' 18.1k SD 27 (Ubersuggest IN, Oct 2026 (CONTENT-PLAN)). Deferred 17 Nov by the 2/day cap (overdue 16 Nov rows went first); picked up as overdue on 18 Nov.",
    "status": "scheduled"
   },
   {

@@ -1,0 +1,265 @@
+{
+ "slug": "photo-se-ai-video-kaise-banaye",
+ "category": "ai-video",
+ "date": "2026-11-18",
+ "title": "Photo Se AI Video Kaise Banaye: मोबाइल से फ्री में फोटो को वीडियो में बदलें (2026)",
+ "seoTitle": "Photo Se AI Video Kaise Banaye? Free, Mobile Se (2026)",
+ "description": "Photo se AI video kaise banaye — Gemini और Meta AI से अपनी या पुरानी फैमिली फोटो को चलती वीडियो में बदलने का आसान तरीका, 10 कॉपी-पेस्ट प्रॉम्प्ट्स के साथ।",
+ "keywords": "photo se ai video kaise banaye, photo se video kaise banaye ai, image to video ai hindi, photo ko video me kaise badle, purani photo ka video kaise banaye, फोटो से AI वीडियो",
+ "intro": "एक फोटो, और कुछ सेकंड में वही फोटो मुस्कुराती, पलक झपकाती, हवा में बाल उड़ाती वीडियो बन जाए — यही है फोटो से AI वीडियो। इस गाइड में मोबाइल से Gemini और Meta AI के ज़रिए फोटो को वीडियो में बदलने का स्टेप-बाय-स्टेप तरीका, 10 कॉपी-पेस्ट प्रॉम्प्ट्स और आम गलतियों का हल है।",
+ "related": [
+  "ai-video-kaise-banaye",
+  "diwali-ai-video-kaise-banaye",
+  "gemini-ai-photo-prompt-without-changing-face"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kya-hota-hai",
+   "text": "फोटो से AI वीडियो क्या होता है?"
+  },
+  {
+   "type": "p",
+   "html": "फोटो से AI वीडियो (image to video) में आप एक स्थिर फोटो अपलोड करते हैं और AI उसमें हलचल जोड़ देता है — व्यक्ति मुस्कुराता है, पलकें झपकाता है, बाल हवा में उड़ते हैं, पीछे बादल चलते हैं या कैमरा धीरे-धीरे पास आता है। नतीजा आमतौर पर 5–10 सेकंड का छोटा क्लिप होता है, जिसे आप WhatsApp स्टेटस, Instagram Reels या YouTube Shorts में इस्तेमाल कर सकते हैं।"
+  },
+  {
+   "type": "p",
+   "html": "टेक्स्ट से वीडियो के मुकाबले फोटो से वीडियो का फ़ायदा यह है कि चेहरा, कपड़े और जगह पहले से तय होते हैं, इसलिए AI को कम अंदाज़ा लगाना पड़ता है। अगर आप AI वीडियो में बिल्कुल नए हैं, तो पहले हमारी बेसिक गाइड <a href='/ai-video-kaise-banaye/'>AI video kaise banaye</a> पढ़ लें।"
+  },
+  {
+   "type": "h2",
+   "id": "kya-chahiye",
+   "text": "शुरू करने से पहले क्या चाहिए"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "एक स्मार्टफोन और इंटरनेट कनेक्शन — कंप्यूटर ज़रूरी नहीं।",
+    "एक AI वीडियो टूल जिसमें फोटो अपलोड करने का विकल्प हो, जैसे <b>Gemini ऐप</b> (वीडियो फीचर) या <b>Meta AI</b> ऐप।",
+    "एक साफ़ फोटो: चेहरा सामने से, अच्छी रोशनी, धुंधलापन नहीं। फोटो जितनी साफ़ होगी, वीडियो में चेहरा उतना कम बदलेगा।",
+    "फोटो बहुत भारी हो तो हमारे <a href='/tools/photo-size-kam-kare/'>फ्री फोटो साइज़ टूल</a> से साइज़ कम कर लें।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "kaunsa-tool",
+   "text": "फोटो से वीडियो के लिए कौन-सा टूल चुनें"
+  },
+  {
+   "type": "table",
+   "head": [
+    "टूल",
+    "फोटो से वीडियो में क्या अच्छा है",
+    "फ्री में?"
+   ],
+   "rows": [
+    [
+     "<b>Google Gemini (Veo)</b>",
+     "सबसे रियलिस्टिक हलचल, कई बार आवाज़ के साथ",
+     "मुख्य रूप से पेड प्लान में; फ्री यूज़र्स को कभी-कभी सीमित ट्रायल"
+    ],
+    [
+     "<b>Meta AI ऐप</b>",
+     "फोटो को जल्दी animate करना, छोटे वायरल क्लिप",
+     "हाँ, फ्री"
+    ],
+    [
+     "<b>Canva</b>",
+     "बने हुए क्लिप में टेक्स्ट, म्यूज़िक और ट्रांज़िशन जोड़ना",
+     "हाँ, फ्री प्लान में कुछ AI क्रेडिट"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "html": "AI टूल्स की फ्री लिमिट, वीडियो की लंबाई और फीचर्स समय-समय पर बदलते रहते हैं। इस्तेमाल से पहले ऐप में अपने अकाउंट की मौजूदा लिमिट ज़रूर देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "gemini-se",
+   "text": "तरीका 1: Gemini से फोटो का AI वीडियो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर अपने Google अकाउंट से लॉगिन करें।",
+    "चैट बॉक्स के पास वीडियो वाला विकल्प चुनें (यह <b>Video</b> या <b>Veo</b> नाम से दिखता है)। अगर यह विकल्प नहीं दिख रहा, तो आपके अकाउंट में अभी यह फीचर उपलब्ध नहीं है — तरीका 2 आज़माएं।",
+    "<b>+</b> आइकन दबाकर अपनी फोटो अपलोड करें।",
+    "नीचे दिए प्रॉम्प्ट्स में से कोई एक कॉपी करके पेस्ट करें। प्रॉम्प्ट में साफ़ लिखें कि फोटो में <b>क्या हिलना चाहिए</b> और <b>कैमरा कैसे चलना चाहिए</b>।",
+    "वीडियो बनने में कुछ मिनट लग सकते हैं। तैयार होने पर चलाकर देखें और डाउनलोड करें।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "meta-ai-se",
+   "text": "तरीका 2: Meta AI ऐप से फोटो को animate करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Meta AI ऐप खोलें और अपने अकाउंट से लॉगिन करें।",
+    "चैट में अपनी फोटो अपलोड करें या ऐप में इमेज से वीडियो/animate वाला विकल्प चुनें।",
+    "छोटा और साफ़ निर्देश लिखें, जैसे <i>'animate this photo, she smiles and the wind moves her hair'</i>।",
+    "रिज़ल्ट पसंद न आए तो एक ही चीज़ बदलकर दोबारा कोशिश करें, जैसे <i>'slower movement'</i> या <i>'camera stays still'</i>।",
+    "क्लिप डाउनलोड करें और ज़रूरत हो तो Canva में टेक्स्ट और म्यूज़िक जोड़ें।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "prompts",
+   "text": "फोटो से AI वीडियो के 10 कॉपी-पेस्ट प्रॉम्प्ट्स"
+  },
+  {
+   "type": "p",
+   "html": "ये प्रॉम्प्ट्स अंग्रेज़ी में हैं क्योंकि ज़्यादातर वीडियो टूल अंग्रेज़ी निर्देश बेहतर समझते हैं। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन जुड़ी है — उसे न हटाएं।"
+  },
+  {
+   "type": "prompt",
+   "title": "हल्की मुस्कान और पलक झपकना",
+   "for": "Portrait",
+   "text": "Animate this photo gently. The person slowly smiles and blinks naturally, very slight head movement, soft breeze moving the hair, background stays still, natural light, realistic motion, 6 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "सिनेमैटिक कैमरा पुश-इन",
+   "for": "Portrait",
+   "text": "Animate this photo as a cinematic shot. Slow smooth camera push-in towards the person, they look up into the camera and give a calm smile, soft background bokeh lights twinkling, shallow depth of field, film look, 8 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी फैमिली फोटो",
+   "for": "Old photo",
+   "text": "Bring this old family photo to life with subtle, respectful motion. Everyone breathes naturally, blinks and gives a small smile, slight natural head movement, keep the original clothes, colours and grain of the old photo, camera stays still, 6 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features.",
+   "tip": "पुरानी फोटो पहले स्कैन करें या सीधी, बिना चमक के मोबाइल से फोटो लें।"
+  },
+  {
+   "type": "prompt",
+   "title": "हवा में उड़ता दुपट्टा",
+   "for": "Girl",
+   "text": "Animate this photo with the dupatta and hair flowing gracefully in a gentle wind, the woman turns her head slightly and smiles, flower petals drifting through the air, golden hour light, slow motion, vertical 9:16, 8 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "बाइक के पास स्टाइलिश पोज़",
+   "for": "Boy",
+   "text": "Animate this photo so the man adjusts his sunglasses and looks towards the camera with a confident smile, light wind moving his jacket, clouds moving slowly in the sky behind, slow camera orbit to the side, vertical 9:16, 8 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "कपल का रोमांटिक पल",
+   "for": "Couple",
+   "text": "Animate this couple photo softly. They turn to look at each other and smile, the wind gently moves their hair and clothes, warm sunset light, slow camera pull-back revealing more of the scene, romantic cinematic mood, 8 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features.",
+   "tip": "कपल फोटो में दोनों के चेहरे साफ़ होने चाहिए, नहीं तो AI एक चेहरे को बदल सकता है।"
+  },
+  {
+   "type": "prompt",
+   "title": "बच्चे की खिलखिलाहट",
+   "for": "Kids",
+   "text": "Animate this photo of the child: they giggle happily and clap their hands once, small natural movements, soap bubbles floating around in the air, bright soft daylight, camera stays still, 6 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "बैकग्राउंड में बारिश",
+   "for": "All",
+   "text": "Animate this photo by adding gentle rain falling in the background and raindrops on the ground, the person stays mostly still and blinks naturally, slight mist, moody cool light, static camera, 6 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "दीये और जगमगाती रोशनी",
+   "for": "Festival",
+   "text": "Animate this photo with warm diya flames flickering softly around the person, string lights twinkling in the background, the person smiles and folds their hands in greeting, warm festive glow, slow camera push-in, vertical 9:16, 8 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों में बादल",
+   "for": "Travel",
+   "text": "Animate this travel photo: clouds drift slowly over the mountains, the person's jacket and hair move in the wind, they look out at the view and then turn to the camera with a smile, slow cinematic pan, 8 seconds. Keep every face exactly identical to the uploaded photo, no change in facial features."
+  },
+  {
+   "type": "h2",
+   "id": "achha-prompt",
+   "text": "फोटो से वीडियो का अच्छा प्रॉम्प्ट कैसे लिखें"
+  },
+  {
+   "type": "p",
+   "html": "फोटो से वीडियो के प्रॉम्प्ट में पूरी कहानी लिखने की ज़रूरत नहीं होती, क्योंकि फोटो में सब कुछ पहले से मौजूद है। बस ये 4 बातें लिखें:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "हिस्सा",
+    "उदाहरण"
+   ],
+   "rows": [
+    [
+     "व्यक्ति क्या करे",
+     "smiles slowly, blinks, turns head slightly"
+    ],
+    [
+     "आसपास क्या हिले",
+     "hair moving in the wind, clouds drifting, petals falling"
+    ],
+    [
+     "कैमरा",
+     "static camera / slow push-in / slow pan"
+    ],
+    [
+     "लंबाई और साइज़",
+     "6 seconds, vertical 9:16 (Reels/Shorts के लिए)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "galtiyan",
+   "text": "आम गलतियाँ और उनका हल"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>चेहरा बदल गया:</b> हलचल कम करें (<i>'very subtle motion'</i>), कैमरा स्थिर रखें और साफ़ फोटो डालें। चेहरे से जुड़ी और टिप्स के लिए <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले AI फोटो गाइड</a> देखें।",
+    "<b>हाथ या उँगलियाँ अजीब बन रहे हैं:</b> ऐसी फोटो लें जिसमें हाथ फ्रेम में कम हों, या प्रॉम्प्ट में हाथों की कोई हलचल न लिखें।",
+    "<b>बहुत ज़्यादा हलचल:</b> एक प्रॉम्प्ट में 2–3 से ज़्यादा हलचल न लिखें। 'dancing, jumping, running' जैसे शब्द चेहरा बिगाड़ सकते हैं।",
+    "<b>वीडियो बहुत छोटा है:</b> टूल एक बार में कुछ सेकंड का क्लिप ही बनाते हैं। लंबा वीडियो चाहिए तो 2–4 क्लिप बनाकर Canva या किसी वीडियो एडिटर में जोड़ें।",
+    "<b>फोटो अपलोड नहीं हो रही:</b> फोटो का साइज़ कम करें या JPG में बदलें — इसके लिए हमारे <a href='/tools/'>फ्री फोटो टूल्स</a> हैं।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "aage-kya",
+   "text": "वीडियो बनने के बाद क्या करें"
+  },
+  {
+   "type": "p",
+   "html": "क्लिप को Reels या Shorts में डालने से पहले उसमें अपना टेक्स्ट, म्यूज़िक या आवाज़ जोड़ें। त्योहार के लिए तैयार विश-वीडियो प्रॉम्प्ट्स <a href='/diwali-ai-video-kaise-banaye/'>Diwali AI video</a> गाइड में हैं, और फोटो को पहले नया लुक देना हो तो <a href='/gemini-ai-photo-prompt-copy-paste/'>Gemini AI photo prompts</a> से फोटो बनाकर फिर उसे animate करें।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "ज़रूरी",
+   "html": "सिर्फ़ अपनी फोटो या उन लोगों की फोटो animate करें जिन्होंने इजाज़त दी हो। किसी नेता, सेलिब्रिटी या अनजान व्यक्ति का नकली वीडियो (deepfake) बनाना या शेयर करना गलत है और गैरकानूनी हो सकता है। YouTube जैसे प्लेटफ़ॉर्म पर रियलिस्टिक AI वीडियो अपलोड करते समय 'altered or synthetic content' वाला विकल्प चुनें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "क्या फोटो से AI वीडियो फ्री में बना सकते हैं?",
+   "a": "हाँ, Meta AI ऐप में फोटो को फ्री में animate किया जा सकता है। Gemini का वीडियो फीचर मुख्य रूप से पेड प्लान में है, पर Google कभी-कभी फ्री यूज़र्स को सीमित ट्रायल देता है। मौजूदा लिमिट ऐप में ही देखें।"
+  },
+  {
+   "q": "पुरानी फोटो का वीडियो कैसे बनाएं?",
+   "a": "पुरानी फोटो को सीधा स्कैन करें या बिना चमक के मोबाइल से फोटो लें, फिर ऊपर दिया 'पुरानी फैमिली फोटो' प्रॉम्प्ट इस्तेमाल करें। हलचल हल्की रखें ताकि चेहरे न बदलें।"
+  },
+  {
+   "q": "वीडियो में चेहरा बदल जाए तो क्या करें?",
+   "a": "कम हलचल लिखें (very subtle motion), कैमरा स्थिर रखें, साफ़ और सामने से ली गई फोटो डालें, और प्रॉम्प्ट के आख़िर की चेहरा न बदलने वाली लाइन न हटाएं।"
+  },
+  {
+   "q": "फोटो से बना AI वीडियो कितने सेकंड का होता है?",
+   "a": "ज़्यादातर टूल एक बार में कुछ सेकंड का क्लिप बनाते हैं, अक्सर 5–10 सेकंड। लंबा वीडियो चाहिए तो कई क्लिप बनाकर किसी वीडियो एडिटर में जोड़ें।"
+  },
+  {
+   "q": "क्या किसी दूसरे की फोटो से वीडियो बना सकते हैं?",
+   "a": "सिर्फ़ तभी जब उस व्यक्ति ने इजाज़त दी हो। किसी सेलिब्रिटी, नेता या अनजान व्यक्ति का नकली वीडियो बनाना या शेयर करना गलत है और कानूनी मुसीबत में डाल सकता है।"
+  }
+ ]
+}

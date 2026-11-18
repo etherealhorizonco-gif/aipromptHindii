@@ -40,7 +40,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [x] nano-banana-prompt-hindi — (2026-11-17) "nano banana ai photo editing prompts"
 - Sat 31 Oct
   - [x] guru-nanak-jayanti-ai-photo-prompts — Gurpurab Tue 24 Nov (24 days ahead); greeting images ("guru nanak jayanti ki photo")
-  - [ ] photo-se-ai-video-kaise-banaye — "photo se ai video kaise banaye (free)"
+  - [x] photo-se-ai-video-kaise-banaye — (2026-11-18) "photo se ai video kaise banaye (free)"
 - Sun 1 Nov
   - [x] gemini-ai-photo-prompt-retro-vintage — "retro style vintage" 880/mo SD 8; 90s, black and white, polaroid
   - [ ] old-photo-restore-ai-prompt — "old photo to new", purani photo ko naya kaise banaye
@@ -64,7 +64,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - [ ] gemini-ai-photo-prompt-3d-figure (viral figurine trend)
 
 ## Week 5 (19–25 Nov)
-- [ ] winter-ai-photo-prompts
+- [x] winter-ai-photo-prompts (2026-11-18)
 - [x] christmas-ai-photo-prompts — 25 Dec (published 2026-11-15)
 - [ ] cartoon-ai-video-kaise-banaye
 - [ ] ai-se-thumbnail-kaise-banaye
@@ -121,3 +121,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-11-15: +2 posts (christmas-ai-photo-prompts, new-year-2027-ai-photo-prompts — pre-written on 14 Nov, went live with today's build); link: trending 2026 page → both. Fixed civil dates (25 Dec, 1 Jan), 40 and 47 days ahead. retro-vintage and background-change deferred to 16 Nov by the 2/day cap. GSC still not connected.
 - 2026-11-16: +2 posts (gemini-ai-photo-prompt-retro-vintage, gemini-ai-photo-prompt-background-change — both carried over from 15 Nov, 16 prompts each); links: saree page → retro, without-changing-face page → background change. haldi-mehndi and nano-banana deferred to 17 Nov by the 2/day cap. GSC still not connected.
 - 2026-11-17: +2 posts (haldi-mehndi-ai-photo-prompts — 17 prompts; nano-banana-prompt-hindi — 16 prompts + follow-up table; both carried over from 16 Nov); links: wedding page → haldi-mehndi, copy-paste page → nano banana. winter-ai-photo-prompts and photo-se-ai-video-kaise-banaye deferred to 18 Nov by the 2/day cap. GSC still not connected.
+- 2026-11-18: +2 posts (winter-ai-photo-prompts — 16 prompts; photo-se-ai-video-kaise-banaye — guide + 10 photo-to-video prompts; both carried over from 17 Nov); links: Christmas page → winter, AI video guide → photo se video. gemini-ai-photo-prompt-baby-kids and birthday-ai-photo-prompts deferred to 19 Nov by the 2/day cap. GSC still not connected.

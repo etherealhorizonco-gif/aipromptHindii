@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 3–5 weeks (21–35 days) before the festival; never later than 10 days; verify dates with 2 sources",
@@ -174,7 +174,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Seasonal: autocomplete 'google gemini winter ai photo editing prompts'; peaks Dec–Jan. Deferred 17 Nov by the 2/day cap (overdue 16 Nov rows went first); picked up as overdue on 18 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-18",
+   "url": "https://aiprompthindii.netlify.app/winter-ai-photo-prompts/"
   },
   {
    "date": "2026-11-17",
@@ -185,7 +187,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Video cluster: 'ai video kaise banaye' 18.1k SD 27 (Ubersuggest IN, Oct 2026 (CONTENT-PLAN)). Deferred 17 Nov by the 2/day cap (overdue 16 Nov rows went first); picked up as overdue on 18 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-18",
+   "url": "https://aiprompthindii.netlify.app/photo-se-ai-video-kaise-banaye/"
   },
   {
    "date": "2026-11-18",
@@ -195,7 +199,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Autocomplete: baby, baby boy, baby girl, kids (Ubersuggest IN, 10 Nov 2026).",
+   "reason": "Autocomplete: baby, baby boy, baby girl, kids (Ubersuggest IN, 10 Nov 2026). Deferred 18 Nov by the 2/day cap (overdue 17 Nov rows went first); picked up as overdue on 19 Nov.",
    "status": "scheduled"
   },
   {
@@ -206,7 +210,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Autocomplete 'happy birthday', 'birthday' (Ubersuggest IN, 10 Nov 2026); evergreen.",
+   "reason": "Autocomplete 'happy birthday', 'birthday' (Ubersuggest IN, 10 Nov 2026); evergreen. Deferred 18 Nov by the 2/day cap (overdue 17 Nov rows went first); picked up as overdue on 19 Nov.",
    "status": "scheduled"
   },
   {

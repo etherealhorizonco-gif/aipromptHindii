@@ -1,0 +1,202 @@
+{
+ "slug": "winter-ai-photo-prompts",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-18",
+ "title": "Winter AI Photo Prompts: सर्दियों के 16 कॉपी-पेस्ट Gemini प्रॉम्प्ट्स (2026)",
+ "seoTitle": "Winter AI Photo Prompts – 16 Gemini Copy Paste Prompts (2026)",
+ "description": "Winter AI photo prompts — बर्फ़, स्वेटर, शॉल, अलाव और चाय वाले 16 Gemini प्रॉम्प्ट्स; लड़के, लड़कियों, कपल और फैमिली के लिए, चेहरा न बदलने वाली लाइन के साथ।",
+ "keywords": "winter ai photo prompts, google gemini winter ai photo editing prompts, winter ai photo prompt for girl, winter ai photo prompt for boy, snow ai photo prompt, सर्दियों की AI फोटो प्रॉम्प्ट",
+ "intro": "सर्दियों में बर्फ़ीले पहाड़, ऊनी स्वेटर, धुंध वाली सुबह और गरम चाय की फोटो सबसे ज़्यादा शेयर होती हैं। पहाड़ों पर गए बिना ऐसी फोटो चाहिए? नीचे <b>16 कॉपी-पेस्ट winter AI photo prompts</b> हैं — लड़कियों, लड़कों, कपल, फैमिली और बच्चों के लिए। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "christmas-ai-photo-prompts",
+  "gemini-ai-photo-prompt-couple",
+  "gemini-ai-photo-prompt-instagram-aesthetic"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Winter AI photo prompt कैसे इस्तेमाल करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर लॉगिन करें। ChatGPT या कोई दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "<b>+</b> आइकन से अपनी एक साफ़, रोशनी वाली फोटो अपलोड करें जिसमें चेहरा सामने से दिखे।",
+    "नीचे से कोई प्रॉम्प्ट <b>कॉपी</b> करें, चैट में पेस्ट करें और सेंड करें।",
+    "रंग या जगह बदलनी हो तो छोटा निर्देश लिखें, जैसे <i>'make the sweater maroon'</i> या <i>'change the background to Manali snow'</i>।",
+    "पसंद आए तो डाउनलोड करें। 2–3 बार आज़माने पर अक्सर बेहतर रिज़ल्ट मिलता है।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "टिप",
+   "html": "सर्दियों वाली फोटो में धुंध और बर्फ़ के कारण चेहरा कभी-कभी धुंधला हो जाता है। ऐसा हो तो प्रॉम्प्ट में <i>'face clearly visible and sharp'</i> जोड़ें, या <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "girls",
+   "text": "लड़कियों के लिए विंटर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "बर्फ़ में ऊनी कोट",
+   "for": "Girl",
+   "text": "Transform this photo into a winter portrait of the woman standing on a snowy pine forest path, wearing a long camel wool coat, a cream knitted scarf and a matching beanie, light snowflakes falling around her. Soft overcast daylight, gentle smile, realistic 4K photography with shallow depth of field. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "खिड़की के पास कॉफ़ी",
+   "for": "Girl",
+   "text": "Show the woman from this photo sitting by a large wooden window on a cold morning, wrapped in an oversized beige knitted sweater, holding a steaming mug with both hands, fog on the glass and snowy hills outside. Warm indoor light, cozy calm mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "शॉल और पहाड़ी गाँव",
+   "for": "Girl",
+   "text": "Create a portrait of the woman from this photo wearing a traditional woollen shawl with colourful woven borders over a plain kurta, standing on a stone path in a Himalayan village with wooden houses and snow-capped peaks behind. Crisp morning sunlight, rosy cheeks, realistic travel photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "धुंध में स्ट्रीट लुक",
+   "for": "Girl",
+   "text": "Show the woman from this photo walking on a foggy city street in winter, wearing a black puffer jacket, high-neck sweater, jeans and white sneakers, hands in pockets, street lights glowing softly through the mist. Moody cinematic colour grade, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "boys",
+   "text": "लड़कों के लिए विंटर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "लेदर जैकेट और बर्फ़",
+   "for": "Boy",
+   "text": "Transform this photo into a winter portrait of the man standing on a snowy mountain road, wearing a brown leather jacket over a grey turtleneck sweater, dark jeans and boots, snow-covered pine trees behind him. Cold blue daylight, confident relaxed pose, realistic 4K photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "अलाव के पास",
+   "for": "Boy",
+   "text": "Show the man from this photo sitting near a small campfire at night in the hills, wearing a chunky knitted cardigan and a wool beanie, warm orange firelight on his face, stars and dark mountains in the background. Cozy cinematic mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मफलर और चाय की टपरी",
+   "for": "Boy",
+   "text": "Create a photo of the man from this photo standing at a roadside tea stall on a foggy winter morning, wearing a navy hoodie under a padded jacket and a checked muffler, holding a small glass of steaming chai. Soft misty light, steam in the air, candid realistic street photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्नो बाइक राइडर",
+   "for": "Boy",
+   "text": "Show the man from this photo standing beside a parked motorcycle on a high mountain pass covered in snow, wearing a riding jacket, gloves and a neck warmer, helmet resting on the seat, prayer flags fluttering behind. Bright clear sky, adventure travel photography, realistic. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "couple",
+   "text": "कपल विंटर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "एक ही शॉल में कपल",
+   "for": "Couple",
+   "text": "Transform this photo into a romantic winter photo of the couple sharing one large woollen shawl, standing close together on a snowy viewpoint with pine trees and mountains behind, soft snowfall, both smiling. Golden hour light, realistic couple photography. Keep the face exactly identical to the uploaded photo.",
+   "tip": "कपल प्रॉम्प्ट के लिए ऐसी फोटो लें जिसमें दोनों के चेहरे साफ़ दिखें। फिर आख़िर में लिखें: keep both faces exactly identical."
+  },
+  {
+   "type": "prompt",
+   "title": "बर्फ़ में मस्ती",
+   "for": "Couple",
+   "text": "Show the couple from this photo laughing while playing in fresh snow, one throwing a soft snowball, both wearing colourful puffer jackets, beanies and gloves, snow flying in the air. Bright daylight, candid fun moment, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कैफ़े में हॉट चॉकलेट",
+   "for": "Couple",
+   "text": "Create a cozy photo of the couple from this photo sitting together in a small wooden mountain cafe, wearing matching knitted sweaters, holding mugs of hot chocolate, fairy lights and a window with falling snow behind them. Warm soft light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "family-kids",
+   "text": "फैमिली और बच्चों के विंटर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "रज़ाई में फैमिली",
+   "for": "Family",
+   "text": "Transform this photo into a warm family winter photo with everyone sitting together under a thick colourful quilt on a bed, wearing sweaters, sharing a plate of peanuts and gajak, laughing. Soft warm lamp light, cozy home atmosphere, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्नोमैन बनाते बच्चे",
+   "for": "Kids",
+   "text": "Show the child from this photo building a small snowman in a snowy garden, wearing a red puffer jacket, a knitted cap with a pom-pom and mittens, cheeks pink from the cold, happy expression. Bright soft daylight, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "आँगन में धूप सेंकते",
+   "for": "Family",
+   "text": "Create a photo of the family from this photo sitting on charpais in a sunny courtyard on a winter afternoon, wearing shawls and sweaters, a flask of tea and oranges on a small table. Warm golden sunlight, nostalgic Indian winter mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "creative",
+   "text": "क्रिएटिव विंटर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "बर्फ़ीला ड्रीमी पोर्ट्रेट",
+   "for": "All",
+   "text": "Create a dreamy winter portrait of the person from this photo with frost and tiny snowflakes on their hair and eyelashes, wearing a white fur-lined hood, pale blue background with soft bokeh lights. Fine art beauty photography, soft focus edges, realistic. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "विंटर पोलरॉइड",
+   "for": "All",
+   "text": "Turn this photo into a vintage instant-film style winter picture of the person in a cable-knit sweater standing on a snowy street, slightly faded colours, soft grain and a white instant photo border. Nostalgic film look, realistic. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "Winter AI फोटो के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>कपड़े साफ़ लिखें:</b> sweater, hoodie, puffer jacket, shawl, muffler जैसे शब्दों से AI सही विंटर लुक बनाता है।",
+    "<b>जगह बताएं:</b> Manali, Shimla, Gulmarg या 'Himalayan village' लिखने से बैकग्राउंड ज़्यादा असली लगता है।",
+    "<b>रोशनी चुनें:</b> बर्फ़ के लिए 'overcast daylight', अलाव के लिए 'warm firelight', धुंध के लिए 'soft misty light'।",
+    "<b>बर्फ़ ज़्यादा न करें:</b> 'heavy snowstorm' से चेहरा ढक सकता है; 'light snowfall' बेहतर रहता है।",
+    "<b>चेहरे वाली लाइन न हटाएं:</b> हर प्रॉम्प्ट के आख़िर की लाइन ही चेहरा वैसा का वैसा रखने में मदद करती है।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "दिसंबर के लिए और लुक चाहिए? <a href='/christmas-ai-photo-prompts/'>Christmas AI photo prompts</a> और <a href='/new-year-2027-ai-photo-prompts/'>New Year 2027 AI photo prompts</a> देखें। रोज़ के इंस्टाग्राम लुक के लिए <a href='/gemini-ai-photo-prompt-instagram-aesthetic/'>Instagram aesthetic प्रॉम्प्ट्स</a> भी काम आएंगे।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "ज़रूरी",
+   "html": "सिर्फ़ अपनी या जिनकी अनुमति हो उन्हीं की फोटो इस्तेमाल करें। किसी सेलिब्रिटी या दूसरे व्यक्ति की नकली फोटो बनाना या शेयर करना गलत है।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Winter AI photo prompts किस ऐप में चलते हैं?",
+   "a": "Gemini ऐप या gemini.google.com में फोटो अपलोड करके प्रॉम्प्ट पेस्ट करें। ChatGPT और दूसरे इमेज-एडिटिंग AI में भी ये प्रॉम्प्ट्स पेस्ट किए जा सकते हैं, पर रिज़ल्ट हर ऐप में थोड़ा अलग आता है।"
+  },
+  {
+   "q": "बर्फ़ वाली फोटो में चेहरा बदल जाए तो क्या करें?",
+   "a": "आख़िर की लाइन 'Keep the face exactly identical to the uploaded photo' न हटाएं, 'light snowfall' लिखें और साफ़ रोशनी वाली फोटो अपलोड करें। फिर भी बदले तो पहले सिर्फ़ कपड़े बदलवाएं, बर्फ़ और बैकग्राउंड बाद में फॉलो-अप में जोड़ें।"
+  },
+  {
+   "q": "क्या मैं जगह का नाम बदल सकता हूँ?",
+   "a": "हाँ। प्रॉम्प्ट में 'snowy mountain road' की जगह Manali, Shimla, Gulmarg या Auli लिखें। बस इतना ध्यान रखें कि AI असली जगह की हूबहू कॉपी नहीं, उस जैसा माहौल बनाता है।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री हैं?",
+   "a": "हाँ, इस पेज के सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं। कितनी इमेज बना सकते हैं, यह आपके AI ऐप और अकाउंट की मौजूदा लिमिट पर निर्भर करता है।"
+  }
+ ]
+}

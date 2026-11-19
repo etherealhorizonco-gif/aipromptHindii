@@ -1,0 +1,193 @@
+{
+ "slug": "gemini-ai-photo-prompt-baby-kids",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-19",
+ "title": "Gemini AI Photo Prompt Baby & Kids: बच्चों के 16 प्यारे कॉपी-पेस्ट प्रॉम्प्ट्स (2026)",
+ "seoTitle": "Gemini AI Photo Prompt Baby & Kids – 16 Copy Paste Prompts",
+ "description": "Gemini AI photo prompt baby और kids के लिए 16 कॉपी-पेस्ट प्रॉम्प्ट्स — baby boy, baby girl, भाई-बहन और कार्टून स्टाइल, चेहरा न बदलने वाली लाइन के साथ।",
+ "keywords": "gemini ai photo prompt baby, google gemini ai photo editing prompts baby, baby boy ai photo prompt, baby girl ai photo prompt, kids ai photo prompt, बच्चों की AI फोटो प्रॉम्प्ट",
+ "intro": "अपने छोटे बच्चे की साधारण फोटो को फूलों वाले सेटअप, कार्टून दुनिया या त्योहार वाले लुक में बदलना चाहते हैं? नीचे <b>16 कॉपी-पेस्ट Gemini AI photo prompts</b> हैं — baby boy, baby girl, बड़े बच्चों और भाई-बहन के लिए। हर प्रॉम्प्ट सादा, सुरक्षित और परिवार के लिए है, और आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-family",
+  "childrens-day-ai-photo-prompts",
+  "birthday-ai-photo-prompts"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "Baby AI photo prompt कैसे इस्तेमाल करें"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर लॉगिन करें। ChatGPT या कोई दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "<b>+</b> आइकन से बच्चे की ऐसी फोटो अपलोड करें जिसमें चेहरा साफ़, सामने से और अच्छी रोशनी में दिखे।",
+    "नीचे से कोई प्रॉम्प्ट <b>कॉपी</b> करें, चैट में पेस्ट करें और सेंड करें।",
+    "रंग या कपड़े बदलने हों तो छोटा निर्देश लिखें, जैसे <i>'make the outfit light yellow'</i>।",
+    "पसंद आए तो डाउनलोड करें। चेहरा थोड़ा अलग लगे तो दोबारा जनरेट करें।"
+   ]
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "बच्चों की फोटो के साथ सावधानी",
+   "html": "सिर्फ़ अपने बच्चे की फोटो, या माता-पिता की अनुमति से ही किसी बच्चे की फोटो इस्तेमाल करें। AI फोटो परिवार या प्राइवेट ग्रुप में शेयर करना ज़्यादा सुरक्षित है। फोटो में स्कूल का नाम, घर का पता या दूसरी निजी जानकारी न दिखे।"
+  },
+  {
+   "type": "h2",
+   "id": "baby-boy",
+   "text": "Baby boy के लिए प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "नन्हा राजकुमार",
+   "for": "Baby boy",
+   "text": "Transform this photo into a soft studio portrait of the baby boy sitting on a cream knitted blanket, wearing a tiny white kurta with a light blue jacket, a small wooden toy beside him and pastel blue background. Gentle window light, warm and happy mood, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "टेडी बेयर के साथ",
+   "for": "Baby boy",
+   "text": "Show the baby boy from this photo lying on his tummy on a soft beige rug, wearing a light grey romper, hugging a fluffy brown teddy bear, smiling at the camera. Soft natural light, clean minimal background, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "छोटा पायलट",
+   "for": "Baby boy",
+   "text": "Create a playful portrait of the baby boy from this photo sitting inside a toy wooden airplane, wearing a small brown aviator cap and scarf, fluffy cotton clouds around him on a sky blue background. Bright cheerful light, realistic photography with a storybook feel. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मोर पंख वाला लुक",
+   "for": "Baby boy",
+   "text": "Show the baby boy from this photo dressed in a soft yellow dhoti-kurta with a small peacock feather on a tiny headband, sitting on a cushion with marigold flowers and a little flute beside him. Warm festive light, realistic photography. Keep the face exactly identical to the uploaded photo.",
+   "tip": "जन्माष्टमी या घर की पूजा के लिए अच्छा लुक है।"
+  },
+  {
+   "type": "h2",
+   "id": "baby-girl",
+   "text": "Baby girl के लिए प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "फूलों की टोकरी",
+   "for": "Baby girl",
+   "text": "Transform this photo into a portrait of the baby girl sitting in a large wicker basket filled with soft pink and white flowers, wearing a pastel pink frock and a small flower headband. Soft dreamy daylight, gentle smile, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "छोटी परी",
+   "for": "Baby girl",
+   "text": "Show the baby girl from this photo wearing a light lavender tutu dress with small sparkly fairy wings, sitting on a moss-covered log in a sunny garden with butterflies around her. Soft golden light, magical but realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "लहंगे में गुड़िया",
+   "for": "Baby girl",
+   "text": "Create a portrait of the baby girl from this photo wearing a tiny red and gold lehenga with a matching dupatta, small bangles, sitting on a decorated cushion with diyas and rangoli around her. Warm festive light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "चाँद पर नींद",
+   "for": "Baby girl",
+   "text": "Show the baby girl from this photo sleeping peacefully on a soft crescent moon pillow, wrapped in a white fluffy blanket, tiny glowing stars around her on a deep blue background. Calm dreamy mood, soft light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "kids",
+   "text": "बड़े बच्चों (3–10 साल) के लिए प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "साइकिल वाली सुबह",
+   "for": "Kid",
+   "text": "Show the child from this photo riding a small red bicycle on a tree-lined park path on a sunny morning, wearing a striped t-shirt, shorts and sneakers, laughing happily. Bright natural light, motion feel, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "छोटा साइंटिस्ट",
+   "for": "Kid",
+   "text": "Create a portrait of the child from this photo wearing a small white lab coat and safety goggles, holding a test tube with bright green liquid, colourful science posters behind. Fun curious expression, bright light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश में छाता",
+   "for": "Kid",
+   "text": "Show the child from this photo jumping in a small puddle wearing a yellow raincoat and red rubber boots, holding a transparent umbrella, light rain and green trees behind. Joyful mood, soft cloudy light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून स्टाइल",
+   "for": "Kid",
+   "text": "Turn this photo into a cute 3D animated movie style character of the child, big expressive eyes, colourful clothes, standing in a bright toy-filled room. Smooth soft lighting, high detail render, while keeping the child clearly recognisable. Keep the face exactly identical to the uploaded photo.",
+   "tip": "कार्टून स्टाइल में चेहरा थोड़ा बदलता है — यही इस स्टाइल का मज़ा है।"
+  },
+  {
+   "type": "h2",
+   "id": "siblings",
+   "text": "भाई-बहन और परिवार के प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "भाई-बहन की जोड़ी",
+   "for": "Siblings",
+   "text": "Show the two children from this photo sitting together on a wooden bench in a garden, the older one with an arm around the younger one, wearing matching white and denim outfits, both smiling. Soft afternoon light, realistic photography. Keep the faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "तकिया किला",
+   "for": "Siblings",
+   "text": "Create a cozy indoor photo of the children from this photo inside a blanket fort made of bedsheets and pillows, fairy lights inside, reading a picture book with a torch. Warm cozy light, realistic photography. Keep the face exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "माँ की गोद में",
+   "for": "Mother & baby",
+   "text": "Show the mother holding the baby from this photo close in her arms, both wearing soft white clothes, sitting by a sunlit window with sheer curtains. Calm loving mood, soft natural light, realistic photography. Keep the faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पापा के कंधे पर",
+   "for": "Father & kid",
+   "text": "Show the child from this photo sitting on the father's shoulders in an open green field at sunset, both laughing, wearing casual t-shirts. Warm golden hour light, realistic photography. Keep the faces exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "बच्चों की AI फोटो के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>साफ़ फोटो चुनें:</b> बच्चे बहुत हिलते हैं, इसलिए धुंधली फोटो की जगह ऐसी फोटो लें जिसमें आँखें खुली और चेहरा साफ़ हो।",
+    "<b>उम्र लिखें:</b> 'baby', 'toddler' या 'child' लिखने से AI सही उम्र बनाए रखता है।",
+    "<b>हल्के रंग:</b> pastel pink, baby blue, cream जैसे रंग बच्चों की फोटो में सबसे अच्छे लगते हैं।",
+    "<b>एक बार में एक बदलाव:</b> पहले कपड़े बदलें, फिर बैकग्राउंड — इससे चेहरा कम बदलता है।",
+    "<b>सुरक्षा पहले:</b> बच्चे को पानी, आग या ऊँचाई के पास दिखाने वाले खतरनाक सीन न बनाएं।"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "बच्चे के जन्मदिन के लिए <a href='/birthday-ai-photo-prompts/'>birthday AI photo prompts</a>, पूरे परिवार के लिए <a href='/gemini-ai-photo-prompt-family/'>फैमिली प्रॉम्प्ट्स</a> और सर्दियों के लुक के लिए <a href='/winter-ai-photo-prompts/'>winter AI photo prompts</a> देखें। चेहरा बदल जाए तो <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिटिंग की गाइड</a> पढ़ें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "बच्चे की AI फोटो के लिए कौन सा ऐप इस्तेमाल करें?",
+   "a": "Gemini ऐप या gemini.google.com में फोटो अपलोड करके प्रॉम्प्ट पेस्ट करें। ChatGPT और दूसरे इमेज-एडिटिंग AI में भी ये प्रॉम्प्ट्स काम कर सकते हैं, पर रिज़ल्ट हर ऐप में थोड़ा अलग आता है।"
+  },
+  {
+   "q": "AI फोटो में बच्चे का चेहरा बड़ा या अलग क्यों लगता है?",
+   "a": "AI कभी-कभी उम्र बदल देता है। प्रॉम्प्ट में 'baby' या 'toddler' साफ़ लिखें, आख़िरी चेहरे वाली लाइन न हटाएं और सामने से ली गई साफ़ फोटो अपलोड करें।"
+  },
+  {
+   "q": "क्या बच्चों की फोटो AI ऐप में डालना सुरक्षित है?",
+   "a": "फोटो अपलोड करने से पहले ऐप की प्राइवेसी सेटिंग देखें। सिर्फ़ अपने बच्चे की फोटो इस्तेमाल करें और बनाई गई फोटो परिवार या प्राइवेट ग्रुप में ही शेयर करना बेहतर है।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री हैं?",
+   "a": "हाँ, इस पेज के सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं। कितनी इमेज बना सकते हैं, यह आपके AI ऐप और अकाउंट की मौजूदा लिमिट पर निर्भर करता है।"
+  }
+ ]
+}

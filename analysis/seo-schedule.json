@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 3–5 weeks (21–35 days) before the festival; never later than 10 days; verify dates with 2 sources",
@@ -200,7 +200,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Autocomplete: baby, baby boy, baby girl, kids (Ubersuggest IN, 10 Nov 2026). Deferred 18 Nov by the 2/day cap (overdue 17 Nov rows went first); picked up as overdue on 19 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-19",
+   "url": "https://aiprompthindii.netlify.app/gemini-ai-photo-prompt-baby-kids/"
   },
   {
    "date": "2026-11-18",
@@ -211,7 +213,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Autocomplete 'happy birthday', 'birthday' (Ubersuggest IN, 10 Nov 2026); evergreen. Deferred 18 Nov by the 2/day cap (overdue 17 Nov rows went first); picked up as overdue on 19 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-19",
+   "url": "https://aiprompthindii.netlify.app/birthday-ai-photo-prompts/"
   },
   {
    "date": "2026-11-19",
@@ -221,7 +225,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Autocomplete 'old photo to new' (weekly review 25 Oct).",
+   "reason": "Autocomplete 'old photo to new' (weekly review 25 Oct). Deferred 19 Nov by the 2/day cap (overdue 18 Nov rows went first); picks up as overdue on 20 Nov.",
    "status": "scheduled"
   },
   {
@@ -232,7 +236,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Autocomplete: bike lover, car, Mahindra Thar (Ubersuggest IN, 10 Nov 2026).",
+   "reason": "Autocomplete: bike lover, car, Mahindra Thar (Ubersuggest IN, 10 Nov 2026). Deferred 19 Nov by the 2/day cap (overdue 18 Nov rows went first); picks up as overdue on 20 Nov.",
    "status": "scheduled"
   },
   {

@@ -43,7 +43,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
   - [x] photo-se-ai-video-kaise-banaye — (2026-11-18) "photo se ai video kaise banaye (free)"
 - Sun 1 Nov
   - [x] gemini-ai-photo-prompt-retro-vintage — "retro style vintage" 880/mo SD 8; 90s, black and white, polaroid
-  - [ ] old-photo-restore-ai-prompt — "old photo to new", purani photo ko naya kaise banaye
+  - [x] old-photo-restore-ai-prompt — "old photo to new", purani photo ko naya kaise banaye (2026-11-20)
 
 ## Week 2 (29 Oct – 4 Nov)
 - [x] diwali-wishes-ai-image-prompts — status/greeting images, business posters — Diwali 8 Nov (verified: smartpuja, dekhopanchang, hindutone) (2026-10-25)
@@ -66,6 +66,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 ## Week 5 (19–25 Nov)
 - [x] winter-ai-photo-prompts (2026-11-18)
 - [x] gemini-ai-photo-prompt-baby-kids — "google gemini ai photo editing prompts baby" (2026-11-19)
+- [x] gemini-ai-photo-prompt-bike-car — "google gemini bike lover ai photo editing prompts" (2026-11-20)
 - [x] christmas-ai-photo-prompts — 25 Dec (published 2026-11-15)
 - [ ] cartoon-ai-video-kaise-banaye
 - [ ] ai-se-thumbnail-kaise-banaye
@@ -124,3 +125,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-11-17: +2 posts (haldi-mehndi-ai-photo-prompts — 17 prompts; nano-banana-prompt-hindi — 16 prompts + follow-up table; both carried over from 16 Nov); links: wedding page → haldi-mehndi, copy-paste page → nano banana. winter-ai-photo-prompts and photo-se-ai-video-kaise-banaye deferred to 18 Nov by the 2/day cap. GSC still not connected.
 - 2026-11-18: +2 posts (winter-ai-photo-prompts — 16 prompts; photo-se-ai-video-kaise-banaye — guide + 10 photo-to-video prompts; both carried over from 17 Nov); links: Christmas page → winter, AI video guide → photo se video. gemini-ai-photo-prompt-baby-kids and birthday-ai-photo-prompts deferred to 19 Nov by the 2/day cap. GSC still not connected.
 - 2026-11-19: +2 posts (gemini-ai-photo-prompt-baby-kids — 16 prompts incl. child-photo safety note; birthday-ai-photo-prompts — 17 prompts + NAME/AGE placeholders; both carried over from 18 Nov); links: family page → baby-kids, AI photo editing pillar → birthday + baby-kids. old-photo-restore-ai-prompt and gemini-ai-photo-prompt-bike-car deferred to 20 Nov by the 2/day cap. GSC still not connected.
+- 2026-11-20: +2 posts (old-photo-restore-ai-prompt — 15 restore/colourise prompts + AI-guesswork note; gemini-ai-photo-prompt-bike-car — 16 bike/car prompts, no brand names or logos, helmet/safety note; both carried over from 19 Nov); links: retro-vintage page → old photo restore, for-boy page → bike-car. gemini-ai-photo-prompt-3d-figure and text-se-ai-video-kaise-banaye deferred to 21 Nov by the 2/day cap. GSC still not connected.

@@ -1,0 +1,228 @@
+{
+ "slug": "old-photo-restore-ai-prompt",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-20",
+ "title": "Old Photo Restore AI Prompt: पुरानी फोटो को नया कैसे बनाएं (15 कॉपी पेस्ट प्रॉम्प्ट्स)",
+ "seoTitle": "Old Photo Restore AI Prompt – 15 Copy Paste Prompts (Hindi)",
+ "description": "Old photo restore AI prompt — फटी, धुंधली और ब्लैक एंड वाइट पुरानी फोटो को साफ़ और रंगीन बनाने के 15 कॉपी पेस्ट प्रॉम्प्ट्स, चेहरा वही रखते हुए।",
+ "keywords": "old photo restore ai prompt, purani photo ko naya kaise banaye, old photo to new ai prompt, ai photo restoration prompt, black and white photo colour ai prompt, gemini old photo restore prompt, पुरानी फोटो रिस्टोर",
+ "intro": "दादा-दादी की शादी की फोटो, स्कूल की ग्रुप फोटो या एल्बम में पड़ी पुरानी तस्वीरें — समय के साथ इनमें दाग़, मोड़, धुंधलापन और फीके रंग आ जाते हैं। नीचे <b>15 old photo restore AI prompts</b> हैं जिनसे आप Gemini या ChatGPT में पुरानी फोटो को साफ़, शार्प और चाहें तो रंगीन बना सकते हैं। हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "gemini-ai-photo-prompt-retro-vintage",
+  "gemini-ai-photo-prompt-family",
+  "gemini-ai-photo-prompt-without-changing-face"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "पुरानी फोटो को नया कैसे बनाएं (स्टेप बाय स्टेप)"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "पुरानी प्रिंट फोटो को सीधा, समतल रखें और दिन की रोशनी में मोबाइल से <b>ऊपर से सीधी</b> फोटो लें। फ्लैश बंद रखें ताकि चमक (glare) न आए।",
+    "फोटो के चारों तरफ़ का फालतू हिस्सा क्रॉप कर दें, सिर्फ़ असली तस्वीर रहे।",
+    "<b>Gemini ऐप</b> या <b>gemini.google.com</b> खोलें और <b>+</b> बटन से फोटो अपलोड करें। ChatGPT जैसा कोई दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "नीचे से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें। पहले सिर्फ़ <b>रिपेयर</b> वाला प्रॉम्प्ट चलाएं, फिर ज़रूरत हो तो रंग भरने वाला।",
+    "रिज़ल्ट में कुछ ठीक न लगे तो उसी चैट में छोटा निर्देश लिखें, जैसे <i>'keep the original background'</i> या <i>'less smoothing on the skin'</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "ज़रूरी बात",
+   "html": "AI पुरानी फोटो में जो हिस्सा पूरी तरह मिट चुका है, उसे <b>अंदाज़े से</b> बनाता है। रंगीन करने पर कपड़ों और दीवार के रंग भी अंदाज़ा होते हैं, असली नहीं। इसलिए ओरिजिनल स्कैन हमेशा संभालकर रखें और रिज़ल्ट को परिवार के बड़ों से मिलाकर देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "repair",
+   "text": "दाग़, मोड़ और फटी फोटो ठीक करने वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "बेसिक रिस्टोर (सबसे पहले यही)",
+   "for": "All",
+   "text": "Restore this old photograph. Remove scratches, dust spots, stains, creases and fold lines, fix small torn areas, and gently sharpen the image while keeping its original black-and-white or sepia tone, framing and background unchanged. Do not add anything new. Keep the face, features and expression exactly identical to the original photo.",
+   "tip": "सबसे सुरक्षित प्रॉम्प्ट — पहले यही चलाएं, फिर बाकी।"
+  },
+  {
+   "type": "prompt",
+   "title": "फटी हुई फोटो जोड़ें",
+   "for": "All",
+   "text": "This old photo is torn and has missing pieces at the edges. Repair the tears, fill the missing corners naturally so they match the surrounding area, remove tape marks and yellow stains, and keep the people, clothes and background exactly as in the original. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पीली और फीकी फोटो साफ़ करें",
+   "for": "All",
+   "text": "This old colour photo has faded and turned yellow. Remove the yellow cast, restore natural contrast and balanced colours as they would have looked when the photo was new, and remove dust and small scratches. Keep the clothes, background and composition unchanged. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "धुंधली फोटो शार्प करें",
+   "for": "All",
+   "text": "Enhance this blurry old photograph: increase clarity and fine detail in the faces, hair and clothes, reduce noise and grain, and keep a natural photographic look without a plastic or painted effect. Keep the background and lighting as in the original. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पानी से ख़राब हुई फोटो",
+   "for": "All",
+   "text": "This old photo has water damage with patches, spots and smudged areas. Carefully repair the damaged parts so they blend with the rest of the photo, remove spots and stains, restore lost contrast, and keep everything else exactly as in the original. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "h2",
+   "id": "colour",
+   "text": "ब्लैक एंड वाइट फोटो को रंगीन बनाने वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "नैचुरल कलर (ब्लैक एंड वाइट से)",
+   "for": "All",
+   "text": "Colorize this black-and-white photo with natural, realistic colours: natural Indian skin tones, true-to-life hair colour, soft muted colours for clothes and background as they would look in a real photograph from that time. No oversaturated or neon colours. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "शादी की पुरानी फोटो रंगीन करें",
+   "for": "Couple",
+   "text": "Restore and colorize this old Indian wedding photograph. Remove scratches and fold lines, then add realistic colours: a red or maroon bridal saree with gold border, a cream or white outfit for the groom, gold jewellery, natural skin tones and soft warm light. Keep the pose, flower garlands and background as in the original. Keep the face, features and expression exactly identical to the original photo.",
+   "tip": "साड़ी या कपड़ों का असली रंग पता हो तो प्रॉम्प्ट में वही रंग लिख दें।"
+  },
+  {
+   "type": "prompt",
+   "title": "सेपिया से हल्का रंगीन",
+   "for": "All",
+   "text": "Convert this sepia-toned old portrait into a gently coloured photograph while keeping a slight vintage warmth. Natural skin tone, soft colours in the clothes, light film grain, and remove spots and scratches. Keep the framing and background unchanged. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "आर्मी / यूनिफ़ॉर्म वाली पुरानी फोटो",
+   "for": "Boys",
+   "text": "Restore and colorize this old portrait of a man in uniform. Remove damage and scratches, sharpen the details of the uniform, badges and cap, and add realistic muted colours true to an old service uniform. Keep the background and pose exactly as in the original. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "h2",
+   "id": "family",
+   "text": "फैमिली और ग्रुप की पुरानी फोटो"
+  },
+  {
+   "type": "prompt",
+   "title": "दादा-दादी की फोटो",
+   "for": "Family",
+   "text": "Restore this old portrait of an elderly couple. Remove scratches, dust and creases, improve sharpness and contrast, and keep their natural wrinkles, grey hair and age exactly as they are. Do not make them look younger. Keep the original clothes and background. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी ग्रुप / स्कूल फोटो",
+   "for": "Family",
+   "text": "Restore this old group photograph. Remove scratches, stains and fold lines, improve clarity on every face evenly, and keep all people in exactly the same positions with the same number of people. Do not add or remove anyone. Keep the original background. Keep the face, features and expression exactly identical to the original photo.",
+   "tip": "ग्रुप फोटो में छोटे चेहरे ज़्यादा बदल सकते हैं — ज़रूरत हो तो फोटो को 2–3 हिस्सों में क्रॉप करके अलग-अलग रिस्टोर करें।"
+  },
+  {
+   "type": "prompt",
+   "title": "बचपन की पुरानी फोटो",
+   "for": "Kids",
+   "text": "Restore this old childhood photo. Remove spots, scratches and fading, bring back natural colours and soft light, and keep the child's face, expression, clothes and the original background exactly the same. Keep the gentle look of an old family photo. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "h2",
+   "id": "finishing",
+   "text": "फिनिशिंग और फ्रेम वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "HD प्रिंट के लिए तैयार करें",
+   "for": "All",
+   "text": "Restore this old photo for printing: remove all scratches and dust, improve sharpness and detail, balance brightness and contrast, and keep a clean, natural photographic look suitable for a large print. Keep the composition and background unchanged. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पुरानी फोटो फ्रेम के साथ",
+   "for": "All",
+   "text": "Restore this old photo, then place it in a simple dark wooden photo frame hanging on a plain cream wall, with soft natural light from a window. Keep the restored photo inside the frame looking natural and unchanged in composition. Keep the face, features and expression exactly identical to the original photo."
+  },
+  {
+   "type": "prompt",
+   "title": "पहले और बाद (Before–After)",
+   "for": "All",
+   "text": "Create a side-by-side image: on the left, this old photo exactly as it is, and on the right, the same photo restored with scratches removed, contrast improved and natural colours added. Add small labels 'Before' and 'After' at the bottom. Keep the face, features and expression exactly identical to the original photo.",
+   "tip": "शेयर करने के लिए अच्छा — लेबल का टेक्स्ट गलत आए तो बिना लेबल वाली फोटो बनाएं।"
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "पुरानी फोटो रिस्टोर करने के 6 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>अच्छा स्कैन आधी जीत है:</b> टेढ़ी, चमकदार या धुंधली मोबाइल फोटो से AI भी अच्छा रिज़ल्ट नहीं देता। फोटो सीधी और फ्लैश के बिना लें।",
+    "<b>एक बार में एक काम:</b> पहले रिपेयर, फिर रंग, फिर फ्रेम — सब एक साथ मांगने पर चेहरे ज़्यादा बदलते हैं।",
+    "<b>उम्र न बदलवाएं:</b> 'do not make them look younger' लिखने से झुर्रियाँ और असली उम्र बनी रहती है।",
+    "<b>रंग ख़ुद बताएं:</b> साड़ी, पगड़ी या दीवार का असली रंग पता हो तो प्रॉम्प्ट में लिखें, वरना AI अंदाज़ा लगाएगा।",
+    "<b>चेहरा मिलाकर देखें:</b> रिज़ल्ट को ओरिजिनल के बगल में रखकर आँखें, नाक और मुस्कान मिलाएं। फर्क़ लगे तो फिर से बनाएं।",
+    "<b>ओरिजिनल संभालें:</b> असली प्रिंट और उसका स्कैन दोनों रखें — AI वाली फोटो को 'restored' नाम से अलग सेव करें।"
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    "समस्या",
+    "कौन-सा प्रॉम्प्ट"
+   ],
+   "rows": [
+    [
+     "खरोंच, धूल, मोड़",
+     "बेसिक रिस्टोर"
+    ],
+    [
+     "फटे कोने या टेप के निशान",
+     "फटी हुई फोटो जोड़ें"
+    ],
+    [
+     "पीलापन और फीके रंग",
+     "पीली और फीकी फोटो साफ़ करें"
+    ],
+    [
+     "ब्लैक एंड वाइट",
+     "नैचुरल कलर / शादी की फोटो रंगीन करें"
+    ],
+    [
+     "बहुत सारे लोग",
+     "पुरानी ग्रुप / स्कूल फोटो"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "पुराने ज़माने वाला लुक नई फोटो में चाहिए तो <a href='/gemini-ai-photo-prompt-retro-vintage/'>retro vintage AI photo prompts</a> देखें। पूरे परिवार की नई फोटो के लिए <a href='/gemini-ai-photo-prompt-family/'>family AI photo prompts</a> और चेहरा न बदलने की ट्रिक्स के लिए <a href='/gemini-ai-photo-prompt-without-changing-face/'>बिना चेहरा बदले एडिट करने की गाइड</a> पढ़ें।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "ज़रूरी",
+   "html": "सिर्फ़ अपने परिवार की या जिनकी अनुमति हो उन्हीं की फोटो रिस्टोर करें। रिस्टोर की गई फोटो को असली ऐतिहासिक दस्तावेज़ की तरह पेश न करें, और किसी व्यक्ति की नकली या बदली हुई तस्वीर बनाकर शेयर न करें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Old photo restore AI prompt किस ऐप में चलता है?",
+   "a": "Gemini ऐप या gemini.google.com में फोटो अपलोड करके प्रॉम्प्ट पेस्ट करें। ChatGPT और दूसरे इमेज-एडिटिंग AI में भी ये प्रॉम्प्ट्स चलाए जा सकते हैं, पर रिज़ल्ट हर ऐप में थोड़ा अलग आता है।"
+  },
+  {
+   "q": "क्या AI से रिस्टोर की गई फोटो बिल्कुल असली जैसी होती है?",
+   "a": "नहीं, पूरी तरह नहीं। जो हिस्सा मिट चुका है उसे AI अंदाज़े से भरता है और रंगीन करने पर रंग भी अंदाज़ा होते हैं। इसलिए ओरिजिनल फोटो से मिलाकर देखें और ओरिजिनल स्कैन संभालकर रखें।"
+  },
+  {
+   "q": "रिस्टोर करने पर चेहरा बदल जाए तो क्या करें?",
+   "a": "एक बार में सिर्फ़ एक काम मांगें (पहले रिपेयर, फिर रंग), प्रॉम्प्ट के आख़िर वाली चेहरा न बदलने की लाइन न हटाएं और ग्रुप फोटो को छोटे हिस्सों में क्रॉप करके रिस्टोर करें।"
+  },
+  {
+   "q": "ब्लैक एंड वाइट फोटो को रंगीन करने के लिए कौन-सा प्रॉम्प्ट लें?",
+   "a": "पहले 'बेसिक रिस्टोर' चलाएं, फिर 'नैचुरल कलर' प्रॉम्प्ट। कपड़ों या साड़ी का असली रंग पता हो तो वह भी प्रॉम्प्ट में लिख दें।"
+  },
+  {
+   "q": "क्या ये प्रॉम्प्ट्स फ्री हैं?",
+   "a": "हाँ, इस पेज के सभी प्रॉम्प्ट्स कॉपी करने के लिए फ्री हैं। कितनी इमेज बना सकते हैं, यह आपके AI ऐप और अकाउंट की मौजूदा लिमिट पर निर्भर करता है।"
+  }
+ ]
+}

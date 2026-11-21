@@ -1,0 +1,266 @@
+{
+ "slug": "text-se-ai-video-kaise-banaye",
+ "category": "ai-video",
+ "date": "2026-11-21",
+ "title": "Text Se AI Video Kaise Banaye: सिर्फ़ लिखकर मोबाइल से AI वीडियो बनाएं (2026)",
+ "seoTitle": "Text Se AI Video Kaise Banaye? Mobile Se Aasan Tarika (2026)",
+ "description": "Text se AI video kaise banaye — Gemini और Meta AI में सिर्फ़ लिखकर वीडियो बनाने का स्टेप-बाय-स्टेप तरीका, प्रॉम्प्ट फ़ॉर्मूला और 8 कॉपी-पेस्ट प्रॉम्प्ट्स।",
+ "keywords": "text se ai video kaise banaye, text to video ai hindi, likh kar video kaise banaye, ai se video kaise banaye text se, text to video prompt hindi, टेक्स्ट से AI वीडियो",
+ "intro": "न कैमरा, न एक्टर, न एडिटिंग — बस कुछ लाइनें लिखिए और AI उसे कुछ सेकंड की वीडियो में बदल देता है। इसे <b>text to video</b> कहते हैं। इस गाइड में मोबाइल से Gemini और Meta AI में टेक्स्ट से AI वीडियो बनाने का तरीका, अच्छा प्रॉम्प्ट लिखने का आसान फ़ॉर्मूला, 8 कॉपी-पेस्ट प्रॉम्प्ट्स और आम गलतियों का हल है।",
+ "related": [
+  "ai-video-kaise-banaye",
+  "photo-se-ai-video-kaise-banaye",
+  "chatgpt-kaise-use-kare"
+ ],
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kya-hota-hai",
+   "text": "टेक्स्ट से AI वीडियो क्या होता है?"
+  },
+  {
+   "type": "p",
+   "html": "टेक्स्ट से AI वीडियो (text to video) में आप शब्दों में बताते हैं कि वीडियो में क्या दिखना चाहिए — कौन है, क्या कर रहा है, कहाँ है, रोशनी कैसी है और कैमरा कैसे चल रहा है। AI इस विवरण को पढ़कर बिल्कुल नया छोटा क्लिप बनाता है। ज़्यादातर टूल एक बार में कुछ सेकंड का वीडियो बनाते हैं, अक्सर 5–10 सेकंड का।"
+  },
+  {
+   "type": "p",
+   "html": "फोटो से वीडियो में आपकी फोटो पहले से तय होती है और AI सिर्फ़ उसमें हलचल जोड़ता है। टेक्स्ट से वीडियो में सब कुछ AI खुद बनाता है, इसलिए आपका लिखा हुआ जितना साफ़ होगा, नतीजा उतना ही अच्छा आएगा। अपनी फोटो को चलाना है तो <a href='/photo-se-ai-video-kaise-banaye/'>photo se AI video kaise banaye</a> गाइड देखें। AI वीडियो की पूरी बुनियादी जानकारी <a href='/ai-video-kaise-banaye/'>AI video kaise banaye</a> पर है।"
+  },
+  {
+   "type": "h2",
+   "id": "kya-chahiye",
+   "text": "शुरू करने से पहले क्या चाहिए"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "एक स्मार्टफोन और इंटरनेट कनेक्शन — कंप्यूटर ज़रूरी नहीं।",
+    "एक AI टूल जिसमें टेक्स्ट से वीडियो बनाने का विकल्प हो, जैसे <b>Gemini ऐप</b> (वीडियो फीचर) या <b>Meta AI</b> ऐप।",
+    "एक साफ़ आइडिया: वीडियो किस बारे में है और उसे कहाँ डालना है — Reels/Shorts (खड़ा 9:16) या YouTube (लेटा 16:9)।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "kaunsa-tool",
+   "text": "टेक्स्ट से वीडियो के लिए कौन-सा टूल चुनें"
+  },
+  {
+   "type": "table",
+   "head": [
+    "टूल",
+    "किसके लिए अच्छा",
+    "फ्री में?"
+   ],
+   "rows": [
+    [
+     "<b>Google Gemini (Veo)</b>",
+     "रियलिस्टिक सीन, कैमरा मूवमेंट, कई बार आवाज़ के साथ",
+     "मुख्य रूप से पेड प्लान में; फ्री यूज़र्स को कभी-कभी सीमित ट्रायल"
+    ],
+    [
+     "<b>Meta AI ऐप</b>",
+     "छोटे, मज़ेदार और कार्टून-स्टाइल क्लिप",
+     "फ्री में उपलब्ध, लिमिट ऐप में देखें"
+    ]
+   ]
+  },
+  {
+   "type": "note",
+   "html": "AI टूल्स के फीचर, फ्री लिमिट और वीडियो की लंबाई समय-समय पर बदलते रहते हैं, और हर देश या अकाउंट में एक-जैसे नहीं होते। इस्तेमाल से पहले ऐप में अपने अकाउंट की मौजूदा लिमिट ज़रूर देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "gemini-se",
+   "text": "तरीका 1: Gemini में टेक्स्ट से AI वीडियो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर अपने Google अकाउंट से लॉगिन करें।",
+    "चैट बॉक्स के पास वीडियो वाला विकल्प चुनें (यह <b>Video</b> या <b>Veo</b> नाम से दिखता है)। अगर यह विकल्प नहीं दिख रहा, तो आपके अकाउंट में अभी यह फीचर उपलब्ध नहीं है — तरीका 2 आज़माएं।",
+    "नीचे दिया कोई प्रॉम्प्ट कॉपी करके पेस्ट करें, या नीचे वाले फ़ॉर्मूले से अपना प्रॉम्प्ट लिखें, और सेंड करें।",
+    "वीडियो बनने में थोड़ा समय लगता है। तैयार होने पर उसे चलाकर देखें और डाउनलोड करें।",
+    "कुछ बदलना हो तो पूरा प्रॉम्प्ट दोबारा लिखने की जगह सिर्फ़ एक चीज़ बदलें, जैसे रोशनी या कैमरा, और फिर से बनवाएं।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "meta-ai-se",
+   "text": "तरीका 2: Meta AI ऐप से टेक्स्ट से वीडियो"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Meta AI ऐप खोलें और अपने अकाउंट से लॉगिन करें।",
+    "ऐप में वीडियो बनाने वाला विकल्प चुनें या चैट में साफ़ लिखें कि आपको वीडियो चाहिए, जैसे <i>'make a short video of…'</i>।",
+    "छोटा और साफ़ विवरण लिखें — एक सीन, एक काम। बहुत सारी बातें एक साथ लिखने से वीडियो उलझ जाता है।",
+    "रिज़ल्ट पसंद आए तो डाउनलोड करें; न आए तो एक-एक बदलाव के साथ दोबारा बनवाएं।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "formula",
+   "text": "अच्छा टेक्स्ट-टू-वीडियो प्रॉम्प्ट लिखने का फ़ॉर्मूला"
+  },
+  {
+   "type": "p",
+   "html": "हर अच्छे प्रॉम्प्ट में ये 6 हिस्से होते हैं। इन्हें इसी क्रम में अंग्रेज़ी में लिखें, क्योंकि ज़्यादातर वीडियो टूल अंग्रेज़ी निर्देश बेहतर समझते हैं:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "हिस्सा",
+    "क्या लिखें",
+    "उदाहरण"
+   ],
+   "rows": [
+    [
+     "1. स्टाइल",
+     "वीडियो कैसा दिखे",
+     "a cinematic 8-second video / a cute 3D cartoon video"
+    ],
+    [
+     "2. कौन / क्या",
+     "मुख्य किरदार या चीज़",
+     "an old man with a white beard"
+    ],
+    [
+     "3. क्या कर रहा है",
+     "एक साफ़ काम",
+     "feeding pigeons and smiling"
+    ],
+    [
+     "4. कहाँ और कब",
+     "जगह और समय",
+     "at a ghat in Varanasi at sunrise"
+    ],
+    [
+     "5. कैमरा",
+     "शॉट और हलचल",
+     "slow camera push-in, low angle"
+    ],
+    [
+     "6. मूड और साइज़",
+     "रोशनी, रंग, फ़ॉर्मेट",
+     "warm golden light, calm mood, vertical 9:16"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "सब जोड़ने पर प्रॉम्प्ट बनता है: <i>'A cinematic 8-second video of an old man with a white beard feeding pigeons and smiling at a ghat in Varanasi at sunrise, slow camera push-in, warm golden light, calm mood, vertical 9:16.'</i> हिंदी में आइडिया सोचें, फिर <a href='/chatgpt-kaise-use-kare/'>ChatGPT</a> या Gemini से कहें — <i>'इस आइडिया का अंग्रेज़ी वीडियो प्रॉम्प्ट लिखो'</i>।"
+  },
+  {
+   "type": "h2",
+   "id": "prompts",
+   "text": "टेक्स्ट से AI वीडियो के 8 कॉपी-पेस्ट प्रॉम्प्ट्स"
+  },
+  {
+   "type": "p",
+   "html": "इन प्रॉम्प्ट्स में किसी असली व्यक्ति का नाम नहीं है — सारे किरदार काल्पनिक हैं। अपनी ज़रूरत के हिसाब से जगह, रंग या लंबाई बदल लें।"
+  },
+  {
+   "type": "prompt",
+   "title": "पहाड़ों में सुबह",
+   "for": "Nature",
+   "text": "A cinematic 8-second video of snow-covered Himalayan mountains at sunrise, soft clouds drifting through the valley, a small wooden house with smoke rising from the chimney, birds flying across the golden sky, slow aerial drone shot moving forward, peaceful mood, 16:9."
+  },
+  {
+   "type": "prompt",
+   "title": "मोटिवेशनल रनर",
+   "for": "Motivation",
+   "text": "A cinematic 8-second video of a young Indian woman running up stadium stairs early in the morning, determined expression, breath visible in the cold air, sunrise behind her, low-angle tracking shot, slow motion at the top step, inspiring mood, vertical 9:16."
+  },
+  {
+   "type": "prompt",
+   "title": "कार्टून शेर की कहानी",
+   "for": "Kids",
+   "text": "A cute 3D cartoon style 8-second video of a friendly baby lion cub in a bright green jungle, chasing a colourful butterfly and tripping over a leaf, then laughing, cheerful colours, soft lighting, playful background music feel, 16:9.",
+   "tip": "बच्चों की कहानी वाले चैनल के लिए हर सीन का अलग प्रॉम्प्ट बनाएं और क्लिप्स को जोड़ें।"
+  },
+  {
+   "type": "prompt",
+   "title": "बाज़ार की रौनक",
+   "for": "Travel",
+   "text": "An 8-second handheld video walking through a busy Indian night market, colourful lights, stalls selling bangles and street food, steam rising from a tawa, people smiling and talking, natural sounds of the crowd, warm vibrant colours, vertical 9:16."
+  },
+  {
+   "type": "prompt",
+   "title": "प्रोडक्ट शॉट (बिज़नेस)",
+   "for": "Business",
+   "text": "A clean 6-second product video of a glass bottle of homemade mango pickle rotating slowly on a wooden table, fresh green mangoes and red chillies around it, soft studio lighting, shallow depth of field, slow orbit camera, premium advertising look, square 1:1.",
+   "tip": "अपने प्रोडक्ट का नाम और पहचान बाद में वीडियो एडिटर में जोड़ें; AI से लिखा टेक्स्ट अक्सर गलत आता है।"
+  },
+  {
+   "type": "prompt",
+   "title": "बारिश वाली खिड़की",
+   "for": "Mood",
+   "text": "A calm 8-second video of rain falling on a window at night, blurred city lights outside, a cup of hot chai with steam on the windowsill, soft lo-fi mood, static camera with very slight focus shift, cool blue and warm orange tones, vertical 9:16."
+  },
+  {
+   "type": "prompt",
+   "title": "अंतरिक्ष में रॉकेट",
+   "for": "Science",
+   "text": "A cinematic 8-second video of a rocket launching from a coastal launch pad at dawn, huge clouds of smoke and fire, the rocket rising into a clear orange sky, camera tilting up to follow it, epic and inspiring mood, 16:9."
+  },
+  {
+   "type": "prompt",
+   "title": "फ़ेस्टिवल विश वीडियो",
+   "for": "Festival",
+   "text": "A warm 8-second video of a beautifully decorated Indian home entrance at night, rows of glowing diyas, a colourful rangoli on the floor, marigold garlands on the door, soft sparkles floating in the air, slow camera push-in towards the door, festive and joyful mood, vertical 9:16.",
+   "tip": "त्योहार के और विश-वीडियो प्रॉम्प्ट्स <a href='/diwali-ai-video-kaise-banaye/'>Diwali AI video</a> गाइड में हैं।"
+  },
+  {
+   "type": "h2",
+   "id": "galtiyan",
+   "text": "आम गलतियाँ और उनका हल"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>वीडियो उलझा हुआ आया:</b> एक प्रॉम्प्ट में एक ही सीन और एक ही काम लिखें। 'वह दौड़ता है, फिर नाचता है, फिर गाड़ी चलाता है' जैसी कहानी एक क्लिप में नहीं बनती।",
+    "<b>हाथ, उँगलियाँ या चेहरे अजीब:</b> हलचल कम रखें, किरदारों की संख्या कम करें और 'realistic, natural movement' जोड़ें।",
+    "<b>वीडियो में लिखा टेक्स्ट गलत:</b> AI अक्सर अक्षर बिगाड़ देता है। नाम, शुभकामना या दाम बाद में किसी वीडियो एडिटर ऐप में जोड़ें।",
+    "<b>गलत साइज़:</b> Reels/Shorts के लिए 'vertical 9:16' और YouTube के लिए '16:9' प्रॉम्प्ट में साफ़ लिखें।",
+    "<b>हर बार अलग किरदार:</b> कई क्लिप में एक ही किरदार चाहिए तो उसका विवरण (उम्र, कपड़े, बाल, रंग) हर प्रॉम्प्ट में शब्दशः एक-जैसा रखें।"
+   ]
+  },
+  {
+   "type": "h2",
+   "id": "lamba-video",
+   "text": "छोटे क्लिप से लंबा वीडियो कैसे बनाएं"
+  },
+  {
+   "type": "p",
+   "html": "एक क्लिप कुछ सेकंड का ही होता है, इसलिए 30 सेकंड या 1 मिनट का वीडियो बनाने के लिए कहानी को सीन में बांटें। ChatGPT या Gemini से कहें: <i>'इस आइडिया को 6 सीन में बांटो और हर सीन का अंग्रेज़ी वीडियो प्रॉम्प्ट दो, किरदार का विवरण हर सीन में एक-जैसा रखो।'</i> फिर हर सीन का क्लिप बनाएं और किसी वीडियो एडिटर में क्रम से जोड़कर आवाज़, म्यूज़िक और टेक्स्ट डालें। पूरा तरीका <a href='/ai-video-kaise-banaye/#tarika-3-story'>कहानी वाला लंबा AI वीडियो</a> सेक्शन में है।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "ज़रूरी",
+   "html": "किसी असली व्यक्ति, नेता या सेलिब्रिटी का नाम डालकर नकली वीडियो (deepfake) बनाना या शेयर करना गलत है और गैरकानूनी हो सकता है। सिर्फ़ काल्पनिक किरदार इस्तेमाल करें। YouTube जैसे प्लेटफ़ॉर्म पर रियलिस्टिक AI वीडियो अपलोड करते समय AI/altered content वाला लेबल ज़रूर लगाएं।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Text se AI video kaise banaye, सबसे आसान तरीका क्या है?",
+   "a": "Gemini ऐप या Meta AI ऐप खोलें, वीडियो वाला विकल्प चुनें, इस पेज से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें। कुछ सेकंड से कुछ मिनट में छोटा वीडियो बन जाता है, जिसे डाउनलोड कर सकते हैं।"
+  },
+  {
+   "q": "क्या टेक्स्ट से AI वीडियो फ्री में बन सकता है?",
+   "a": "Meta AI ऐप में फ्री में छोटे वीडियो बनाए जा सकते हैं। Gemini का वीडियो फीचर मुख्य रूप से पेड प्लान में है, पर Google कभी-कभी फ्री यूज़र्स को सीमित ट्रायल देता है। मौजूदा लिमिट ऐप में ही देखें।"
+  },
+  {
+   "q": "क्या प्रॉम्प्ट हिंदी में लिख सकते हैं?",
+   "a": "कई टूल हिंदी समझ लेते हैं, पर अंग्रेज़ी प्रॉम्प्ट से आमतौर पर ज़्यादा सटीक वीडियो बनता है। आइडिया हिंदी में सोचें और ChatGPT या Gemini से उसका अंग्रेज़ी प्रॉम्प्ट लिखवा लें।"
+  },
+  {
+   "q": "टेक्स्ट से बना AI वीडियो कितना लंबा होता है?",
+   "a": "ज़्यादातर टूल एक बार में कुछ सेकंड का क्लिप बनाते हैं, अक्सर 5–10 सेकंड। लंबा वीडियो चाहिए तो कई क्लिप बनाकर किसी वीडियो एडिटर में जोड़ें।"
+  },
+  {
+   "q": "क्या AI से बना वीडियो YouTube पर डाल सकते हैं?",
+   "a": "हाँ, अगर उसमें किसी असली व्यक्ति की नकल या किसी और का कॉपीराइट वाला कंटेंट नहीं है। रियलिस्टिक AI वीडियो डालते समय YouTube के AI/altered content वाले लेबल का इस्तेमाल करें और प्लेटफ़ॉर्म के नियम पढ़ें।"
+  }
+ ]
+}

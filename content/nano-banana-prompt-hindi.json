@@ -214,7 +214,7 @@
   },
   {
    "type": "p",
-   "html": "और एडिटिंग आइडिया के लिए हमारा <a href='/ai-photo-editing-prompts/'>Google Gemini AI photo editing prompts</a> पेज देखें। सिर्फ़ बैकग्राउंड बदलना है तो <a href='/gemini-ai-photo-prompt-background-change/'>बैकग्राउंड चेंज प्रॉम्प्ट्स</a>, और पुराने ज़माने वाले लुक के लिए <a href='/gemini-ai-photo-prompt-retro-vintage/'>रेट्रो विंटेज प्रॉम्प्ट्स</a> हैं। एडिट की हुई फोटो का साइज़ कम करना हो तो हमारे फ्री <a href='/tools/'>फोटो टूल्स</a> इस्तेमाल करें।"
+   "html": "और एडिटिंग आइडिया के लिए हमारा <a href='/ai-photo-editing-prompts/'>Google Gemini AI photo editing prompts</a> पेज देखें। सिर्फ़ बैकग्राउंड बदलना है तो <a href='/gemini-ai-photo-prompt-background-change/'>बैकग्राउंड चेंज प्रॉम्प्ट्स</a>, और पुराने ज़माने वाले लुक के लिए <a href='/gemini-ai-photo-prompt-retro-vintage/'>रेट्रो विंटेज प्रॉम्प्ट्स</a> हैं। एडिट की हुई फोटो का साइज़ कम करना हो तो हमारे फ्री <a href='/tools/'>फोटो टूल्स</a> इस्तेमाल करें। अपनी फोटो को 3D खिलौने या कार्टून में बदलना हो तो <a href='/gemini-ai-photo-prompt-3d-figure/'>3D AI photo editing prompts</a> देखें।"
   }
  ],
  "faq": [
@@ -238,5 +238,6 @@
    "q": "क्या हिंदी में प्रॉम्प्ट लिख सकते हैं?",
    "a": "हाँ, Gemini हिंदी निर्देश समझता है। छोटे फॉलो-अप जैसे 'बैकग्राउंड नीला कर दो' हिंदी में ठीक चलते हैं; लंबे स्टाइल वाले प्रॉम्प्ट अंग्रेज़ी में अक्सर ज़्यादा सटीक रिज़ल्ट देते हैं।"
   }
- ]
+ ],
+ "updated": "2026-11-21"
 }

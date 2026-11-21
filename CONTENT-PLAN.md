@@ -53,7 +53,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - [x] childrens-day-ai-photo-prompts — 14 Nov (verified: drikpanchang, Wikipedia; Saturday) (2026-10-23)
 - [x] birthday-ai-photo-prompts (2026-11-19)
 - [x] ai-se-ppt-kaise-banaye (2026-11-13)
-- [ ] text-se-ai-video-kaise-banaye
+- [x] text-se-ai-video-kaise-banaye (2026-11-21)
 
 ## Week 4 (12–18 Nov)
 - [x] wedding-ai-photo-prompts — wedding season (2026-11-14)
@@ -61,7 +61,7 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - [ ] chatgpt-vs-gemini-hindi
 - [ ] ai-se-resume-kaise-banaye
 - [ ] ai-tools-for-students-hindi
-- [ ] gemini-ai-photo-prompt-3d-figure (viral figurine trend)
+- [x] gemini-ai-photo-prompt-3d-figure (viral figurine trend) (2026-11-21)
 
 ## Week 5 (19–25 Nov)
 - [x] winter-ai-photo-prompts (2026-11-18)
@@ -126,3 +126,4 @@ Festival dates verified 25 Oct: Diwali 8 Nov, Chhath main day 15 Nov, Tulsi Viva
 - 2026-11-18: +2 posts (winter-ai-photo-prompts — 16 prompts; photo-se-ai-video-kaise-banaye — guide + 10 photo-to-video prompts; both carried over from 17 Nov); links: Christmas page → winter, AI video guide → photo se video. gemini-ai-photo-prompt-baby-kids and birthday-ai-photo-prompts deferred to 19 Nov by the 2/day cap. GSC still not connected.
 - 2026-11-19: +2 posts (gemini-ai-photo-prompt-baby-kids — 16 prompts incl. child-photo safety note; birthday-ai-photo-prompts — 17 prompts + NAME/AGE placeholders; both carried over from 18 Nov); links: family page → baby-kids, AI photo editing pillar → birthday + baby-kids. old-photo-restore-ai-prompt and gemini-ai-photo-prompt-bike-car deferred to 20 Nov by the 2/day cap. GSC still not connected.
 - 2026-11-20: +2 posts (old-photo-restore-ai-prompt — 15 restore/colourise prompts + AI-guesswork note; gemini-ai-photo-prompt-bike-car — 16 bike/car prompts, no brand names or logos, helmet/safety note; both carried over from 19 Nov); links: retro-vintage page → old photo restore, for-boy page → bike-car. gemini-ai-photo-prompt-3d-figure and text-se-ai-video-kaise-banaye deferred to 21 Nov by the 2/day cap. GSC still not connected.
+- 2026-11-21: +2 posts (gemini-ai-photo-prompt-3d-figure — 16 figurine/3D cartoon/clay/miniature/poster prompts, trend badge, no toy-brand or studio names; text-se-ai-video-kaise-banaye — text-to-video guide with 6-part prompt formula and 8 prompts, fictional characters only; both carried over from 20 Nov); links: nano-banana page → 3D figure, ai-video-kaise-banaye → text-se guide. gemini-kaise-use-kare and gemini-ai-photo-prompt-sad-attitude deferred to 22 Nov by the 2/day cap. GSC still not connected.

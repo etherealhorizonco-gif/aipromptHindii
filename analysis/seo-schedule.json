@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "cadence": "2 posts/day, published by the daily scheduled run at 06:47 IST",
  "rules": [
   "Festival pages go live 3–5 weeks (21–35 days) before the festival; never later than 10 days; verify dates with 2 sources",
@@ -252,7 +252,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Autocomplete: 3d, 3d model, trending 3d free (Ubersuggest IN, 10 Nov 2026). Deferred 20 Nov by the 2/day cap (overdue 19 Nov rows went first); picks up as overdue on 21 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-21",
+   "url": "https://aiprompthindii.netlify.app/gemini-ai-photo-prompt-3d-figure/"
   },
   {
    "date": "2026-11-20",
@@ -263,7 +265,9 @@
    "sd": null,
    "priority": "P2",
    "reason": "Video cluster expansion. Deferred 20 Nov by the 2/day cap (overdue 19 Nov rows went first); picks up as overdue on 21 Nov.",
-   "status": "scheduled"
+   "status": "published",
+   "published_date": "2026-11-21",
+   "url": "https://aiprompthindii.netlify.app/text-se-ai-video-kaise-banaye/"
   },
   {
    "date": "2026-11-21",
@@ -273,7 +277,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Hub support page; 'google gemini ai photo editing prompts how to use' autocomplete.",
+   "reason": "Hub support page; 'google gemini ai photo editing prompts how to use' autocomplete. Deferred 21 Nov by the 2/day cap (overdue 20 Nov rows went first); picks up as overdue on 22 Nov.",
    "status": "scheduled"
   },
   {
@@ -284,7 +288,7 @@
    "volume": null,
    "sd": null,
    "priority": "P2",
-   "reason": "Autocomplete: sad, sad boy, sad love, attitude (Ubersuggest IN, 10 Nov 2026).",
+   "reason": "Autocomplete: sad, sad boy, sad love, attitude (Ubersuggest IN, 10 Nov 2026). Deferred 21 Nov by the 2/day cap (overdue 20 Nov rows went first); picks up as overdue on 22 Nov.",
    "status": "scheduled"
   },
   {

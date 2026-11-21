@@ -1,0 +1,233 @@
+{
+ "slug": "gemini-ai-photo-prompt-3d-figure",
+ "category": "ai-photo-prompts",
+ "date": "2026-11-21",
+ "title": "3D AI Photo Editing Prompts: 16 फिगरिन, 3D कार्टून और मिनिएचर प्रॉम्प्ट्स (Gemini Copy Paste)",
+ "seoTitle": "3D AI Photo Editing Prompts – 16 Figurine & Cartoon (Gemini)",
+ "description": "3D AI photo editing prompts — Gemini से अपनी फोटो को 3D फिगरिन, क्यूट 3D कार्टून, मिनिएचर और 3D पोस्टर में बदलें। 16 कॉपी पेस्ट प्रॉम्प्ट्स, चेहरा वही।",
+ "keywords": "3d ai photo editing prompts, gemini ai photo prompt 3d figure, 3d figurine ai prompt, 3d model ai photo prompt, trending 3d ai photo prompt free, 3d cartoon ai photo prompt, 3D AI फोटो प्रॉम्प्ट",
+ "intro": "अपनी फोटो को टेबल पर रखे छोटे 3D खिलौने, क्यूट 3D कार्टून कैरेक्टर या मिनिएचर दुनिया में बदलना इंस्टाग्राम के सबसे वायरल AI ट्रेंड्स में से है। नीचे <b>16 3D AI photo editing prompts</b> हैं — डेस्क फिगरिन, कलेक्टिबल बॉक्स, 3D कार्टून, क्ले मॉडल, मिनिएचर और 3D पोस्टर। सब फ्री हैं, Gemini में कॉपी-पेस्ट करके इस्तेमाल करें, और हर प्रॉम्प्ट के आख़िर में चेहरा न बदलने वाली लाइन पहले से जुड़ी है।",
+ "related": [
+  "nano-banana-prompt-hindi",
+  "gemini-ai-photo-prompt-trending-2026",
+  "gemini-ai-photo-prompt-baby-kids"
+ ],
+ "trend": true,
+ "blocks": [
+  {
+   "type": "h2",
+   "id": "kaise-use-kare",
+   "text": "3D AI फोटो कैसे बनाएं"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<b>Gemini ऐप</b> खोलें या <b>gemini.google.com</b> पर Google अकाउंट से लॉगिन करें। ChatGPT जैसा कोई दूसरा इमेज-एडिटिंग AI भी चलेगा।",
+    "<b>+</b> बटन से अपनी एक साफ़ फोटो अपलोड करें — पूरी लंबाई वाली फोटो फिगरिन के लिए सबसे अच्छी रहती है, क्योंकि खिलौने में पूरा शरीर दिखता है।",
+    "नीचे से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें।",
+    "रिज़ल्ट में छोटा बदलाव चाहिए तो उसी चैट में लिखें, जैसे <i>'make the base round and wooden'</i> या <i>'change the box colour to blue'</i>।"
+   ]
+  },
+  {
+   "type": "note",
+   "title": "टिप",
+   "html": "Gemini के इमेज मॉडल को लोग <b>Nano Banana</b> नाम से जानते हैं — 3D फिगरिन ट्रेंड उसी से शुरू हुआ। इसकी पूरी गाइड <a href='/nano-banana-prompt-hindi/'>Nano Banana prompt Hindi</a> पर है। प्रॉम्प्ट्स में किसी खिलौना कंपनी या फ़िल्म स्टूडियो का नाम नहीं लिखा गया है, ताकि फोटो पर किसी का ट्रेडमार्क न आए।"
+  },
+  {
+   "type": "h2",
+   "id": "figurine",
+   "text": "3D फिगरिन (डेस्क टॉय) प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "कंप्यूटर डेस्क पर 3D फिगरिन",
+   "for": "All",
+   "text": "Create a 1/7 scale commercialized collectible figurine of the person in this photo, in a realistic style, standing on a round transparent acrylic base with no text. The figurine is placed on a computer desk in a cozy room, next to a keyboard and a coffee mug, with the computer screen in the background showing the 3D modelling of the same figurine. Soft natural window light, realistic product photography. Keep the face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "यही सबसे वायरल वाला लुक है। स्क्रीन वाला हिस्सा गड़बड़ आए तो 'remove the computer screen' लिखें।"
+  },
+  {
+   "type": "prompt",
+   "title": "कलेक्टिबल बॉक्स के साथ",
+   "for": "All",
+   "text": "Create a realistic 1/7 scale collectible figurine of the person in this photo standing on a clear round base on a wooden table. Next to the figurine, place a colourful toy packaging box with a clear window that shows the same figure inside, with a generic design and no brand name or logo. Warm indoor light, sharp focus, realistic product photo. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "हाथ में पकड़ी हुई मिनी फिगर",
+   "for": "All",
+   "text": "Show a close-up photo of a hand holding a small, detailed 3D figurine of the person in this photo, about 10 cm tall, painted realistically with the same clothes and hairstyle. Blurred cozy room in the background, soft daylight, shallow depth of field, realistic macro photography. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "शेल्फ़ पर कलेक्शन",
+   "for": "All",
+   "text": "Create a realistic photo of a glass display shelf with three small collectible figurines of the person in this photo in three different poses and outfits: casual, traditional Indian wear and sportswear. Each figure stands on a small round base. Soft LED shelf lighting, clean modern room, realistic product photography. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "ट्रेडिशनल लुक वाली फिगरिन",
+   "for": "Girls",
+   "text": "Create a realistic 1/7 scale collectible figurine of the woman in this photo wearing a red silk saree with gold border, gold jhumkas and a small bindi, standing gracefully on a round wooden base. The figurine is placed on a study table with a small brass diya and marigold flowers beside it. Warm soft light, realistic product photo. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "स्टाइलिश लड़के की फिगरिन",
+   "for": "Boys",
+   "text": "Create a realistic 1/7 scale collectible figurine of the man in this photo wearing a black leather jacket, white T-shirt, dark jeans and sneakers, one hand in pocket, standing on a matte black round base. Placed on a desk next to headphones and a smartphone, cool evening light, realistic product photography. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "cartoon",
+   "text": "3D कार्टून कैरेक्टर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "क्यूट 3D कार्टून कैरेक्टर",
+   "for": "All",
+   "text": "Turn the person in this photo into a cute 3D animated cartoon character with big expressive eyes, soft rounded features and smooth stylised skin, wearing the same clothes and hairstyle, standing in a colourful sunny park. Bright cheerful colours, high-quality 3D render, soft shadows. The character should still clearly look like the same person. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून बच्चा",
+   "for": "Kids",
+   "text": "Turn the child in this photo into an adorable 3D animated cartoon character with big shining eyes and a happy smile, wearing the same clothes, sitting on a giant soft teddy bear in a pastel playroom full of toys and balloons. Bright soft lighting, high-quality 3D render. Keep the face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "बच्चों की और फोटो आइडिया के लिए <a href='/gemini-ai-photo-prompt-baby-kids/'>baby & kids AI photo prompts</a> देखें।"
+  },
+  {
+   "type": "prompt",
+   "title": "3D कार्टून कपल",
+   "for": "Couple",
+   "text": "Turn the couple in this photo into cute 3D animated cartoon characters, sitting together on a bench under a tree with fairy lights, smiling at each other, wearing the same clothes. Warm evening colours, soft glow, high-quality 3D render, romantic and playful mood. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D चिबी स्टाइल",
+   "for": "All",
+   "text": "Turn the person in this photo into a chibi-style 3D character with a big head and small body, same hairstyle, clothes and expression, standing on a small floating island of grass with tiny flowers. Pastel sky background, glossy 3D render, soft studio lighting. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "clay-miniature",
+   "text": "क्ले मॉडल और मिनिएचर प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "हाथ से बना क्ले मॉडल",
+   "for": "All",
+   "text": "Turn the person in this photo into a handmade clay model figure with visible clay texture and small fingerprint marks, standing on a wooden craft table with clay tools and small paint pots around it. Warm workshop light, realistic close-up photo. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "मिनिएचर दुनिया (टिल्ट-शिफ़्ट)",
+   "for": "All",
+   "text": "Create a miniature diorama scene where a tiny figurine of the person in this photo is standing on a small model of a busy Indian street with tiny shops, auto-rickshaws and street lights. Tilt-shift photography effect, bright daylight, highly detailed miniature world. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "कप में बैठा मिनी इंसान",
+   "for": "All",
+   "text": "Create a playful photo of a tiny miniature version of the person in this photo sitting on the rim of a big cup of chai on a wooden table, legs hanging over the edge, steam rising from the tea, a plate of biscuits nearby. Soft morning light, macro photography, realistic. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "h2",
+   "id": "poster",
+   "text": "3D पोस्टर और नाम वाले प्रॉम्प्ट्स"
+  },
+  {
+   "type": "prompt",
+   "title": "3D नाम वाला पोस्टर",
+   "for": "All",
+   "text": "Create a 3D render style poster of the person in this photo standing confidently in front of large glossy 3D letters spelling the name 'RAHUL', with soft gradient purple and orange background, floating geometric shapes and studio lighting. High-quality 3D illustration. Keep the face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "'RAHUL' की जगह अपना नाम लिखें। अक्षर गलत आएं तो छोटा नाम लिखें या नाम बाद में किसी फोटो एडिटर ऐप से जोड़ें।"
+  },
+  {
+   "type": "prompt",
+   "title": "3D सोशल मीडिया प्रोफ़ाइल",
+   "for": "All",
+   "text": "Create a 3D render of the person in this photo as a stylised character sitting casually on a giant social media style 'like' heart icon, holding a smartphone, colourful floating emoji and notification icons around, bright pink and blue gradient background, glossy 3D illustration, no app logos. Keep the face, features and skin tone exactly identical to the uploaded photo."
+  },
+  {
+   "type": "prompt",
+   "title": "3D बर्थडे केक टॉपर",
+   "for": "All",
+   "text": "Create a realistic photo of a birthday cake with a small 3D figurine of the person in this photo as the cake topper, standing on top in a party outfit, colourful candles and sprinkles around, balloons in the soft blurred background, warm party lights. Keep the face, features and skin tone exactly identical to the uploaded photo.",
+   "tip": "पूरे बर्थडे सेट के लिए <a href='/birthday-ai-photo-prompts/'>birthday AI photo prompts</a> देखें।"
+  },
+  {
+   "type": "h2",
+   "id": "tips",
+   "text": "3D AI फोटो के लिए 5 टिप्स"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<b>पूरी लंबाई वाली फोटो:</b> फिगरिन में पूरा शरीर दिखता है, इसलिए सिर्फ़ सेल्फ़ी की जगह खड़े होकर ली गई फोटो दें।",
+    "<b>'figurine' और 'cartoon' में फ़र्क:</b> 'realistic figurine' लिखेंगे तो असली दिखता खिलौना बनेगा, '3D animated cartoon' लिखेंगे तो बड़ी आँखों वाला कैरेक्टर।",
+    "<b>बेस और जगह तय करें:</b> transparent base, wooden base, desk या shelf — एक साफ़ जगह लिखने से फोटो प्रोडक्ट-शॉट जैसी लगती है।",
+    "<b>ब्रांड का नाम न लिखें:</b> किसी खिलौना कंपनी या फ़िल्म स्टूडियो का नाम लिखने से लोगो या कॉपीराइट वाली चीज़ें आ सकती हैं। 'generic design, no logo' लिखना बेहतर है।",
+    "<b>एक बार में एक बदलाव:</b> बॉक्स का रंग, बेस या बैकग्राउंड — उसी चैट में एक-एक करके बदलवाएं।"
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    "आपको क्या चाहिए",
+    "प्रॉम्प्ट में ये लिखें"
+   ],
+   "rows": [
+    [
+     "असली खिलौने जैसा",
+     "realistic 1/7 scale collectible figurine, round transparent base"
+    ],
+    [
+     "क्यूट कार्टून",
+     "cute 3D animated cartoon character, big expressive eyes"
+    ],
+    [
+     "हाथ से बना लुक",
+     "handmade clay model, visible clay texture"
+    ],
+    [
+     "छोटी दुनिया",
+     "miniature diorama, tilt-shift photography"
+    ],
+    [
+     "चेहरा न बदले",
+     "Keep the face, features and skin tone exactly identical to the uploaded photo."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "और नए ट्रेंड्स के लिए <a href='/gemini-ai-photo-prompt-trending-2026/'>trending 2026 AI photo prompts</a> देखें। फोटो से छोटा वीडियो बनाना हो तो <a href='/photo-se-ai-video-kaise-banaye/'>photo se AI video kaise banaye</a> गाइड पढ़ें।"
+  },
+  {
+   "type": "note",
+   "tone": "warn",
+   "title": "ज़रूरी",
+   "html": "सिर्फ़ अपनी या जिनकी अनुमति हो उन्हीं की फोटो इस्तेमाल करें। किसी सेलिब्रिटी, नेता या अनजान व्यक्ति की फोटो से फिगरिन या कार्टून बनाकर शेयर न करें। AI से बनी फोटो को असली खिलौने या प्रोडक्ट की तरह बेचने का दावा न करें।"
+  }
+ ],
+ "faq": [
+  {
+   "q": "3D AI photo editing prompts कैसे इस्तेमाल करें?",
+   "a": "Gemini ऐप या gemini.google.com में अपनी साफ़ फोटो अपलोड करें, इस पेज से कोई प्रॉम्प्ट कॉपी करके पेस्ट करें और सेंड करें। ChatGPT जैसे दूसरे इमेज-एडिटिंग AI में भी ये प्रॉम्प्ट्स चल सकते हैं, पर रिज़ल्ट अलग दिख सकता है।"
+  },
+  {
+   "q": "क्या 3D फिगरिन वाली फोटो बनाना फ्री है?",
+   "a": "इस पेज के सभी प्रॉम्प्ट्स फ्री हैं। कितनी इमेज बना सकते हैं, यह आपके AI ऐप और अकाउंट की मौजूदा लिमिट पर निर्भर करता है।"
+  },
+  {
+   "q": "फिगरिन में मेरा चेहरा अलग क्यों आता है?",
+   "a": "छोटे खिलौने में चेहरा छोटा बनता है, इसलिए AI कई बार उसे बदल देता है। सामने से ली गई साफ़ फोटो दें, आख़िर वाली चेहरा न बदलने की लाइन न हटाएं, और ज़रूरत हो तो उसी चैट में 'make the figurine face look exactly like my photo' लिखें।"
+  },
+  {
+   "q": "क्या इस फोटो से असली 3D खिलौना बन सकता है?",
+   "a": "यह सिर्फ़ एक AI इमेज है, असली 3D मॉडल फ़ाइल नहीं। असली खिलौना या 3D प्रिंट बनवाने के लिए किसी 3D मॉडलिंग या प्रिंटिंग सर्विस से अलग से बात करनी होगी।"
+  },
+  {
+   "q": "बॉक्स पर किसी कंपनी का नाम क्यों नहीं है?",
+   "a": "किसी असली कंपनी का नाम या लोगो लगाने से ट्रेडमार्क की दिक्कत हो सकती है और AI अक्सर लोगो गलत बनाता है। बॉक्स पर अपना नाम लिखवाना हो तो प्रॉम्프्ट में 'with the text \"<नाम>\" on the box' जोड़ें।"
+  }
+ ]
+}
